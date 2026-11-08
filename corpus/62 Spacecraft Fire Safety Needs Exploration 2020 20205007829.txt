@@ -1,0 +1,497 @@
+<<<PAGE 1>>>
+Spacecraft Fire Safety Needs 
+Spacecraft Fire Safety Needs 
+for Exploration
+for Exploration
+Gary A. Ruff
+Spacecraft Fire Safety Demonstration Project Manager
+ECLSS Fire Safety Roadmap Coordinator
+NASA John H. Glenn Research Center
+Cleveland, Ohio
+September 25, 2020
+
+<<<PAGE 2>>>
+Operating in the Lunar 
+Vicinity (proving ground)
+After 2030
+Leaving the Earth-Moon System 
+and Reaching  Mars Orbit
+Now
+2020s
+EXPANDING HUMAN PRESENCE IN PARTNERSHIP
+CREATING ECONOMIC OPPORTUNITIES, ADVANCING TECHNOLOGIES, AND ENABLING DISCOVERY
+No matter the mission or the destination, each will present unique fire safety challenges for 
+spacecraft or habitats
+Spacecraft designers and mission operations personnel will (generally) not realize the 
+extent of the fire safety question they need answered until a solution is needed (quickly)
+2
+
+<<<PAGE 3>>>
+Topics
+• Fire Safety Strategy and Risk
+• Review of the Fire Safety Roadmap 
+• Development of Fire Safety Requirements
+• Spacecraft Fire Safety Workshop
+3
+
+<<<PAGE 4>>>
+Spacecraft Fire Safety
+•
+Fire safety in a spacecraft or surface habitat is inherently a risk-based exploration capability
+4
+Fire Safety
+Fire Safety
+Strategy
+Strategy
+Fire
+Fire-
+-proof design
+proof design
+Prevention
+Prevention
+Fire Triangle
+Fire Triangle
+Minimize 
+Minimize ignition 
+ignition 
+m
+mechanisms
+echanisms
+Maximize 
+Maximize good 
+good 
+m
+materials
+aterials
+Utilize 
+Utilize good 
+good 
+p
+practices
+ractices
+What are typical risk statements for exploration missions?
+Mitigation
+Mitigation
+Effective
+Effective
+response
+response
+Early detection
+Early detection
+Recovery
+Recovery
+
+<<<PAGE 5>>>
+Risk Statements for Spacecraft Fire Safety 
+1. Given that flame spread over solid materials is different in normal- and reduced-gravity, there is a 
+possibility that current material screening standards will not adequately identify the fire risk on a 
+spacecraft or habitat. (Test Methods)
+a.
+Material properties
+b.
+Ambient pressure and oxygen mole fractions
+c.
+Material configuration
+d.
+External heat flux
+e.
+External flow direction and velocity
+2. Given that solid fuel ignition is influenced by heat transfer and that heat transfer is strongly 
+influenced by gravity level, there is a possibility that ignitability of a solid material could be 
+influenced by the spacecraft or habitat environment. (Ignition)
+a.
+Ignition energy
+b.
+External pre-heating
+c.
+Ambient pressure and oxygen mole fractions
+5
+
+<<<PAGE 6>>>
+Risks for Fire Safety 
+3.
+Given that the rate of fire growth, driven by convective flow in normal gravity, will be different in 
+reduced gravity, there is a possibility that the conditions inside a vehicle or habitat could quickly 
+become hazardous to the crew and equipment (Fire Growth)
+a.
+Heat release rate
+b.
+Production of smoke and toxic products
+4.
+Given that during an exploration mission, the crew may not be able to evacuate to another vehicle 
+during a fire event, there is a possibility that they will not have the proper personal protective 
+equipment to respond to the fire while confined to that vehicle. (Fire Response)
+5.
+Given that the type and rate of production of pyrolysis combustion products are influenced by 
+ignition and surface temperatures, there is a possibility that the pre-ignition fire signatures for fires 
+in reduced gravity could be different from those in normal gravity. (Fire Detection)
+6
+
+<<<PAGE 7>>>
+Risks for Fire Safety 
+6.
+Given that a fire may propagate in spite of early detection and initial response, there is a 
+possibility that an active fire suppression system will need to be activated. (Fire Suppression)
+a.
+Compatible with the environmental control and life support system
+b.
+Suitable for confined spaces with the crew present
+c.
+Crewed and non-crewed periods
+7.
+Given that the fire mitigations were effective, may allow the mission to continue, there is a 
+possibility that with appropriate clean up that the vehicle could be restored and the mission could 
+continue. (Post-fire Clean-up)
+a.
+Atmospheric contaminants
+b.
+Surfaces
+c.
+Electronics
+d.
+Identification of when cleanup is complete
+7
+
+<<<PAGE 8>>>
+Spacecraft Fire Safety Roadmap
+NASA-GRC has maintained the Spacecraft Fire Safety Roadmap for the past 5 years
+Two years ago, we developed co-coordinators of that roadmap
+
+Stephanie Casper, NASA-JSC
+
+Gary A. Ruff, NASA-GRC
+The reason for having co-coordinators is to increase interaction and awareness about vehicle/program 
+fire safety needs and testing opportunities
+
+Test data are invaluable to validate modeling of fire scenarios
+Since then, we have identified vehicle needs, hardware development, and testing opportunities on the 
+Spacecraft Fire Safety Roadmap…
+
+…in addition to the technology development activities that we have traditionally tracked
+8
+
+<<<PAGE 9>>>
+Spacecraft Fire Safety Roadmap (1 of 3)
+9
+POC(s): Stephanie Casper, Gary Ruff
+Revised: 1/22/2020
+
+<<<PAGE 10>>>
+Facilities for Flammability Studies
+Operations
+2018
+2019
+2023
+2020
+2021
+2022
+E X P L O R A T I O N F I R E S A F E T Y F A C I L I T I E S
+Concept/
+Reqmnts
+Microgravity Combustion 
+Wind Tunnel (NASA)
+CIR/SoFIE (NASA)
+Partial Gravity Drop Tower 
+(NASA)
+Detailed Design 
+Ground Facility Build
+Preliminary Design Study
+z
+Fabrication & Test
+Operations
+Operations (multiple 
+experiments)
+Calendar Year
+Legend
+System Launch
+Decision point
+Expt complete
+Saffire IV-VI (NASA)
+2024
+• Large-scale samples
+• Thick samples
+• Reduced P
+• Elevated O2
+IV
+V
+VI
+• Test 1 size  samples
+• Thick samples
+• Reduced P
+• Elevated O2
+• Test 1 size samples
+• Thick samples
+• 1 atm
+• <21% O2
+CDR
+8/2017
+• Variable-g
+• Thin samples
+• Reduced P
+• Elevated O2
+Operations (multiple experiments)
+Build
+Fabrication
+CDR
+7/2018
+Data 
+Analysis/Pub
+Design
+CDR
+1/2023
+SRR
+6/2021
+Fabrication & Test
+ISS Ops
+Data Analysis/Pub
+FLARE (JAXA)
+• 12 cm long samples
+• Thin samples
+• Reduced P
+• Elevated O2
+
+Data from the Saffire 
+experiments informs and defines 
+testing in MWT and SoFIE
+
+AES would define fire safety test 
+conditions, provide samples, etc. 
+for ISS experiments
+10
+SAR
+9/2023
+PDR
+1/2022
+SAR
+2/2021
+
+<<<PAGE 11>>>
+11
+Spacecraft Fire Safety Roadmap (2 of 3)
+POC(s): Stephanie Casper, Gary Ruff
+Revised: 1/22/2020
+
+<<<PAGE 12>>>
+12
+Spacecraft Fire Safety Roadmap (3 of 3)
+POC(s): Stephanie Casper, Gary Ruff
+Revised: 1/22/2022
+
+<<<PAGE 13>>>
+Evaluation of Future Fire Risks
+As shown in the roadmap, Orion has developed a fire safety strategy that includes fire detection, 
+contingency air monitor, breathing masks, and fire suppression
+HALO, HLS, and Gateway are in the early phases of developing their strategies
+
+Their programs will have to determine if the past solutions are suitable or if their unique mission 
+increases risk requiring a unique solution
+–
+Cost and schedule vs. risk 
+As we push forward into new missions, we get further and further from what we know
+
+Our ability to accurately quantify the risks decreases dramatically
+Examples include:
+
+Partial gravity
+–
+flammability
+–
+detection
+–
+suppression
+
+Elevated oxygen mole fraction and reduced pressures
+
+Dormancy
+13
+
+<<<PAGE 14>>>
+What is the perceived risk for a spacecraft fire? 
+
+Programs that have conducted probabilistic risk assessments have generally rated the fire risk very 
+low
+–
+Depending on assumptions, risk of Loss of Vehicle by a fire could be on the order of 1 in 300,000 to 1 in 
+3,000,000
+To a Program Manager, low probabilities indicate a fire event is very unlikely
+–
+In some cases, there is no real belief that a fire could occur
+
+This drives decisions that impact how a vehicle program addresses the fire risk beginning in the 
+design phase
+–
+Flammability and material control
+–
+Isolation from ignition sources
+–
+Detection
+–
+Suppression
+
+This trend will probably continue unless we provide a clear set of requirements and/or guidelines 
+that all Programs need to follow
+14
+
+<<<PAGE 15>>>
+Determining the Need for Fire Detection and Suppression
+When NASA was developing the ISS (Space Station Freedom, 
+at the time), a flow chart was developed to determine if fire 
+detection and suppression was required based on:
+
+Ignition sources
+
+Material flammability
+
+Presence of forced air flow
+
+Wire derating, …
+The outcome of the flow chart (after two more pages) is 
+whether fire detection and/or suppression is required
+This is now in SSP 50808 which is an interface requirements 
+document for ISS visiting vehicles
+
+Including commercial crew
+However, the flow chart hasn’t changed since it was developed 
+for ISS itself
+
+Questions with applicability of some of the statements
+
+Must try to interpret the intent 
+
+Doesn’t account for new test results and data
+15
+
+<<<PAGE 16>>>
+Fire Suppression Requirements
+How do you qualify a spacecraft fire suppression 
+system? 
+On Earth, there are test fires that you have to 
+demonstrate that your system can extinguish
+
+For spacecraft, what is your likely fire?
+
+How do you account for micro- or partial-gravity?
+For a fixed fire suppression system in a 
+compartment, what suppressant concentration must 
+be reached and how long must it be held there?
+
+For the Saffire-IV PMMA sample, we turned off the 
+flow for 20 seconds
+
+The fire didn’t extinguish and began to grow when we 
+turned the flow back on
+In a spacecraft, suppressant could have been used 
+to “knock down” the fire but wasn’t held at the 
+desired concentration long enough for surface to cool
+Additional focused tests may be required to develop 
+guidance on these questions
+16
+PMMA Sample
+Sample card
+Above: Deflagration as a 
+residual flame ignites MMA 
+vapors on the top and bottom 
+surface
+Right: Decaying flame on 
+the upper surface when 
+the flow is off
+
+<<<PAGE 17>>>
+Typical Fire Suppression Requirements
+Once you determine the need for fire detection or portable/fixed fire suppression, you have to 
+verify it by “analysis, inspection, and demonstration”
+“The verification shall be considered successful when the analysis, inspection, and demonstration show 
+that a fire in the pressurized volume can be detected and suppressed before it can propagate.”
+How this activity is done is mainly left up to the Program
+
+The extent to which it is performed often depends on the Program’s perception of the risk 
+
+As always, safety personnel have to accept the verification but it becomes difficult if the only difference 
+is in the perceived risk
+NASA doesn’t have a clear set of items that must be demonstrated or process that the system 
+developers must perform to “certify” a fire detection or suppression system
+
+This is where you could build in the knowledge of microgravity flammability, detection, and suppression
+
+Make the steps clear, almost like a checklist, where the findings of each step must be reported
+This requirements development activity would be a great help to developers of future spacecraft to 
+define exactly what a fire detection, suppression, and cleanup system should do
+17
+
+<<<PAGE 18>>>
+Fire Safety Workshop for Exploration
+At the last FLARE workshop, I mentioned my desire to conduct a fire safety workshop to identify 
+needs not only in flammability but all aspects of protecting a spacecraft (any spacecraft) from an on-
+board fire 
+We were making some progress in developing the content in Fall 2019 and had started meeting to 
+discuss format, agenda, etc.
+Then COVID-19 came along and we were consumed with learning how to do our normal work from 
+home, Saffire-IV operations, …
+Because of some recent activities we have had with the NASA Engineering Safety Council (NESC), 
+they are pushing to address some of the topics I identified fairly soon
+
+We are re-starting our efforts to plan and conduct  for this workshop 
+It could be held as early as late-November but could be early in 2021
+Intent:
+
+Review existing Gateway and HLS plans for %O2, pressure envelope and monitoring
+
+Identify hardware options, where applicable
+
+Identify knowledge and capability gaps
+
+Identify tests, modeling, analysis required to address those gaps
+
+Update fire safety roadmap and track progress at closing the gaps
+18
+
+<<<PAGE 19>>>
+Back-up
+19
+
+<<<PAGE 20>>>
+National Aeronautics and Space Administration
+Habitable, 
+remote 
+environment, 
+dormancy, 
+partial-g
+Low-g, limited 
+escape (if any), 
+elevated O2, 
+uncertain 
+configuration
+NASA Spacecraft Fire Safety Mitigation
+Goal: Optimize spacecraft fire safety systems to minimize the risks of fire that 
+contribute to loss of system, mission or crew during exploration missions
+Design Reference Missions 
+Hazards
+Risks
+Standards
+Evidence
+Loss of systems, 
+vehicle, and 
+crew; 
+toxic gas and 
+aerosol 
+exposure 
+Differences in low-
+and partial-g 
+flammability, fire 
+detection, and 
+suppression
+Design 
+standards, 
+flight rules, 
+procedures, 
+and 
+equipment 
+specifications
+Deliverables:
+Flammability screening 
+protocols, verified 
+computational models, 
+fire response 
+equipment qualification 
+requirements
+Mitigations

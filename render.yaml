@@ -1,0 +1,10 @@
+# Render "blueprint" — one-click deploy of the FireBot backend.
+services:
+  - type: web
+    name: nasa-firebot
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false   # set this secret in the Render dashboard, never in git

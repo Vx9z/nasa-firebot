@@ -1,0 +1,32 @@
+Chunking corpus...
+  2340 chunks
+  embedding 2340 chunks with Gemini (rate-limited)...
+    embedded 29/2340
+    (rate-limit: sleeping 65s)
+    embedded 50/2340
+    (rate-limit: sleeping 65s)
+    embedded 73/2340
+    (rate-limit: sleeping 65s)
+    embedded 92/2340
+    (rate-limit: sleeping 65s)
+    embedded 115/2340
+    (rate-limit: sleeping 65s)
+    embedded 138/2340
+    (rate-limit: sleeping 65s)
+    embedded 161/2340
+    (rate-limit: sleeping 65s)
+    embedded 184/2340
+    (rate-limit: sleeping 65s)
+    embedded 227/2340
+    (rate-limit: sleeping 65s)
+    embedded 249/2340
+    (rate-limit: sleeping 65s)
+    embedded 275/2340
+    (rate-limit: sleeping 65s)
+    (HTTP 429, retry 1/7 in 38s)
+    (HTTP 429, retry 2/7 in 59s)
+    (HTTP 429, retry 3/7 in 59s)
+    (HTTP 429, retry 4/7 in 59s)
+    (HTTP 429, retry 5/7 in 59s)
+    (HTTP 429, retry 6/7 in 59s)
+    (HTTP 429, retry 7/7 in 59s)

@@ -1,0 +1,2113 @@
+<<<PAGE 1>>>
+NASA
+MICROGRAVITY
+COMBUSTION
+SCIENCE
+PROGRAM
+Merrill
+K. King,
+NASA
+Headquarters,
+Code
+UG,
+Washington,
+DC
+20546
+merrill.king
+@hq.nasa.gov
+_//__
+INTRODUCTION
+Combustion
+has been
+a subject
+of increasingly
+vigorous
+scientific
+research
+for over
+a century,
+not
+surprising
+considering
+that
+combustion
+accounts
+for approximately
+85%
+of the world's
+energy
+production
+and
+is a key element
+of many
+critical
+technologies
+used
+by contemporary
+society.
+Although
+combustion
+technology
+is vital to our
+standard
+of living,
+it also
+poses
+great
+challenges
+to
+maintaining
+a habitable
+environment.
+A major
+goal
+of combustion
+research
+is production
+of
+fundamental
+(foundational)
+knowledge
+that
+can be used
+in developing
+accurate
+simulations
+of
+complex
+combustion
+processes,
+replacing
+current
+"cut-and-try"
+approaches
+and allowing
+developers
+to improve
+the efficiency
+of combustion
+devices,
+to reduce
+the production
+of harmful
+emissions,
+and to reduce
+the incidence
+of accidental
+uncontrolled
+combustion.
+With
+full
+understanding
+of the physics
+and chemistry
+involved
+in a given
+combustion
+process,
+including
+details
+of the unit processes
+and
+their
+interactions,
+physically
+accurate
+models
+which
+can
+then
+be
+used
+for parametric
+exploration
+of new
+combustion
+domains
+via computer
+simulation
+can be
+developed,
+with possible
+resultant
+definition
+of radically
+different
+approaches
+to accomplishment
+of various
+combustion
+goals.
+Effects
+of gravitational
+forces
+on earth
+impede
+combustion
+studies
+more
+than
+they
+impede
+most
+other
+areas
+of science.
+The
+effects
+of buoyancy
+are so ubiquitous
+that
+we often
+do not
+appreciate
+the enormous
+negative
+impact
+that
+they
+have
+had on the rational
+development
+of
+combustion
+science.
+Microgravity
+offers
+potential
+for major
+gains
+in combustion
+science
+understanding
+in that
+it offers
+unique
+capability
+to establish
+the flow
+environment
+rather
+than
+having
+it dominated
+by uncontrollable
+(under
+normal
+gravity)
+buoyancy
+effects
+and,
+through
+this
+control,
+to extend
+the range
+of test
+conditions
+that
+can be studied.
+It cannot
+be emphasized
+too
+strongly
+that
+our program
+is dedicated
+to taking
+advantage
+of microgravity
+to untangle
+complications
+caused
+by gravity,
+allowing
+major
+strides
+in our
+understanding
+of combustion
+processes
+and in subsequent
+development
+of improved
+combustion
+devices
+leading
+to improved
+quality
+of life on Earth.
+Fire
+and/or
+explosion
+events
+aboard
+spacecraft
+could
+be devastating
+to international
+efforts
+to
+expand
+the human
+presence
+in space.
+Testing
+to date
+has
+shown
+that
+ignition
+and flame
+spread
+on
+fuel surfaces
+(e.g.,
+paper,
+wire
+insulation)
+behave
+quite
+differently
+under
+partial
+gravity
+and
+microgravity
+conditions.
+In addition,
+fire signatures--i.e.,
+heat release,
+smoke
+production,
+flame
+visibility,
+and radiation--are
+now
+known
+to be quite
+different
+in reduced
+gravity
+environments;
+this research
+has provided
+data
+to improve
+the effectiveness
+of fire prevention
+practices,
+smoke
+and fire detectors,
+and fire extinguishment
+systems.
+The
+more
+we can
+apply
+our
+scientific
+and
+technological
+understanding
+to potential
+fire behavior
+in microgravity
+and partial
+gravity,
+the more
+assurance
+can
+be given
+to those
+people
+whose
+lives
+depend
+on the environment
+aboard
+spacecraft
+or eventually
+on habitats
+on the Moon
+or Mars.
+3
+
+<<<PAGE 2>>>
+NASA
+MICROGRAVITY
+COMBUSTION
+SCIENCE
+PROGRAM:
+Merrill
+K. King
+CURRENT
+PROGRAM
+Currently,
+NASA's
+Microgravity
+Combustion
+Science
+program
+is supporting
+approximately
+sixty
+ground-based
+studies
+(including
+experimental
+studies
+utilizing
+drop-tower
+facilities
+and/or
+parabolic
+aircraft,
+along
+with
+analytical
+modeling
+efforts)
+and twenty
+projects
+which
+are utilizing
+or are expected
+to utilize
+extended
+duration
+testing
+in microgravity
+afforded
+by space-based
+experiments
+on sounding
+rockets
+or orbiting
+facilities
+(shuttle
+or space
+station).
+These
+studies
+can
+be divided
+into
+seven
+major
+categories:
+premixed
+gas flames;
+gaseous
+diffusion
+flames;
+combustion
+of individual
+fuel droplets,
+clusters
+of droplets,
+and sprays;
+combustion
+of individual
+solid
+particles
+and dust
+clouds;
+flame
+spread
+across
+liquid
+and solid
+fuel surfaces;
+smoldering
+combustion;
+and combustion
+synthesis.
+In addition,
+a number
+of advanced
+diagnostic
+instrumentation
+technologies
+are being
+developed
+for experimental
+microgravity
+studies,
+especially
+in the space
+environment,
+where
+there
+are severe
+constraints
+as regards
+volume,
+mass,
+and power.
+In a recent
+expansion
+of the scope
+of the program,
+we
+are also
+funding
+several
+studies
+whose
+main
+relevance
+lies in the area
+of access
+to space,
+rather
+than
+strictly
+microgravity,
+all
+related
+to spacecraft
+propulsion.
+An overview
+of combustion
+experiments
+performed
+in space
+prior
+to the Microgravity
+Science
+Laboratory-1
+(MSL-1)
+flights
+of April
+and
+July,
+1997
+was presented
+by this author
+and Dr.
+Howard
+Ross
+in the August,
+1998
+issue
+of the AIAA
+Journal
+(Volume
+36, Number
+8).
+Description
+of the experiments
+(Laminar
+Soot
+Processes,
+Structure
+of Flameballs
+at Low
+Lewis
+Numbers,
+and Droplet
+Combustion
+Experiment)
+conducted
+on that
+benchmark
+mission,
+along
+with
+preliminary
+results,
+were
+described
+in three
+accompanying
+articles
+by the investigators.
+Although
+the MSL-1
+mission
+carried
+by far the most
+extensive
+set of space
+combustion
+experiments
+to date,
+the considerable
+earlier
+space
+experimentation
+aimed
+at determining
+the
+effects
+of microgravity
+on combustion
+processes
+included
+experiments
+on candle
+flames,
+combustion
+of fuel droplets
+positioned
+on support
+fibers,
+ignition
+and spread
+of flames
+across
+solid
+fuel surfaces,
+flame
+spread
+across
+liquid
+fuel pools,
+smoldering
+combustion,
+and production
+of soot
+in flames
+as related
+to fire detection.
+These
+experiments
+have
+been
+accompanied
+by
+numerous
+other
+microgravity
+experiments
+- providing
+thousands
+of test
+points
+- performed
+in the
+last
+decade
+in ground-based
+facilities
+such
+as drop
+towers
+and
+low-gravity
+aircraft
+in the United
+States,
+Europe,
+Russia,
+and Japan.
+A complete
+bibliography
+associated
+with
+these
+tests
+may be
+found
+on the Internet
+at http://www.lerc.nasa.gov/Other
+Groups/MCFEP
+To date,
+microgravity
+combustion
+studies
+have
+demonstrated
+major
+differences
+in structures
+of various
+types
+of flames
+from
+those
+seen
+in normal
+gravity.
+Besides
+the practical
+implications
+of these
+results
+to combustion
+efficiency
+(energy
+conservation),
+pollutant
+control
+(environmental
+considerations),
+and flammability
+(fire
+safety),
+these
+studies
+establish
+that
+better
+mechanistic
+understanding
+of individual
+processes
+making
+up the overall
+combustion
+process
+can be obtained
+by comparing
+of results
+gathered
+in microgravity
+with
+normal
+gravity
+tests,
+with potential
+for
+major
+improvements
+in design
+of combustion
+processes
+and hardware
+for use on earth
+as well
+as
+in space.
+Future
+microgravity
+combustion
+experiments
+in space
+will be carried
+out
+mainly
+on the
+International
+Space
+Station
+(ISS)
+either
+in a dedicated
+Combustion
+Integrated
+Rack
+(CIR)
+with
+Experiment
+Unique
+Inserts
+or in the Microgravity
+Science
+Glovebox,
+a major
+upgrade
+from
+the
+Middeck
+Glovebox
+currently
+employed
+on the Shuttle.
+As is the case
+with
+all of the microgravity
+disciplines,
+the ISS
+will offer
+the ability
+to conduct
+a considerably
+larger
+number
+of microgravity
+combustion
+experiments
+per
+year,
+a big advantage
+over
+available
+opportunities
+on the space
+
+<<<PAGE 3>>>
+NASA
+MICROGRAVITY
+COMBUSTION
+SCIENCE
+PROGRAM:
+Merrill
+K. King
+shuttle;
+regular
+access
+to a laboratory
+in space
+should
+bring
+flight-based
+research
+more
+closely
+in
+line with
+experimentation
+done
+on Earth.
+The
+CIR
+performance
+requirement
+is to support
+an
+average
+of 5 typical
+combustion
+experiments
+(with
+many
+data
+points
+being
+obtained
+in each)
+per
+typical
+year
+within
+all known
+on-orbit
+and on-earth
+resource
+limitations,
+including
+budget.
+In
+addition,
+if the limiting
+resources
+are increased,
+the CIR
+shall
+be capable
+of supporting
+up to
+15
+experiments
+per
+year.
+Over
+its life cycle,
+the CIR
+shall be capable
+of supporting
+80 percent
+of the
+combustion
+experiments
+selected
+into
+the flight
+program.
+Since
+CIR
+will be on-orbit
+for the life of
+the ISS,
+up to about
+120 combustion
+experiments
+may
+eventually
+be conducted.
+Central
+to giving
+the CIR
+the required
+flexibility
+is the use of Principal
+Investigator
+(PI)
+unique
+combustion
+experiment
+hardware/software
+to customize
+the CIR
+to fully meet
+the PI's
+requirements.
+The
+CIR
+is scheduled
+for launch
+on UF-3
+in October,
+2002
+and
+will begin
+its scientific
+work
+immediately.
+Seventeen
+combustion
+experiments
+are tentatively
+planned
+during
+the first
+three
+years
+of CIR
+operation.
+Flight
+investigators
+in the NASA
+Microgravity
+Combustion
+Program
+often
+need
+to conduct
+reduced
+gravity
+experiments
+in
+ground-based
+facilities
+during
+the experiment
+definition
+and
+technology
+development
+phases
+of their
+programs;
+in addition,
+the duration
+of microgravity
+time
+available
+in ground-based
+facilities
+is adequate
+for completion
+of many
+studies
+without
+recourse
+to
+a spaceflight
+investigation.
+(Given
+the difference
+in cost,
+it is important
+that
+investigations
+be
+carried
+out
+in ground-based
+facilities
+where
+feasible.)
+The
+NASA
+ground-based
+reduced
+gravity
+research
+facilities
+include
+two
+drop
+towers
+(2.2
+and 5.18
+seconds
+of high-quality
+microgravity
+time)
+at the Lewis
+Research
+Center
+(LeRC)
+and a KC-135
+aircraft
+(20-25
+seconds
+of considerably
+lower
+quality
+microgravity
+time)
+that
+is based
+at JSC
+but
+flies 6-10
+campaigns
+per
+year
+from
+LeRC.
+In addition,
+NASA
+has made
+arrangements
+to use,
+on a cooperative
+basis,
+a Japanese
+dropshaft
+facility
+in Hokkaido
+capable
+of providing
+10 seconds
+of quality
+microgravity
+time.
+HEDS
+ENTERPRISE
+In early
+1994,
+as part
+of an ongoing
+reorganization
+at NASA,
+the agency
+established
+six major
+enterprises,
+later
+reduced
+to four.
+In the current
+organization,
+the Microgravity
+Research
+Division
+of the Office
+of Life and Microgravity
+Sciences
+and Applications
+(OLMSA)
+has become
+part
+of
+the Human
+Exploration
+and Development
+of Space
+(HEDS)
+Enterprise.
+In January,
+1996,
+a
+Strategic
+Plan
+for HEDS
+was put
+into
+place,
+and
+development
+of "roadmaps"
+for the future
+directions
+of activities
+within
+HEDS
+was initiated.
+The
+three
+major
+charges
+of the HEDS
+activities
+are (1) to advance
+and communicate
+scientific
+knowledge
+and
+understanding
+of the
+Earth,
+the solar
+system,
+the universe,
+and
+the environment
+of space
+for research,
+(2) to explore,
+use,
+and enable
+the development
+of space
+for human
+enterprise,
+and (3) to research,
+develop,
+verify,
+and transfer
+advanced
+aeronautics,
+space,
+and related
+technologies.
+While
+basic
+research
+into fundamentals
+is still considered
+to be vitally
+important
+to the program,
+there
+is a major
+shift
+of emphasis
+toward
+"mission-oriented"
+research;
+that
+is, research
+aimed
+at specific
+problems
+in
+combustion
+applications
+on Earth
+as well
+as under
+reduced
+or microgravity
+conditions.
+Thus,
+it is
+important
+that
+firmer
+linkages
+between
+the research
+being
+done
+using
+microgravity
+and
+applications
+to practical
+applications
+on Earth
+(e.g.,
+increased
+efficiency
+of conversion
+of chemical
+energy
+contained
+in fuels
+to useful
+work,
+reduction
+of combustion-generated
+pollutants
+from
+automobile
+engines
+and
+other
+combustors,
+decreased
+fire and explosion
+hazards)
+be established
+for an increasing
+percentage
+of efforts
+funded
+under
+this program.
+In the past,
+we have
+asked
+our
+peer
+reviewers
+to judge
+proposals
+solely
+on scientific
+merit
+and
+microgravity
+relevance;
+for future
+
+<<<PAGE 4>>>
+NASA
+MICROGRAVITY
+COMBUSTION
+SCIENCE
+PROGRAM:
+Merrill
+K. King
+NRA'
+s, we will extend
+the evaluation
+criteria
+to include
+responsiveness
+to specific
+areas
+of
+emphasis
+called
+out
+in these
+NRA's.
+The
+need
+for improved
+understanding
+of combustion
+phenomena
+to enable
+future
+space
+technologies
+and operations
+should
+be recognized
+as one
+of the
+primary
+opportunities
+of the discipline.
+Included
+are development
+of spacecraft
+combustion/propulsion
+systems,
+fire safety,
+use of in-situ
+resources,
+and power
+generation
+in
+extraterrestrial
+environments.
+Examples
+of local
+resource
+utilization-related
+processes
+include
+chemical
+reaction
+engineering
+for production
+of fuels
+and/or
+oxidizers,
+combustion
+of such
+products
+in a reduced-gravity
+environment,
+and fire
+safety
+during
+such
+operations.
+At a HEDS
+Technology
+Workshop
+held
+on August
+5-7,
+1997,
+several
+fire research
+areas
+of interest
+with
+respect
+to a manned
+Mars
+mission
+were
+defined.
+UPCOMING
+MICROGRAVITY
+COMBUSTION
+NASA
+RESEARCH
+ANNOUNCEMENT
+In the Microgravity
+Combustion
+Program
+at NASA,
+investigators
+are selected
+in response
+to a
+NASA
+Research
+Announcement
+(NRA)
+issued
+once
+every
+two
+years
+and are placed
+either
+in the
+Ground-based
+Category
+or in the Flight Definition
+Category.
+At this time,
+it is anticipated
+that an
+NRA
+will be released
+early in the Fall of this year (1999)
+with proposals
+being
+due approximately
+three
+months
+after
+the NRA
+release
+date;
+it is suggested
+that,
+even
+though
+distribution
+of
+postcards
+describing
+how
+to obtain
+the NRA
+will be made
+to an existing
+extensive
+distribution
+list,
+potential
+proposers
+contact
+this
+author
+to ensure
+that they
+are included
+on this list.
+As stated
+in
+NASA's
+Microgravity
+Research
+Program
+Strategic
+Management
+Handbook,
+the Microgravity
+Research
+Program
+mission
+is "to
+use the microgravity
+environment
+of space
+as a tool
+to advance
+knowledge;
+to use
+space
+as a laboratory
+to explore
+the nature
+of physical
+phenomena,
+contributing
+to progress
+in science
+and technology
+on Earth;
+and to study the rote of gravity
+in
+technological
+processes,
+building
+a scientific
+foundation
+for understanding
+the consequences
+of
+gravitational
+environments
+beyond
+Earth's
+boundaries."
+The
+combustion
+science
+program
+seeks
+a
+coordinated
+research
+effort
+involving
+both
+space-
+and ground-based
+research,
+including
+both
+experimental
+and theoretical
+modeling
+efforts.
+Ground-based
+research
+forms
+the foundation
+of
+this program,
+providing
+the necessary
+experimental
+and theoretical
+framework
+for development
+of
+rigorous
+understanding
+of basic
+combustion
+phenomena.
+For proposals
+receiving
+awards
+in the
+Flight
+Definition
+category,
+the programs
+may
+proceed,
+following
+passing
+of a peer-reviewed
+Science
+Concept
+Review
+(SCR)
+and Requirements
+Definition
+Review
+(RDR)
+and acceptance
+of a
+Science
+Requirements
+Document
+(SRD)
+generated
+by the Principal
+Investigator,
+into
+the Flight
+Program.
+NASA
+is currently
+developing
+several
+types
+of flight
+hardware;
+brief
+descriptions
+of the
+planned
+capabilities
+are given
+in another
+paper.
+Experimental
+proposals
+for which
+none
+of the
+existing
+flight
+instruments
+is appropriate
+are also encouraged;
+however,
+it must be pointed
+out
+that
+experiments
+calling
+for facilities
+considerably
+outside
+of these
+envelopes
+will involve
+considerably
+more expense
+to NASA,
+a factor
+which
+must
+be taken
+into consideration
+in funding
+decisions.
+In addition,
+there
+is opportunity
+for Ground-Based
+investigators
+to participate
+as
+"guest"
+investigators
+in Glovebox
+Experiments
+on a Space
+Platform
+based
+on internal
+NASA
+review
+of proposals
+submitted
+in response
+to Glovebox
+Opportunity
+Announcements.
+[More
+details
+on these
+processes
+are available
+from
+the author.]
+Participation
+is open
+to U.S.
+and foreign
+investigators
+and to all categories
+of organizations:
+industry,
+educational
+institutions,
+other
+nonprofit
+organizations,
+NASA
+centers,
+and other
+U.S.
+Government
+agencies.
+Though
+NASA
+welcomes
+proposals
+from
+non-U.S,
+investigators,
+NASA
+does
+not fund
+principal
+investigators
+at
+
+<<<PAGE 5>>>
+NASA
+MICROGRAVITY
+COMBUSTION
+SCIENCE
+PROGRAM:
+Merrill
+K. King
+non-U.S,
+institutions.
+Examination
+of the other
+papers
+included
+in this Workshop
+proceedings
+will provide
+the
+reader
+with
+a good
+idea
+of the current
+scope
+of our
+research
+program.
+However,
+future
+proposals
+are not
+limited
+to these
+topic
+areas;
+extension
+to combustion
+topics
+not
+currently
+included
+in the
+Microgravity
+Combustion
+program
+is strongly
+encouraged
+to help
+us in broadening
+the program
+scope.
+At this
+time,
+the Microgravity
+Combustion
+Science
+Discipline
+Working
+Group
+(external
+advisory
+group)
+is working
+with
+NASA
+personnel
+to develop
+a list of "fundamental
+data
+sets"
+needed
+for better
+understanding
+of basic
+combustion
+processes,
+testing
+of combustion
+models,
+and
+design
+of improved
+practical
+combustion
+devices.
+Included
+in this effort
+is an attempt
+to prioritize
+the resulting
+list in terms
+of both
+utility
+and need
+for microgravity
+in filling
+out
+the data
+set.
+Categories
+of data
+sets
+being
+considered
+include:
+Physico-Chemical
+Constants
+(e.g.,
+thermal
+and
+mass
+diffusivity
+at high
+temperature
+and pressure
+of various
+species
+including
+combustion
+intermediates);
+Fundamental
+Combustion
+Parameters
+which
+are not
+System/Device
+Dependent
+(e.g.,
+laminar
+burning
+velocities,
+extinction
+strain
+rates,
+soot
+inception
+points,
+Markstein
+lengths);
+Classical
+Well-Defined
+Benchmark
+Systems
+for Model
+Validation
+and Calibration
+(e.g.,
+flame
+spread
+rates,
+Burke-Schumann
+flame
+shapes);
+and,
+Emerging
+Topics
+(e.g.,
+spacecraft
+fire safety,
+SHS,
+flame-synthesized
+materials).
+It is anticipated
+that
+at least
+a preliminary
+prioritized
+data
+set
+list will be included
+in the upcoming
+NRA.
+The
+total
+amount
+of funding
+for this program
+is subject
+to the annual
+NASA
+budget
+cycle.
+The
+Government's
+obligation
+to make
+awards
+is contingent
+upon
+the availability
+of appropriated
+funds
+from
+which
+payment
+for
+award
+purposes
+can
+be made
+and the receipt
+of proposals
+which
+the Government
+determines
+to be acceptable
+for an award
+under
+the upcoming
+NRA.
+For
+the
+purposes
+of budget
+planning,
+we have
+assumed
+that
+the Microgravity
+Research
+Division
+(MRD)
+will fund
+0 to 3 flight
+experiment
+definition
+proposals
+from
+the upcoming
+NRA.
+These
+efforts
+are typically
+funded
+at an average
+of $150,000
+to $175,000
+per
+year.
+It is also
+anticipated
+that
+approximately
+15-20
+ground-based
+study
+proposals
+will be funded,
+at an average
+of about
+$80,000
+to $100,000
+per year,
+for up to 4 years.
+Active
+research
+experience
+is one of the most
+effective
+techniques
+for attracting
+talented
+undergraduates
+to and retaining
+them
+in careers
+in mathematics,
+science,
+and engineering;
+accordingly,
+MRD
+is endeavoring
+to foster
+the career
+development
+of undergraduate
+students
+by
+offering
+optional
+supplements
+of approximately
+$5,000
+per
+student
+per year
+to approved
+research
+tasks
+for undergraduate
+student
+research
+projects.
+These
+projects
+should
+involve
+undergraduate
+students
+in a meaningful
+way in ongoing
+research
+programs
+or in related
+sub-projects
+specifically
+designed
+for this purpose.
+The
+principal
+elements
+considered
+in the evaluation
+of proposals
+solicited
+by this NRA
+are:
+relevance
+to NASA's
+objectives,
+intrinsic
+merit,
+and cost.
+Of these,
+intrinsic
+merit
+has the
+greatest
+weight,
+followed
+by relevance
+to NASA's
+objectives,
+of slightly
+lesser
+weight.
+Both
+of
+these
+elements
+have
+greater
+weight
+than
+cost.
+Responding
+to the following
+questions
+should
+be
+kept
+in mind
+by proposers:
+1.
+Is microgravity
+of fundamental
+importance
+to the proposed
+study,
+either
+in terms
+of
+unmasking
+effects
+hidden
+under
+normal
+gravity
+conditions
+or in terms
+of using
+gravity
+level
+as an added
+independent
+parameter?
+2.
+Do the issues
+addressed
+by the research
+have
+the potential
+to close
+major
+gaps
+in the
+understanding
+of fundamentals
+of combustion
+processes?
+
+<<<PAGE 6>>>
+NASA
+MICROGRAVITY
+COMBUSTION
+SCIENCE
+PROGRAM:
+Merrill
+K. King
+3.
+Is there
+potential
+for elucidation
+of previously
+unknown
+phenomena?
+4.
+Is the project
+likely
+to have
+significant
+benefits/applications
+to ground-based
+as well
+as
+space-based
+operations
+involving
+combustion
+processes?
+5.
+Is the project
+technologically
+feasible,
+without
+requirements
+for substantial
+new
+technological
+advances?
+6.
+What
+is the potential
+of this project
+in terms
+of stimulating
+future
+technological
+"spin-
+offs"?
+7.
+Are
+there
+strong,
+well-defined
+linkages
+between
+the research
+and HEDS
+goals
+The
+evaluation
+process
+for the upcoming
+NRA
+will begin
+with a scientific
+and technical
+external
+peer
+review
+of the submitted
+proposals.
+NASA
+will also
+conduct
+an internal
+engineering
+review
+of the potential
+hardware
+requirements
+for proposals
+that
+include
+flight
+experiments.
+The
+external
+peer
+review
+and internal
+engineering
+review
+panels
+will be coordinated
+by the NASA
+Enterprise
+Scientist
+for
+Microgravity
+Combustion
+Science.
+Consideration
+of the programmatic
+objectives
+of this NRA
+will be factored
+in by NASA
+to ensure
+enhancement
+of program
+breadth,
+balance,
+and diversity;
+NASA
+will also
+consider
+the cost
+of the proposal.
+The
+MRD
+Director
+will
+make
+the final selection
+based
+on science
+panel
+evaluations
+and programmatic
+recommendations.
+Upon
+completion
+of all deliberations,
+a selection
+statement
+will be released
+notifying
+each
+proposer
+of proposal
+selection
+or rejection.
+Offerers
+whose
+proposals
+are declined
+will have
+the
+opportunity
+for a verbal
+debriefing
+regarding
+the reasons
+for this decision.
+It is anticipated
+that
+the review
+process
+should
+be complete
+by
+mid-2000,
+with
+awards
+occurring
+in late 2000
+(early
+Fiscal
+Year
+2001 ).

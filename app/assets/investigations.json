@@ -1,0 +1,648 @@
+{
+  "generated": "2026-11-04 14:33:20",
+  "investigations": [
+    {
+      "id": "cfi",
+      "name": "CFI / CFI-G (Cool Flames Investigation)",
+      "papers": [
+        "72",
+        "73"
+      ],
+      "objective": "Investigate and numerically model quasi-steady cool-flame combustion dynamics and extinction behaviors of alkane fuels in microgravity.",
+      "fuels": "n-decane droplets (initial diameter 3.0–4.05 mm), n-heptane (droplet and gaseous source), decane/hexanol mixtures, and binary droplet arrays.",
+      "conditions": "Microgravity/zero gravity, 17%–25% O2 in N2/air, 0.5–1 atm pressure, quiescent air to low-speed airflow (0–10 mm/s).",
+      "variables": "Fuel composition, initial droplet diameter, ambient oxygen concentration, ambient pressure, flow velocity (relative droplet movement), and CO2 dilution.",
+      "sensors": "Wide-band and narrow-band radiometers, modified camera imaging (unfiltered with turned-down backlight), and 2D computational grid simulations (UNICORN code).",
+      "hardware": "Flame Extinguishment Experiment (FLEX) hardware on the International Space Station (ISS) and UNICORN 2D numerical code.",
+      "pillars": [
+        "prevention",
+        "detection",
+        "suppression"
+      ],
+      "crew_relevance": "high",
+      "data_richness": "high",
+      "directness": "direct",
+      "summary": "Microgravity droplet combustion experiments on the ISS revealed that alkane droplets can continue burning in an invisible, low-temperature 'cool flame' regime sustained by negative temperature coefficient chemistry after hot-flame extinction. Theoretical models based on Liñán's partial-burning regime successfully predict cool-flame standoff ratios and burning rates. Numerical simulations further show that low-velocity convective flows induce complex flame dynamics including steady pulsations, local extinction, and potential flash re-ignitions.",
+      "insight": "Microgravity fires can enter a low-temperature cool-flame state that is invisible to standard crew vision, continuing to consume fuel and creating a critical hazard for unexpected flash re-ignition.",
+      "earth_application": "Understanding cool-flame chemical kinetics aids in designing advanced internal combustion engines with low-temperature combustion regimes and mitigating engine knock.",
+      "score": 100,
+      "reasons": [
+        "pillars: detection, prevention, suppression",
+        "crew-env relevance: high",
+        "data richness: high",
+        "directness: direct"
+      ]
+    },
+    {
+      "id": "saffire",
+      "name": "Saffire I-VI (Spacecraft Fire Experiment)",
+      "papers": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "47",
+        "48",
+        "57",
+        "60"
+      ],
+      "objective": "To conduct large-scale material flammability and fire growth experiments in unmanned spacecraft to understand microgravity fire behavior and improve spacecraft fire safety design.",
+      "fuels": "Cotton/fiberglass blend (SIBAL) fabric (40.6 cm x 94 cm or 5 cm x 29/50 cm), silicone sheets (0.25-1.02 mm thick, 5 cm x 30 cm), PMMA slabs (flat and structured, 10 mm thick, 5 cm x 30 cm or 40 cm wide), Nomex fabric, and thin PMMA/Nomex composites.",
+      "conditions": "Microgravity, ambient pressure (~1 atm or reduced pressure), oxygen concentrations ranging from ~17.5% to 22.1% (and higher O2 for Saffire IV/V), and forced airflow ranging from 2 cm/s to 30 cm/s.",
+      "variables": "Oxygen concentration, ambient pressure, airflow velocity, fuel material type, sample thickness, and surface structure (flat vs. grooved).",
+      "sensors": "Video cameras (front and side views), radiometers (flame intensity), thermocouples (embedded and stand-off for temperature and flame position), oxygen sensors, carbon dioxide sensors, carbon monoxide sensors, acid gas sensors (HCl, HF), pressure transducers, and aerosol/smoke detectors.",
+      "hardware": "Saffire Flow Unit (flow duct containing sample card, igniter, and fans), avionics bay, Far Field Diagnostics (FFD), post-fire cleanup systems (scrubbers, smoke eaters), and remote cabin sensors deployed within an unberthed Cygnus resupply vehicle.",
+      "pillars": [
+        "prevention",
+        "detection",
+        "suppression"
+      ],
+      "crew_relevance": "high",
+      "data_richness": "high",
+      "directness": "direct",
+      "summary": "The Saffire (Spacecraft Fire Experiment) series utilizes unmanned Cygnus resupply vehicles after departing the International Space Station to perform large-scale microgravity fire safety tests. These experiments investigate flame spread, flammability limits, heat release rates, and combustion product transport over large solid fuels such as fabrics and thick plastics. Data collected are used to validate numerical fire models and evaluate the adequacy of standard terrestrial material flammability screening tests for space exploration missions.",
+      "insight": "Microgravity flame spread over large charring materials can achieve a steady rate that is strongly influenced by flow duct dimensions and airflow velocity, proving that small-scale terrestrial screening tests do not always capture the full-scale fire risks in space.",
+      "earth_application": "The numerical models and large-scale flammability data developed for Saffire improve fire safety design and risk assessment for confined terrestrial environments such as aircraft, submarines, mines, and tunnels.",
+      "score": 100,
+      "reasons": [
+        "pillars: detection, prevention, suppression",
+        "crew-env relevance: high",
+        "data richness: high",
+        "directness: direct"
+      ]
+    },
+    {
+      "id": "modeling",
+      "name": "Fire Modeling & Prediction",
+      "papers": [
+        "54",
+        "56",
+        "58",
+        "59"
+      ],
+      "objective": "To develop and validate a computational model using PyroSim/FDS of large-scale spacecraft fires and smoke/gas transport inside the Northrop Grumman Cygnus vehicle using data from the Saffire flight experiments.",
+      "fuels": "Cotton/fiberglass blend fabric (SIBAL), Polymethyl methacrylate (PMMA) thick thermoplastic samples, Nomex fabric, and Lithium-ion battery (LIB) fire heat release data; sample sizes are large-scale in microgravity.",
+      "conditions": "Microgravity, closed pressure vessel cabin (Cygnus vehicle roughly 4 meters long by 3 meters in diameter), ambient cabin air inflow, normal spacecraft atmospheric pressure and oxygen conditions.",
+      "variables": "Different solid fuel types (thin cotton vs. thick PMMA), heat addition rates, gas release events (CO2, 5% HCl bottle release), and ECLSS active versus shut-off operational states.",
+      "sensors": "Temperature sensors, CO2 concentration remote sensors (RS), far-field diagnostic (FFD) particle and combustion gas sensors, and flow visualization.",
+      "hardware": "Northrop Grumman Cygnus vehicle, Saffire Flow Unit (SFU) payload, Far Field Diagnostic (FFD) bed of sensors, and PyroSim / Fire Dynamics Simulator (FDS) software.",
+      "pillars": [
+        "prevention",
+        "detection",
+        "suppression"
+      ],
+      "crew_relevance": "high",
+      "data_richness": "high",
+      "directness": "direct",
+      "summary": "Researchers developed and validated a PyroSim/FDS numerical model of large-scale spacecraft fires using empirical data from the Saffire-IV, V, and VI flight experiments conducted inside uncrewed Northrop Grumman Cygnus vehicles. The model successfully predicted temperature increases, CO2 dispersion, and smoke/gas transport throughout the vehicle cabin using calibrated heat transfer coefficients for cargo and trash configurations. Additional simulations evaluated the transport and removal of reactive species like HCl and the thermal impact of more energetic lithium-ion battery fires.",
+      "insight": "Full-scale microgravity fire experiments combined with validated FDS compartment models are essential for accurately predicting heat and combustion product dispersion, demonstrating that active ventilation (ECLSS) critically dictates the atmospheric residence time and surface deposition of hazardous acid gases like HCl.",
+      "earth_application": "Validated compartment fire and toxic gas transport models improve fire safety designs, smoke management, and hazard prediction in enclosed terrestrial environments like submarines, aircraft cabins, and industrial buildings.",
+      "score": 100,
+      "reasons": [
+        "pillars: detection, prevention, suppression",
+        "crew-env relevance: high",
+        "data richness: high",
+        "directness: direct"
+      ]
+    },
+    {
+      "id": "skylab-m479",
+      "name": "Skylab M-479 (Zero-Gravity Flammability)",
+      "papers": [
+        "01"
+      ],
+      "objective": "Investigate the flammability behavior, flame propagation rates, and extinguishment techniques (vacuum venting and water spray) of spacecraft materials under microgravity conditions.",
+      "fuels": "Six engineering materials, including 1-inch square specimens of polyurethane foam, cellulose paper sheets, neoprene-coated nylon fabric, and Teflon fabric.",
+      "conditions": "65% O2 at 5.2 psia, quiescent initial conditions with transient induced flow during venting, microgravity (Skylab 4).",
+      "variables": "Fuel material composition and extinguishment approach (self-extinguishment, vacuum venting, and water spray).",
+      "sensors": "16 mm motion picture camera (24 fps), television video recording, and astronaut voice observations.",
+      "hardware": "Skylab M-479 flammability work chamber featuring viewports, specimen mounting sockets with Nichrome wire igniters, a 1-inch screened overboard vent orifice, and a water spray system.",
+      "pillars": [
+        "prevention",
+        "detection",
+        "suppression"
+      ],
+      "crew_relevance": "high",
+      "data_richness": "medium",
+      "directness": "direct",
+      "summary": "Experiment M-479 conducted 37 material flammability tests aboard Skylab 4 in a 65% oxygen, 5.2 psia environment to evaluate combustion behavior without natural convection. Burning rates were significantly lower than in 1-g, characterized by faint blue spherical flame coronas that were clearly seen by the crew but poorly recorded on photographic film. Extinguishment tests demonstrated that vacuum venting could extinguish burning foam, but the induced airflow caused thin paper specimens to flare up intensely before dying down.",
+      "insight": "Microgravity flames can burn invisibly to standard optical film detection while posing hidden thermal threats, and venting cabin air as a suppression strategy can temporarily accelerate fire growth due to forced flow before starving the flame.",
+      "earth_application": "Provides insights into particulate smoke dynamics and vacuum-assisted flame quenching for sealed industrial process chambers.",
+      "score": 91,
+      "reasons": [
+        "pillars: detection, prevention, suppression",
+        "crew-env relevance: high",
+        "data richness: medium",
+        "directness: direct"
+      ]
+    },
+    {
+      "id": "materials-toxicity",
+      "name": "Materials Flammability & Toxic Products",
+      "papers": [
+        "38",
+        "49",
+        "52",
+        "53",
+        "55",
+        "63"
+      ],
+      "objective": "To investigate the flammability, large-scale flame spread, toxic combustion product generation, and post-fire environmental cleanup of solid and battery materials in microgravity environments (such as via the Saffire flight experiments).",
+      "fuels": "Sibal fabric (75% cellulose, 25% fiberglass, ~40 cm wide by 50 cm long), cotton jersey, PMMA (one-sided, two-sided, structured, 0.5-1 cm thick), Nomex fabric, PVC insulated wires, and Li-ion battery pouch cells (Microsoft Surface Pro, 45 Wh) and cylindrical cells.",
+      "conditions": "Oxygen concentrations ranging from ~19% to 34% (normoxic and elevated O2), pressures from 30 kPa to 100 kPa (approx. 70.7 to 100 kPa in Saffire IV/V), forced airflow from 10 to 20 cm/s, and microgravity (spaceflight/orbital Cygnus cargo vehicle, drop towers, parabolic flights).",
+      "variables": "Oxygen concentration, ambient pressure, flow speed, fuel type, fuel thickness, surface structure (ribs/ridges), and presence of post-fire cleanup scrubbers.",
+      "sensors": "Thermocouples, remote CO2 sensors, acid gas sensors (HF/HCl), Combustion Products Monitor (CPM for CO, CO2, HF, HCl, H2O, O2), DustTrak DRX particulate monitors (PM2.5, PM10), ionization smoke detectors, obscuration units, and broadband two-color pyrometry cameras.",
+      "hardware": "Saffire Flow Unit (SFU), Far-Field Diagnostics (FFD) unit, cast acrylic test cells for acid gas uptake, Accelerating Rate Calorimeter, Cone Calorimeter, Slug Calorimeter, and spacecraft environmental control and life support systems (ECLSS) including Smoke Eater and LiOH CO2 scrubbers.",
+      "pillars": [
+        "prevention",
+        "detection"
+      ],
+      "crew_relevance": "high",
+      "data_richness": "high",
+      "directness": "direct",
+      "summary": "This research analyzes large-scale material flammability, flame spread rates, and toxic combustion product formation (such as CO, CO2, and acid gases like HCl and HF) from burning solids and Li-ion batteries in microgravity using the Saffire flight hardware and ground test facilities. Results demonstrate that microgravity flames lack buoyancy-driven plumes, leading to slower dilution, different soot and temperature characteristics (~1300 K), and unique toxic gas transport behaviors. Furthermore, the studies evaluated the effectiveness of post-fire cleanup systems, particulate/smoke detectors, and predictive material uptake models for spacecraft safety.",
+      "insight": "Because microgravity eliminates buoyancy-driven flow and delays smoke transport to ceiling-mounted detectors, spacecraft fire safety systems must rely on distributed remote gas and particulate sensors paired with active cleanup scrubbers to rapidly remove toxic acid gases and ensure crew survival.",
+      "earth_application": "The models and findings on acid gas uptake by materials and particulate detection improve fire safety standards and toxicity assessments for enclosed terrestrial environments such as submarines, aircraft cabins, and underground mines.",
+      "score": 90,
+      "reasons": [
+        "pillars: detection, prevention",
+        "crew-env relevance: high",
+        "data richness: high",
+        "directness: direct"
+      ]
+    },
+    {
+      "id": "bass",
+      "name": "BASS / BASS-II (Burning & Suppression of Solids)",
+      "papers": [
+        "31",
+        "32"
+      ],
+      "objective": "Study ignition, flame growth, flame spread, and extinction limits for solid fuels in low-velocity forced flows in microgravity to evaluate spacecraft material flammability standards.",
+      "fuels": "Solid fuels including PMMA in various geometries such as flat slabs (1-cm and 2-cm wide), cylindrical rods, spherical sections, films, and fabric sheets.",
+      "conditions": "Microgravity (ISS), forced airflow speeds from 0 to 55 cm/s (concurrent and opposed flow), ambient oxygen concentrations at 21% and vitiated down to 15%.",
+      "variables": "Forced flow velocity (speed and direction), ambient oxygen concentration, fuel geometry, and fuel thickness/width.",
+      "sensors": "Digital still camera, video camera, and handheld gas species sensors.",
+      "hardware": "Microgravity Science Glovebox (MSG) containing the BASS-II small flow tunnel and flow control box.",
+      "pillars": [
+        "prevention",
+        "suppression"
+      ],
+      "crew_relevance": "high",
+      "data_richness": "high",
+      "directness": "direct",
+      "summary": "The BASS-II experiment aboard the International Space Station investigated the burning and extinction dynamics of solid materials under low-velocity forced flows in microgravity. Using the Microgravity Science Glovebox, crew members executed test matrices varying airflow speed, oxygen concentration, and sample thickness/geometry in both concurrent and opposed flow configurations. The research aims to bridge the gap between Earth-based material screening methods and actual microgravity flammability limits.",
+      "insight": "Current terrestrial flammability screening standards (NASA-STD-6001 Test 1) may underestimate material flammability in microgravity, where low-velocity airflow can sustain combustion under conditions that would extinguish in 1g.",
+      "earth_application": "Validated microgravity combustion models assist in refining terrestrial flame spread models and improving earth-based material flammability testing.",
+      "score": 90,
+      "reasons": [
+        "pillars: prevention, suppression",
+        "crew-env relevance: high",
+        "data richness: high",
+        "directness: direct"
+      ]
+    },
+    {
+      "id": "sofie",
+      "name": "SoFIE (Solid Fuel Ignition & Extinction)",
+      "papers": [
+        "37",
+        "65"
+      ],
+      "objective": "To evaluate solid fuel ignition, flame spread, and extinction limits in microgravity and partial gravity to refine spacecraft material flammability screening standards such as NASA STD 6001 Test 1.",
+      "fuels": "Acrylic (PMMA) in cylinders, sheets/slabs (down to 0.1 mm thick), and spheres; thin cellulosic fuel; and various spacecraft engineering materials.",
+      "conditions": "Oxygen concentration from ~15% to 34%, pressure including 8.2 psia (exploration atmosphere), flow velocity from quiescent (<2 cm/s) to high-speed blow-off (>40 cm/s), under microgravity (0g), lunar gravity, Martian gravity, and 1g.",
+      "variables": "Gravity level, oxygen percentage, pressure, forced airflow velocity, external radiant flux, and fuel thickness/geometry.",
+      "sensors": "Optical/video imaging (visualizing blue flame and orange soot), flame damage length measurements, and gas/thermal field diagnostics.",
+      "hardware": "Combustion Integrated Rack (CIR) on ISS, SoFIE facility inserts (MIST, SMµRF, NCA, RTDFS, GEL), GRC 5.2-second Zero Gravity Facility drop tower centrifuge, and WSTF high-speed blow-off facility.",
+      "pillars": [
+        "prevention",
+        "suppression"
+      ],
+      "crew_relevance": "high",
+      "data_richness": "high",
+      "directness": "direct",
+      "summary": "The Solid Fuel Ignition and Extinction (SoFIE) program and related NASA testing assess the ignition and flammability behavior of spacecraft materials across microgravity and lunar gravity environments. Experimental data from flight and ground facilities demonstrate that materials often sustain flames at lower oxygen concentrations in reduced gravity compared to terrestrial 1-g testing due to reduced buoyant flow. These insights guide updates to NASA materials selection standards and numerical flammability models to prevent fires in spacecraft cabins and habitats.",
+      "insight": "Terrestrial 1-g material screening tests can underestimate flammability because reduced buoyant flow in partial gravity prevents blowoff quenching and sustains combustion at lower oxygen margins. Safe lunar and deep-space cabin design requires de-rating material flammability limits based on microgravity-validated flow and oxygen thresholds.",
+      "earth_application": "Ground-based narrow channel apparatuses and Damköhler-number flame extinction models enhance terrestrial material fire-safety testing for enclosed or low-ventilation environments.",
+      "score": 90,
+      "reasons": [
+        "pillars: prevention, suppression",
+        "crew-env relevance: high",
+        "data richness: high",
+        "directness: direct"
+      ]
+    },
+    {
+      "id": "flex",
+      "name": "FLEX / FLEX-2 (Flame Extinguishment Experiment)",
+      "papers": [
+        "18",
+        "19",
+        "20",
+        "71"
+      ],
+      "objective": "Quantify flammability boundaries, droplet extinction mechanisms, and suppressant efficacy for liquid fuels in microgravity to establish fire suppression standards and design rules for spacecraft environments.",
+      "fuels": "Liquid fuel droplets (including alkanes and alcohols such as methanol; pure, bi-component, and surrogate fuels), both freely floated and tethered, ranging from 1.5 mm to 4.0 mm in initial diameter.",
+      "conditions": "Microgravity on the ISS; ambient oxygen mole fraction from 10% to 50%; pressures from 0.5 to 1.0 atm; quiescent airflow; inert diluents including N2, CO2 (up to 70%), and He.",
+      "variables": "Fuel composition, initial droplet diameter, deployment method (tethered vs. freely floated), oxygen concentration, ambient pressure, suppressant type (CO2 vs. He vs. N2), and diluent volume fraction.",
+      "sensors": "Digital cameras (including HiBMS) for temporal and spatial droplet/flame imaging, radiometers for flame radiation, and soot concentration/temperature diagnostics.",
+      "hardware": "Multi-User Droplet Combustion Apparatus (MDCA) housed within the Combustion Integrated Rack (CIR) on the International Space Station (ISS), equipped with hot-wire igniters.",
+      "pillars": [
+        "prevention",
+        "suppression"
+      ],
+      "crew_relevance": "high",
+      "data_richness": "high",
+      "directness": "direct",
+      "summary": "The FLEX and MDCA-FLEX experiments on the International Space Station examine the burning and extinction characteristics of liquid fuel droplets in microgravity under realistic crew atmosphere conditions. Tests systematically varied oxygen concentration, ambient pressure, fuel droplet diameter, and gaseous suppressants (carbon dioxide, helium, nitrogen) to identify diffusive and radiative extinction limits. Results from over a hundred droplet burns yielded fundamental data on burning rates, flame standoff ratios, soot dynamics, and the limiting oxygen index (LOI) for liquid fuels.",
+      "insight": "Determining microgravity extinction boundaries and limiting oxygen indices (~12–13% for methanol) enables precise sizing of gaseous fire suppression systems and establishes safety limits for spacecraft cabin atmospheres.",
+      "earth_application": "Validated chemical kinetic mechanisms and reduced-order combustion models developed from microgravity droplet tests support terrestrial combustor design to improve fuel efficiency and lower emissions.",
+      "score": 90,
+      "reasons": [
+        "pillars: prevention, suppression",
+        "crew-env relevance: high",
+        "data richness: high",
+        "directness: direct"
+      ]
+    },
+    {
+      "id": "roadmap",
+      "name": "Spacecraft Fire-Safety Roadmap & Needs",
+      "papers": [
+        "28",
+        "30",
+        "45",
+        "61",
+        "62",
+        "64"
+      ],
+      "objective": "To review spacecraft fire safety knowledge, assess technology needs for exploration missions, and outline the strategy for prevention, detection, suppression, and post-fire recovery in future space habitats.",
+      "fuels": "Spacecraft materials including lamp wick (cellulose), Pyrell (polyurethane foam), silicone rubber, Teflon, Kapton film, Nomex, tobacco, printed circuit boards (FR-4), and electronic components of various shapes and sizes.",
+      "conditions": "Test conditions varied across papers: oxygen concentrations ranging from normal to elevated levels (up to 100%), pressures from reduced (e.g., 4.3 to 10.2 psia) to 1 atm, quiescent or forced airflow, and gravity levels from microgravity (0-g), partial gravity (lunar/mars), to normal gravity (1-g).",
+      "variables": "Oxygen percentage, total pressure, gravity level (0-g, partial-g, 1-g), external heat flux, airflow velocity, material types, and sample configurations.",
+      "sensors": "Optical dust sensors (COTS), particle counters, aerosol mass concentration monitors, temperature sensors, and particle collectors for microscopy.",
+      "hardware": "Smoke Aerosol Measurement Experiment (SAME) apparatus, Microgravity Science Glovebox (MSG), 55-gallon smoke-in-drums facility, tube furnaces in Gases and Aerosols from Smoldering Polymers (GASP) labs, Saffire flight hardware, and wind tunnels.",
+      "pillars": [
+        "prevention",
+        "detection",
+        "suppression"
+      ],
+      "crew_relevance": "high",
+      "data_richness": "low",
+      "directness": "direct",
+      "summary": "These papers outline the roadmap, historical background, and technical progress of spacecraft fire safety for human exploration missions beyond low Earth order. They emphasize that extended durations, dormancy, partial gravity, and normoxic or oxygen-enriched atmospheres significantly alter material flammability, ignition, and smoke signature transport compared to terrestrial environments. Consequently, advanced research involving drop towers, ISS experiments (like SAME and Saffire), and ground laboratories is driving the development of new detection, suppression, and prevention technologies tailored for exploration habitats.",
+      "insight": "Traditional 1-g and air-baseline fire safety protocols are inadequate for deep space exploration because reduced gravity eliminates buoyant flows, while normoxic/oxygen-enriched environments dramatically lower flammability limits and alter pre-ignition smoke aging and aerosol formation.",
+      "earth_application": "Insights from reduced-gravity smoke aerosol aging and micro-sensor performance improve early-warning smoke detection systems and fire safety protocols in enclosed terrestrial environments like submarines and aircraft.",
+      "score": 83,
+      "reasons": [
+        "pillars: detection, prevention, suppression",
+        "crew-env relevance: high",
+        "data richness: low",
+        "directness: direct"
+      ]
+    },
+    {
+      "id": "smoldering",
+      "name": "Smoldering Combustion (USML-1)",
+      "papers": [
+        "16"
+      ],
+      "objective": "Investigate the ignition and smolder combustion characteristics of a porous combustible material in microgravity aboard the Space Shuttle.",
+      "fuels": "Flexible polyurethane foam (small sample size limited by Glovebox constraints)",
+      "conditions": "Microgravity (USML-1 / STS-50 Spacelab Glovebox) vs. 1g normal gravity, quiescent environment, limited ignition power",
+      "variables": "Gravity level (microgravity vs. 1g normal gravity)",
+      "sensors": "Temperature measurements and combustion product gas analysis (CO and light organic compounds)",
+      "hardware": "Spacelab Glovebox on Space Shuttle Columbia (USML-1 / STS-50)",
+      "pillars": [
+        "prevention",
+        "detection"
+      ],
+      "crew_relevance": "high",
+      "data_richness": "medium",
+      "directness": "direct",
+      "summary": "Preliminary microgravity smoldering combustion experiments were conducted on flexible polyurethane foam inside the Spacelab Glovebox during the USML-1 mission. The absence of buoyancy-driven natural convection reduced heat losses, yielding slightly higher temperatures in quiescent microgravity than in 1g tests. Significantly, microgravity smoldering generated a dramatically larger quantity of toxic combustion products, particularly carbon monoxide and light organic compounds.",
+      "insight": "The reduced heat loss in microgravity increases the production of toxic, fuel-rich combustion products like carbon monoxide during smoldering, elevating both toxic and fire initiation hazards in spacecraft environments.",
+      "earth_application": "Improves predictive fire safety models for smoldering initiation and toxic gas release in porous commercial insulation materials.",
+      "score": 81,
+      "reasons": [
+        "pillars: detection, prevention",
+        "crew-env relevance: high",
+        "data richness: medium",
+        "directness: direct"
+      ]
+    },
+    {
+      "id": "robotic-ff",
+      "name": "Robotic Firefighting (Emerging)",
+      "papers": [
+        "67"
+      ],
+      "objective": "To develop a distributed, rapid-response firefighting and safety system utilizing autonomous rovers and ceramic QR-code visual cues embedded in a lunar habitat to manage fire hazards locally and efficiently.",
+      "fuels": "General combustible materials and chemical energy present in a lunar habitat (specific sample shapes/sizes not detailed).",
+      "conditions": "Early crewed lunar habitat environment (interior layout of roughly one code per two square meters; specific pressure, oxygen, airflow, and gravity not explicitly tested in simulation details).",
+      "variables": "Placement density of ceramic QR codes, spatial distribution of temperature-gas sensor clusters, and fire-spread model parameters.",
+      "sensors": "Temperature-gas sensor clusters, IR cameras, and thin ceramic QR code visual cue plates.",
+      "hardware": "Low-power autonomous rovers, distributed infrastructure sensors, and Tile Computing Network framework.",
+      "pillars": [
+        "detection",
+        "suppression"
+      ],
+      "crew_relevance": "high",
+      "data_richness": "medium",
+      "directness": "direct",
+      "summary": "This paper presents a prototype robotic firefighting safety system for lunar habitats that embeds local maps, sensor limits, and hazard responses into decentralized ceramic QR codes placed every few meters. A low-power rover reads these codes, polls adjacent sensor clusters, and executes autonomous tactical decisions using edge-computed cellular automata fire-spread models. This decentralized approach minimizes onboard memory requirements, bypasses the need for global mapping, and ensures rapid, resource-efficient fire suppression.",
+      "insight": "Decentralizing habitat intelligence via physical visual cues and edge computing reduces reliance on vulnerable centralized networks and communication delays from Earth, enabling localized autonomous emergency response.",
+      "earth_application": "Deploying decentralized QR-coded sensor networks and autonomous rovers for rapid hazard response in remote, resource-constrained terrestrial environments like underground mines or disaster zones.",
+      "score": 81,
+      "reasons": [
+        "pillars: detection, suppression",
+        "crew-env relevance: high",
+        "data richness: medium",
+        "directness: direct"
+      ]
+    },
+    {
+      "id": "flame-spread",
+      "name": "Flame Spread & Flammability Limits (PMMA, FLARE, Silicone)",
+      "papers": [
+        "33",
+        "34",
+        "35",
+        "36",
+        "46",
+        "50",
+        "51"
+      ],
+      "objective": "Investigate solid fuel flammability, extinction limits, and flame spread dynamics under microgravity and reduced-pressure exploration environments to refine spacecraft material screening standards.",
+      "fuels": "Cast PMMA (rods 0.318–1.905 cm radius, 2 cm spheres, 10 mm slabs with/without 3 mm ribs, thin sheets), silicone/PDMS sheets (0.1–1.0 mm thick), Nomex (HT90-40, Nomex-III), Ultem 1000, LDPE, ETFE, and HDPE.",
+      "conditions": "Microgravity (ISS MSG, Cygnus), 1g buoyant/forced flow, and 5.18 s drop tower; oxygen concentrations 14% to 26.9%; pressures 40 kPa to 101.3 kPa; forced airflows 0 to 200 cm/s.",
+      "variables": "Fuel type, fuel thickness, sample geometry (rods, spheres, sheets, ribs), flow speed, flow orientation (concurrent vs. opposed), oxygen concentration, pressure, and gravity level.",
+      "sensors": "Digital color video cameras, high-resolution still cameras, mass flow controllers, and hot-wire anemometers.",
+      "hardware": "BASS and BASS-II flow ducts in MSG, Cygnus Saffire hardware, quartz tube flow apparatus, 5.18-second Zero Gravity Facility drop tower, and sealed/unsealed burn chambers.",
+      "pillars": [
+        "prevention"
+      ],
+      "crew_relevance": "high",
+      "data_richness": "high",
+      "directness": "direct",
+      "summary": "This research evaluates the flammability boundaries, extinction dynamics, and flame spread behavior of diverse solid fuels across microgravity and ground-based test rigs. Experiments aboard the ISS (BASS/BASS-II) and Cygnus spacecraft (Saffire II/V), complemented by ground-based variable-pressure flow systems, demonstrate that low-speed ventilation in microgravity can sustain combustion at oxygen levels below normal-gravity thresholds. Results show that fuel thickness, surface geometry, flow speed, and ambient pressure fundamentally alter quenching and blowoff limits.",
+      "insight": "Standard 1g upward flame tests (NASA-STD-6001 Test 1) can be non-conservative because low-velocity airflows in microgravity maintain sufficient oxygen supply while minimizing convective heat loss. Spacecraft material screening must account for low-flow microgravity flammability boundaries and geometric effects rather than relying solely on terrestrial standard tests.",
+      "earth_application": "Ground-based reduced-pressure testing methods can simulate low-buoyancy flame dynamics, providing an affordable alternative to flight tests for evaluating terrestrial fire safety and material flammability.",
+      "score": 80,
+      "reasons": [
+        "pillars: prevention",
+        "crew-env relevance: high",
+        "data richness: high",
+        "directness: direct"
+      ]
+    },
+    {
+      "id": "same",
+      "name": "SAME / SAME-R / SAME-2 (Smoke & Aerosol Measurement)",
+      "papers": [
+        "29",
+        "68",
+        "69",
+        "70"
+      ],
+      "objective": "Measure smoke particle size distributions, particle morphology, and moment statistics from pyrolyzed spacecraft materials in microgravity to optimize next-generation spacecraft fire detector design.",
+      "fuels": "Teflon (PTFE), Kapton, cotton (lamp wick), silicone rubber, Pyrell (polyurethane foam), and dibutyl phthalate (DBP) tested as solid samples in a sample carousel.",
+      "conditions": "Microgravity (International Space Station / Microgravity Science Glovebox), sub-ignition heating, airflow from quiescent (0 cm/s) to 8 cm/s, ambient ISS atmosphere (~21% O2, 1 atm).",
+      "variables": "Fuel material, heating temperature, airflow velocity (0 to 8 cm/s), and smoke aging/residence time (11 to 1800 seconds).",
+      "sensors": "TSI P-Trak condensation particle counter (zeroth moment), First Alert / STS ionization detectors (first moment), TSI DustTrak optical photometers with 1 µm and 10 µm size cuts (third moment), ISS 30-degree IR laser light scattering detector, thermal precipitator with TEM grid capture.",
+      "hardware": "Smoke Aerosol Measurement Experiment hardware (SAME / SAME-R / SAME-2), aging chamber, sample carousel, Microgravity Science Glovebox (MSG).",
+      "pillars": [
+        "detection"
+      ],
+      "crew_relevance": "high",
+      "data_richness": "high",
+      "directness": "direct",
+      "summary": "The SAME and SAME-2 spaceflight experiments pyrolyzed typical spacecraft materials under controlled microgravity conditions aboard the International Space Station to evaluate smoke particle size evolution. Using multi-moment aerosol instruments and TEM grid capture, researchers measured particle size distributions, count median diameters, and particle morphology across different flow rates and aging times. The results demonstrated that low-gravity thermal degradation produces larger smoke particles (typically 200–400 nm up to several microns) than equivalent terrestrial smoldering due to longer residence times and enhanced coagulation.",
+      "insight": "The absence of buoyant flow in microgravity significantly increases aerosol residence time, driving smoke particle growth into size regimes where traditional 1-g ionization detectors lose sensitivity and optical scattering detectors excel.",
+      "earth_application": "Multi-moment aerosol measurement techniques and dual-stage smoke detection algorithms developed from SAME can improve early fire detection and reduce false alarms in terrestrial cleanrooms and aircraft.",
+      "score": 80,
+      "reasons": [
+        "pillars: detection",
+        "crew-env relevance: high",
+        "data richness: high",
+        "directness: direct"
+      ]
+    },
+    {
+      "id": "sibal",
+      "name": "SIBAL (Solid Inflammability Boundary at Low Gravity)",
+      "papers": [
+        "15"
+      ],
+      "objective": "Verify the theoretically predicted extinction boundary and low-speed quenching limits for concurrent-flow flame spread over solid fuels in microgravity as a function of oxygen concentration and flow velocity.",
+      "fuels": "Flat sheets of paper fuel of varying thicknesses",
+      "conditions": "Microgravity, low-speed concurrent forced airflows, ambient glovebox pressure and oxygen levels",
+      "variables": "Airflow velocity, fuel sample thickness, and fuel sample width",
+      "sensors": "Airflow velocity sensors, temperature sensors, and video cameras for visible flame tracking",
+      "hardware": "Forced Flow Flame Spread Test (FFFT) miniature wind tunnel module, handheld control box, Microgravity Glovebox, and Combustion Integrated Rack (CIR)",
+      "pillars": [
+        "prevention"
+      ],
+      "crew_relevance": "high",
+      "data_richness": "medium",
+      "directness": "direct",
+      "summary": "The SIBAL investigation investigates how low-speed concurrent airflow influences solid material flammability and extinction boundaries in microgravity. Preliminary spaceflight experiments using the Microgravity Glovebox burned flat paper fuel sheets inside a miniature flow duct, revealing wide, dim blue flames driven by slow oxygen transport. These observations support two- and three-dimensional numerical simulations examining the critical role of radiative heat loss near extinction limits.",
+      "insight": "Low-speed ventilation regimes in spacecraft create dim, radiation-dominated flames that can spread unexpectedly and challenge terrestrial flammability limits. Determining precise quenching boundaries ensures spacecraft ventilation designs do not inadvertently sustain undetected or persistent fires.",
+      "earth_application": "Refined radiation and low-stretch flame spread models enhance fire propagation predictions in under-ventilated terrestrial environments such as mine shafts and building service ducts.",
+      "score": 71,
+      "reasons": [
+        "pillars: prevention",
+        "crew-env relevance: high",
+        "data richness: medium",
+        "directness: direct"
+      ]
+    },
+    {
+      "id": "slice",
+      "name": "SLICE (Structure & Liftoff In Combustion Experiment)",
+      "papers": [
+        "76"
+      ],
+      "objective": "Investigate the impact of gravitational level on soot formation, flame structure, and extinction behavior in methane coflow diffusion flames.",
+      "fuels": "Methane (CH4) gas issued from a circular coflow jet burner.",
+      "conditions": "Microgravity (ISS) and normal gravity (1 g); laminar air coflow stream within the sealed glovebox environment.",
+      "variables": "Gravity level (microgravity vs. 1 g), fuel flow rate/dilution, and coflow air velocity.",
+      "sensors": "Color digital camera (line-of-sight flame emission imaging) and flame-heated thermocouple (incandescence calibration).",
+      "hardware": "Microgravity Science Glovebox (MSG) on the International Space Station (ISS) and Yale ground duplicate flight hardware.",
+      "pillars": [
+        "prevention",
+        "detection"
+      ],
+      "crew_relevance": "medium",
+      "data_richness": "high",
+      "directness": "adjacent",
+      "summary": "The SLICE experiment aboard the ISS studied laminar methane coflow diffusion flames under microgravity and 1-g conditions to characterize soot dynamics and flame stability. Color digital imaging and thermocouple incandescence measurements were combined with detailed computational simulations to evaluate flame shape, soot volume fraction, and soot temperature. Results showed that microgravity flames exhibit higher peak soot volume fractions, lower soot temperatures, and a shift in peak soot concentration from the flame centerline out toward the wings.",
+      "insight": "Enhanced soot concentration and lower soot temperatures in microgravity alter radiative heat loss and early smoke generation, which directly impacts the design thresholds for spacecraft fire detection systems and flame extinction models.",
+      "earth_application": "Improved numerical soot formation models derived from microgravity baseline data aid in designing cleaner, lower-emission industrial burners and power-generation gas turbines.",
+      "score": 69,
+      "reasons": [
+        "pillars: detection, prevention",
+        "crew-env relevance: medium",
+        "data richness: high",
+        "directness: adjacent"
+      ]
+    },
+    {
+      "id": "droplet-gas",
+      "name": "Droplet & Gas-Phase Flame Physics",
+      "papers": [
+        "17",
+        "21",
+        "22",
+        "25",
+        "26",
+        "66"
+      ],
+      "objective": "To investigate fundamental droplet, droplet array, gaseous diffusion flame, and fire suppression physics under microgravity and normal gravity conditions to enhance spacecraft fire safety and combustion modeling.",
+      "fuels": "n-heptane (0.81 mm to ~3.5 mm droplets), n-decane, n-octane, methane (CH4), ethane (C2H6), propane (C3H8), methanol (CH3OH), trioxane, PMMA, and liquid hydrocarbons",
+      "conditions": "Oxygen mole fractions 0.21 to 1.0, pressures 0.7 to 1.0 bar (0.98 bar), quiescent or airflow velocities 1 to 50 cm/s, under microgravity (ISS, drop towers, aircraft) and 1g normal gravity",
+      "variables": "Initial droplet size, droplet separation distance, oxygen concentration, fuel type, flow velocity, agent type, and gravity level",
+      "sensors": "CCD cameras, digital imaging, color video, radiometers, photomultiplier tubes, thermocouples, thin filament pyrometry (TFP) fibers, and ion current detectors",
+      "hardware": "Combustion Integrated Rack (CIR) on the ISS, Microgravity Science Glovebox (MSG), drop towers, drop/KC-135 rigs, and cup-burner apparatuses with exchangeable burners",
+      "pillars": [
+        "suppression"
+      ],
+      "crew_relevance": "medium",
+      "data_richness": "high",
+      "directness": "adjacent",
+      "summary": "This research compiles multi-platform studies on droplet combustion, gaseous jet diffusion flames, inverse flames, and fire suppression agents in reduced gravity environments like the ISS. It explores how microgravity alters flame shapes, soot production, extinction limits, and agent effectiveness compared to Earth. Advanced diagnostic tools and AI-driven image analysis are utilized to establish benchmark datasets for spacecraft fire safety.",
+      "insight": "Microgravity significantly extends flame residence times and eliminates buoyancy, causing increased soot production and unique extinction limits that require specialized fire suppression strategies for spacecraft.",
+      "earth_application": "Improved efficiency and reduced pollutant emissions in terrestrial combustion systems, gas turbines, and industrial fire protection design.",
+      "score": 59,
+      "reasons": [
+        "pillars: suppression",
+        "crew-env relevance: medium",
+        "data richness: high",
+        "directness: adjacent"
+      ]
+    },
+    {
+      "id": "spice",
+      "name": "SPICE (Smoke Point In Co-flow Experiment)",
+      "papers": [
+        "75"
+      ],
+      "objective": "Determine the laminar smoke point properties and soot emission onset of non-buoyant gas-jet diffusion flames in a co-flowing oxidizer under microgravity.",
+      "fuels": "Six different gaseous fuels tested through three distinct burner tube nozzle diameters (gas jet flames).",
+      "conditions": "Microgravity on the ISS; enclosed co-flowing air flow within the sealed Microgravity Science Glovebox volume.",
+      "variables": "Fuel type (6 fuels), burner tube diameter (3 sizes), air co-flow velocity, and fuel flow rate.",
+      "sensors": "Video cameras, digital still cameras, temperature field sensors, and optical flame shape/height measurements.",
+      "hardware": "SPICE Hardware apparatus, Microgravity Science Glovebox (MSG).",
+      "pillars": [
+        "prevention"
+      ],
+      "crew_relevance": "medium",
+      "data_richness": "medium",
+      "directness": "adjacent",
+      "summary": "The Smoke Point In Co-flow Experiment (SPICE) investigates the onset of soot emission in laminar gas-jet diffusion flames under microgravity conditions aboard the International Space Station. Crewmembers tested six gaseous fuels across three burner nozzle diameters and varied co-flow air velocities across 54 test points to measure flame shape, stabilization height, and temperature fields. The data gathered provides a fundamental baseline to validate soot production models and improve material flammability criteria for spacecraft design.",
+      "insight": "Characterizing soot production thresholds in microgravity is vital for spacecraft safety because soot dictates flame radiation and heat release, key drivers of fire growth in low-gravity environments.",
+      "earth_application": "Controlling soot formation improves the design and efficiency of terrestrial combustors, such as jet engines and industrial power boilers.",
+      "score": 50,
+      "reasons": [
+        "pillars: prevention",
+        "crew-env relevance: medium",
+        "data richness: medium",
+        "directness: adjacent"
+      ]
+    },
+    {
+      "id": "bre",
+      "name": "BRE (Burning Rate Emulator, ACME)",
+      "papers": [
+        "74"
+      ],
+      "objective": "Evaluate the Burning Rate Emulator (BRE) technique in microgravity using gaseous fuel burners to simulate condensed fuel burning behavior.",
+      "fuels": "Methane, ethylene, and nitrogen-diluted ethylene emulating solid fuels; 25 mm and 50 mm diameter circular flat burners",
+      "conditions": "Microgravity (5-second drop tower), quiescent atmosphere, varied oxygen percentage, ambient pressure, and fuel flow rate",
+      "variables": "Burner diameter (25 mm, 50 mm), fuel composition, fuel mass flow rate, ambient pressure, and oxygen concentration",
+      "sensors": "Heat flux sensors, outlet plate thermocouples (center and offset radius), mass flow meters, and camera image data for flame height",
+      "hardware": "NASA Glenn 5-s Zero Gravity Facility drop rig, BRE porous flat circular burner, quiescent combustion chamber",
+      "pillars": [
+        "prevention"
+      ],
+      "crew_relevance": "medium",
+      "data_richness": "medium",
+      "directness": "adjacent",
+      "summary": "Drop tower experiments evaluated 25 mm and 50 mm Burning Rate Emulator (BRE) burners using methane and ethylene to simulate condensed fuel combustion in microgravity. Transient measurements revealed that heat flux from the flame to the burner surface reached a quasi-steady state within 5 seconds, whereas flame height required longer duration to fully stabilize. Theoretical models confirmed that longer-duration spaceflight experiments are required to reach true steady-state flame structures for full flammability assessment.",
+      "insight": "Microgravity drop tests of 5 seconds are sufficient to capture quasi-steady thermal heat flux to the fuel surface, but long-duration spaceflight experiments are necessary to evaluate fully developed flame heights and complete extinction dynamics.",
+      "earth_application": "Provides a controlled gaseous burner technique to simulate complex solid material burning behavior and heat feedback without solid pyrolysis complications in terrestrial laboratory fire testing.",
+      "score": 50,
+      "reasons": [
+        "pillars: prevention",
+        "crew-env relevance: medium",
+        "data richness: medium",
+        "directness: adjacent"
+      ]
+    },
+    {
+      "id": "efield",
+      "name": "E-FIELD Flames (ACME)",
+      "papers": [
+        "77"
+      ],
+      "objective": "Investigate the interaction between hydrocarbon diffusion flames and electric fields in microgravity to evaluate ionic wind effects, ion density, and flame control behavior.",
+      "fuels": "Ethylene, methane, and propane issued from a 12.7 mm diameter porous brass spherical burner.",
+      "conditions": "Atmospheric pressure, ambient room air, microgravity (2.2-second drop tower).",
+      "variables": "Applied DC voltage (-2.0 kV to +2.0 kV) and fuel type (ethylene, methane, propane).",
+      "sensors": "CCD camera for flame image acquisition, electrical current measurement system/electrometer.",
+      "hardware": "NASA Glenn 2.2 Second Drop Tower rig, 12.7 mm porous brass spherical inner electrode/burner, 70 mm ID Buckyball Faraday cage outer electrode, high-voltage DC power supply.",
+      "pillars": [
+        "suppression"
+      ],
+      "crew_relevance": "low",
+      "data_richness": "medium",
+      "directness": "adjacent",
+      "summary": "This study examined the effects of external electric fields on spherical hydrocarbon flames during 2.2-second microgravity drop tower tests. Using concentric spherical electrodes, researchers applied DC voltages from -2.0 kV to +2.0 kV and measured flame radius, intensity, color, and electric current. Negative applied voltages reduced flame size, eliminated soot formation, and allowed the microgravity flame to reach quasi-steady state much faster than without an electric field.",
+      "insight": "Applying electric fields to flames in microgravity creates ionic wind forces that alter flame geometry and soot formation, demonstrating a potential non-chemical mechanism for modulating or controlling fires in space.",
+      "earth_application": "Development of electric field-assisted combustion technologies to reduce soot emissions and improve flame stability in terrestrial industrial burners.",
+      "score": 42,
+      "reasons": [
+        "pillars: suppression",
+        "crew-env relevance: low",
+        "data richness: medium",
+        "directness: adjacent"
+      ]
+    },
+    {
+      "id": "foundations",
+      "name": "Microgravity Combustion Foundations & Diagnostics",
+      "papers": [
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "14"
+      ],
+      "objective": "To review the fundamental understanding, program priorities, diagnostic technologies, and spaceflight experiments of microgravity combustion science and spacecraft fire safety.",
+      "fuels": "Gaseous premixed and diffusion fuels (methane, propylene), liquid fuel droplets and pools (heptane, methanol), solid fuels (ash-free filter paper, PMMA rods, Teflon, polyurethane, Kapton, wire insulation).",
+      "conditions": "Microgravity, partial gravity, standard air and high-oxygen concentrations, subatmospheric to atmospheric pressures, quiescent and forced-air flows.",
+      "variables": "Gravity levels (microgravity, partial-g, 1g), oxygen concentration, fuel composition, diluent levels, ambient flow velocities, droplet spacing.",
+      "sensors": "Infrared and ultraviolet imaging, 2D light extinction, particle-image velocimetry (PIV), two-wavelength soot pyrometry, spectral and broadband radiometry, Laser Doppler Velocimetry (LDV), smoke detectors.",
+      "hardware": "Drop towers, parabolic aircraft (DC-9), sounding rockets, Space Shuttle (Microgravity Science Glovebox, Combustion Integrated Rack, Spacelab), International Space Station (ISS).",
+      "pillars": [],
+      "crew_relevance": "low",
+      "data_richness": "medium",
+      "directness": "adjacent",
+      "summary": "This collection of program updates and foundational overviews details NASA's microgravity combustion research, highlighting how eliminating buoyancy simplifies complex flame phenomena, droplet combustion, soot formation, and solid-fuel flammability. The papers review historical and ongoing spaceflight experiments—ranging from drop-tower tests to Shuttle and ISS payloads—aimed at advancing fundamental combustion theory and improving spacecraft fire prevention, detection, and suppression systems.",
+      "insight": "Removing buoyant flows in microgravity reveals hidden combustion behaviors—such as cool flames, extended flammability limits, and altered soot aggregation—which are critical for establishing accurate material flammability standards and designing reliable fire detection systems for crewed spacecraft.",
+      "earth_application": "Improved design of industrial burners and incinerators, enhanced efficiency and reduced emissions in commercial combustion engines, and better terrestrial fire safety standards.",
+      "score": 32,
+      "reasons": [
+        "pillars: none",
+        "crew-env relevance: low",
+        "data richness: medium",
+        "directness: adjacent"
+      ]
+    }
+  ]
+}

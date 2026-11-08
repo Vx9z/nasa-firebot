@@ -1,0 +1,1731 @@
+<<<PAGE 1>>>
+NASA
+Technical
+Memorandum
+107353
+f
+0 _> ,,i' 9 3
+Overview
+of Microgravity
+Combustion
+Research
+at NASA
+Lewis
+Research
+Center
+and its
+Potential
+Commercial
+Impact
+Valerie
+Lyons
+and Robert
+Friedman
+Lewis
+Research
+Center
+Cleveland,
+Ohio
+Prepared
+for the
+Space
+Technology
+and Applications
+International
+Forum
+cosponsored
+by the Defense
+Nuclear
+Agency,
+NASA,
+U.S. Department
+of Energy,
+and U.S. Air Force
+Albuquerque,
+New
+Mexico,
+January
+26 -30,
+1997
+National Aeronautics
+and
+Space
+Administration
+
+<<<PAGE 3>>>
+OVERVIEW
+OF MICROGRAVITY
+COMBUSTION
+RESEARCH
+AT NASA
+LEWIS
+RESEARCH
+CENTER
+AND
+ITS POTENTIAL
+COMMERCIAL
+IMPACT
+Valerie Lyons and Robert Friedman
+NASA
+Lewis
+Research Center
+Cleveland
+OH
+44135
+(216) 433-5970
+and 433-5697
+Abstract
+The near-zero
+(microgravity)
+environment
+of orbiting spacecraR minimizes
+buoyant flows, greatly simplifying
+combustion
+processes
+and isolating
+important
+phenomena
+ordinarily concealed
+by the overwhelming
+gravity-driven
+forces and flows.
+Fundamental
+combustion
+understanding
+has greatly benefited
+fi'om analyses
+and experiments
+conducted
+in the microgravity
+environment.
+Because
+of the economic
+and commercial
+importance
+of combustion
+in
+practice, there is strong motivation
+to seek wider applications
+for the microgravity-combustion
+findings.
+This paper
+reviews
+selected
+technology
+developments
+to illusWate some emerging
+applications.
+Topics cover improved
+fire-safety
+technology
+in spacecraft
+and terrestrial
+systems,
+innovative
+combustor
+designs for aerospace
+and ground propulsion,
+applied sensors and conlrols
+for combustion
+processes,
+and self-sustaining
+synthesis techniques
+for advanced
+materials.
+INTRODUCTION
+Combustion
+reactions
+are the dominant mode of energy production for u-ansportation,electric power
+generation,
+industrial
+furnaces,
+and habitat
+heating.
+Combustion
+is the principal reaction in the creation of many
+commodities,
+such as the refining of metals or the synthesis of plastics and ceramics.
+Combustion
+is also essential
+to a
+wide range of industrial
+operations,
+including
+process heating, pollution
+conU'ol, waste incineration,
+cutting, brazing,
+and welding.
+Access
+to the non-convective,
+microgravity
+environment
+in orbiting and ballistic-majectory
+spacecraft
+or in
+ground-based,
+free-fall
+facilities
+has proven to be highly advantageous
+for combustion
+research (Law 1994),
+In
+microgravity,
+buoyancy-induced
+flows are nearly eliminated,
+permitting the isolation of normally
+obscured
+forces and
+flows, the creation of simplified
+symmelries
+(isolated fuel particles,
+for example),
+and the expansion
+of experimental
+time and length scales without disturbances
+(NASA
+1995).
+SELECTED
+MICROGRAVITY
+COMBUSTION
+TEST
+RESULTS
+Analytical and experimental
+microgravity-combustion
+research
+conducted
+over the past three decades or more
+has investigated
+combustion
+in a wide
+variety of systems,
+such as premixed
+and diffusing
+gases, liquid droplets and
+pools,
+solid surfaces,
+and mixed phases (NASA
+1995).
+Three combustion
+phenomena
+are highlighted
+in the following
+sections to illustrate promising
+sources
+for practical applications.
+Solid-Surface
+Combustion
+Fire-safety
+technology
+for spacecraR can benefit from the knowledge
+of ignition
+and flame spread
+along solid
+surfaces. In a microgravity
+environment,
+ignition may readily occur,
+but the resulting
+flame may not propagate
+because
+of the lack of induced
+flow of oxygen
+into the flame zone.
+Space experiments
+have demonstrated
+this self-
+extinguishment
+for fires initiated over certain surfaces,
+such as wire insulations
+or thick materials (Greenberg
+1994,
+Rygh
+1995).
+On the other hand, experiments
+on thin fuels (paper) show that slow but uniform flame spread is possible
+in quiescent
+microgravity
+(Olson
+1988).
+In all of these fire situations, however,
+the addition of low-speed
+forced-air
+flows (i.e., spacecraft
+ventilation)
+can increase
+the flammability
+and rate of flame spread.
+Forced-flow
+flame-spread
+rates may be comparable
+to, or even exceed those in normal gravity (Olson
+1988).
+The microgravity
+flame appearance
+also differs from that associated
+with conventional,
+normal-gravity
+combustion.
+Typically,
+the microgravity
+flames are larger, dimmer,
+and stand off further from the fuel surface,
+
+<<<PAGE 4>>>
+compared
+to their normal-gravity
+counterparts
+(Grayson
+1994).
+Other distinguishing
+features of microgravity
+flames in
+gaseous,
+liquid, and solid-phase
+systems
+are described
+in the literature
+(Law 1994, NASA
+1995, Ramachandra
+1995).
+Investigators
+report that, in many instances,
+microgravity
+flames in quiescent,
+standard-air conditions
+are so pale that
+they are difficult
+to observe
+(Rygh
+1995).
+Visibility
+is greatly enhanced
+under
+conditions
+of forced-air
+fows
+or high-
+oxygen
+concentrations,
+where microgravity
+flames
+are typically
+brighter and yellow
+in color.
+The vis_le
+appearance
+of
+theincipient
+fireisone ofthe"signatures"
+usedfortheremote detectionof firesand foralarmcriteria.
+Droplet
+Combustion
+Combustion
+of sprays of liquid droplets is a common
+process in propulsion
+systems
+and power-generating
+equipment
+A thorough
+understanding
+of this combustion
+process
+is important for analyses
+and modeling
+to promote
+designs
+with efficient
+combustion
+and reduced exhaust emissions.
+The isolation
+of droplets for research
+is very difficult
+on Earth because
+of the motions
+and distortions
+caused by the buoyancy-induced
+flows and forces, and such studies
+must be limited to relatively
+small droplets.
+In rm'crogravity, near-spherical
+droplets can be generated and maintained
+for idealized
+studies
+of their ignition
+and flame behavior.
+The range of microgravity
+droplet-combustion
+research
+covers the burning
+of pure- and multi-component
+fuel droplets, in single,
+double, and multiple-droplet
+arrays, and in
+quiescent
+or low-speed
+air-flow
+environments.
+Most
+important,
+the microgravity
+environment
+permits the generation,
+isolation,
+and observation
+of representative
+droplets, as large as 2 to 6 mm in diameter (NASA
+1995).
+Typical burning
+droplets appear quite different
+in quiescent
+and forced-flow
+microgravity.
+The quiescent
+droplet is surrounded
+by a soot shell and a concentric
+flame.
+The soot shell may not be visible under
+forced flow.
+Hydrocarbon-droplet
+combustion
+initiates
+with bright,
+sooty flames, which become
+less luminous
+with time.
+The flame
+luminosity
+increases
+with forced air flow, similar to the phenomena
+observed
+with solid-surface
+flames.
+Disruptive,
+almost explosive,
+burning is noted for bi-component
+mixtures with greatly differing component
+volatility.
+This
+behavior
+results from the expansion
+of the more volatile
+fuel as a "oubble"
+through the shell of the less volatile
+fuel
+(NASA
+1995).
+Soot Formation
+Soot is an aggregate
+of solid, carbonaceous
+pyrolysis-
+and combustion-product
+particles.
+Soot has a high
+radiative emissivity,
+and it substantially
+increases
+the vis_ility
+of_ and the radiative transport from, flames.
+Hence,
+bright, sooty flames
+are desirable
+for efficient
+energy extraction
+in furnaces and power
+equipment.
+In conCast,
+soot-
+enhanced
+radiation
+is undesirable
+in film-cooled
+propulsion
+systems,
+causing decreased
+life in jet-engine
+combustion
+liners, for example.
+Due to minimal
+buoyant motion, soot residence
+times in the microgravity
+combustion
+zone are relatively
+long;
+and, consequently,
+soot-particle
+concentration
+and morphology
+vary from these
+characteristics
+in normal gravity.
+Microgravity
+gaseous
+and liquid-droplet
+flames,
+even in quiescent
+environments,
+are often sootier than in normal
+gravity (Choi
+1993, lto 1994).
+Microgravity
+conditions
+greatly aid the isolation and collection
+of soot particles.
+Statistical
+analyses
+of particles
+collected
+from burning
+wire insulations
+indicate
+that both primary soot particles
+and
+their aggregates
+are several
+times larger in microgravity
+than in normal gravity (Paul 1993).
+The differences
+in soot evolution
+and charafteristics
+in microgravity
+have practical significance
+not only for
+power
+and pollution
+applications
+but also for fire safety through smoke detection.
+For optimum
+sensitivity
+and false-
+alarm rejection,
+smoke detectors
+are tuned for the expected
+particle-size
+distribution.
+Obviously,
+the setpoints
+for
+spacecraft
+smoke detectors
+can differ from those of typical terreslrial smoke
+detectors.
+Studies are now in progress to
+examine
+the response
+and alarm requirements
+of spacecraft
+smoke detectors
+based on typical incipient-fire
+scenarios
+anticipated
+inspacecra_operations(Urban 1995).
+SURVEY
+OF COMBUSTION
+APPLICATIONS
+AND
+OPPORTUNITIES
+The application
+of combustionfundamentalsfoundthroughmicrogravityresearchtocommercial
+opportunities
+is the focus of a new NASA
+initiative (Friedman
+1996).
+A brief overview
+of the potential
+application
+areas
+follows.
+
+<<<PAGE 5>>>
+Fire Safety
+Current spacecraft fire-protection
+designs and operations are based on terrestrial standards and testing,
+although there is a growing awareness
+of the need to apply microgravity-combustion
+knowledge
+to improve and
+optimize
+spacecraR
+fire safety (Friedman
+1993).
+Certain fire scenarios
+have some probability
+of occurrence
+in
+spacecraft (Friedman
+1992-3).
+For example,
+thermally
+stressed
+components
+may be prone to overheating
+and ignition,
+since the near-absence
+of natural-convective
+flows in microgravity
+greatly reduces air cooling.
+Again,
+aerosol clouds or
+fluid leaks may persist in the atmosphere
+as potential
+fire hazards,
+since settling
+and dispersion
+are very slow.
+Finally,
+smoldering,
+a low-temperature
+non-flaming
+reaction, may initiate
+readily in the absence of natural convection
+in
+spacecraR.
+The first line of spacecraft rue-safety
+defense
+is in prevention,
+through
+strict material
+selection,
+low electrical-
+wire current ratings, fusing, and electrical
+grounding.
+Material-acceptance
+tests are presently
+conducted
+in normal
+gravity to provide a "worst-case"
+simulation
+to spacecraft conditions.
+Recent research
+indicates,
+however,
+that this
+safety factor may not always apply.
+Some materials
+and ventilation
+conditions
+have been shown to promote flame
+spread in microgravity
+at rates that equal or exceed those
+in reference
+normal-gravity
+environments
+(Olson
+1988, Tien
+1990).
+The evaluation
+of material flammability
+in microgravity
+on any practical scale is, of course,
+impossible.
+Thus,
+one aim of microgravity-combustion
+research is to develop
+models
+and correlations
+of normal-gravity
+to ventilated
+microgravity
+fire-spread
+resistance
+useful for construction
+of databases of acceptable
+materials for spacecraft
+service.
+Microgravity
+research
+may also assist the development
+of commodity
+materials with improved fire and
+pyrolysis
+resistance.
+One example
+is polytetrafluoroethylene
+(PTFE) polymer,
+which
+is widely
+used as a wire
+insulation
+in spacecraR
+and aircraft.
+The degradation
+of FIFE upon overheating
+generates toxic gases and ulffafine
+particles that are hazardous
+to the lungs (Todd
+1993).
+New formulations
+of this polymer
+that may resist this
+degradation
+are under investigation.
+The second
+line of fire protection
+is the detection
+and suppression
+of incipient
+fires.
+In Shuttle operations
+to
+date, five minor overheating
+events have occurred, none progressing
+to flaming
+fires.
+In aU cases, the breakdowns
+were
+detected
+by the senses
+of the crew and promptly
+alleviated
+(Friedman
+1992-3).
+Modem
+spacecraR
+are also equipped
+with automatic
+smoke detectors,
+which are adaptations
+of standard
+terrestrial
+designs.
+Studies of smoke
+density
+and
+soot characteristics
+from microgravity
+fires are in progress
+to improve the sensitivity
+and alarm
+criteria for space
+smoke
+detectors.
+These studies may also prove valuable
+for improved
+designs and operational
+criteria in terreslrial
+smoke
+detectors,
+in their ability to isolate, collect, and analyze smoke constituents.
+None of the reported
+rue-threatening
+events
+in U.S. spaceflight
+missions
+required
+active fire suppression.
+Fire
+extinguishers
+are carried on all current human-crew
+spacecraft,
+nonetheless.
+The Shuttle has both portable
+and
+remotely
+actuated fire extinguishers,
+charged with Halon 1301.
+Most of the inhabited modules
+of the International
+Space Station,
+now in construction,
+will be equipped
+with portable
+fire extinguishers
+charged
+with carbon dioxide.
+Exceptions
+are the Russian cabins, which carry a mixed-phase
+foam agent, and the decompression-lxeatment
+chamber,
+which
+may carry nitrogen.
+SpacecraR fire-suppression
+system designs and operations most likely could be standardized
+if research daxa were available on optimum physical
+dispe_ion,
+suppression
+effectiveness,
+and post-fire
+cleanup in
+microgravity
+Suppression
+experiments with adequate
+time and physical
+scales to demonswate
+practical fire control are
+in the plalmiug
+stages.
+New fire suppression
+agents must be developed
+for both space and terres_-ial applications
+that have:
+1) low
+atmospheric
+ozone-depletion
+potential;
+2) low global-warming
+potential;
+3) low toxicity;
+and 4) the potential,
+preferably,
+to be a "drop in" replacement
+for Halons (similar vapor pressure, viscosity,
+etc.).
+One interesting
+alternative
+under investigation
+is a new use of old technology:
+water, formed into a very fine mist (Tapscott
+1995).
+Combustors
+One of the goals of current NASA
+research
+in aeropropulsion
+combustion
+is the reduction
+of emissions
+from
+gas turbines (Lyons
+1993, Ziemianski
+1993).
+The control of exhaust pollutants
+such as oxides
+of nitrogen,
+carbon
+
+<<<PAGE 6>>>
+monoxide,
+unburned hydrocarbons,
+aerosols,
+and soot requires an in-depth knowledge
+of the physics and chemiscy
+of
+combustion
+processes.
+Microgravity
+research offers new insights in combustion
+science
+in may fimdamental
+ways,
+including
+the mechanisms
+of droplet combustion
+and soot formation.
+Application
+of this information
+can be used to
+assist in the design of fuel injectors
+for low-emission
+combustors.
+Experimental
+data can be used directly to determine
+fuel-spray
+effects on emissions,
+or they can validate advanced
+combustor
+codes to aid future design
+efforts.
+Of
+particular interest
+currently is supercritical
+droplet combustion,
+which has application
+to high-pressure
+combustors
+in
+both rocket motors and advanced
+aircraft engines.
+Other combustion
+technologies
+can be linked to potential microgravity-combustion-science
+research.
+Particle
+coalescence
+and agglomeration
+can be studied in a simplified
+flow field in microgravity,
+where drag can be decoupled
+from other parameters
+affecting
+growth.
+A better understanding
+of the particle-formation
+process
+may increase
+the
+collection
+efficiencies
+of electrostatic
+precipitators
+for submicron
+particles.
+The combustion
+of tiny suspended
+coal
+particles
+in a microgravity
+environment
+can enable the study of the major processes
+involved
+in producing
+fly ash.
+Microgravity,
+which
+allows
+a surface-initiated
+reaction to Wansition to a homogeneous
+reaction without the interference
+of buoyancy,
+will also aid the study of catalytic combustion,
+a useful means of reducing emissions
+from many combus-
+tion systems.
+Also, the use of combustion
+synthesis
+to create new, uniformly-porous
+materials,
+a subject to be discussed
+later, will promote the development
+of improved
+catalytic subswates.
+An indirect
+application
+of microgravity-comhnstion
+research
+is that of an apparatus developed
+for the study of
+premixed
+conical flames
+in upward and downward
+gravity and in microgravity
+_
+1995).
+A stabilizing
+ring was
+invented
+to maintain an extremely
+lean flame for the visualization
+studies.
+This patented device
+is now available for
+commercial
+license as a residential
+and industrial
+gas-burner component,
+permitting
+stable, efficient
+combustion
+at lean
+fuel-air
+ratios for greatly reduced NOx emissions
+CKostiuk 1996).
+Sensors
+and Controls
+The application
+of measurement
+techniques
+derived in space studies to scientific
+and commercial
+purposes on
+Earth is among the recognized
+benefits of the space program.
+The latest NASA
+Spinoffmagazme,
+for example,
+cites a
+number of products,
+such as optical and radiation
+sensors, computer
+enhancement
+techniques,
+strain gages,
+and fiber-
+optic transmitters,
+all derived directly or indirectly
+from spacecraft instrumentation
+(Haggerty
+1995).
+Microgravity-combustion
+research has promoted
+advances
+in diagnostic
+techniques,
+primarily because
+of the
+need for non-perturbing,
+rapid-response
+measurements
+of flame appearance,
+velocity,
+temperature,
+and chemical
+spe-
+cies in severe
+environments.
+The observation
+of flames
+often requires image
+enhancements
+because the flames
+are
+barely visible or weakly
+radiant.
+Drop-tower
+experiments
+require small, rapidly responding
+yet rugged insmunentation
+capable of withstanding
+large deceleration
+forces
+upon recovery at the conclusion
+of the drop test. Space-based
+experiments
+need small, reliable,
+light-weight
+insmunentation.
+The commercial
+development
+of diagnostic
+techniques
+derived from microgravity-combustion
+research
+promises
+benefits
+to other applications
+such as aircraft or automotive-engine
+insmunentation.
+A recent survey of
+imaging
+methods
+describes
+a wide variety of promising
+technologies
+(Weiland
+1995).
+One product _
+is now entering
+commercial
+production
+is a line-absorption-spectroscopy
+instrument originally
+developed
+for microgravity
+chemical-
+species
+measurements
+and tested in ground-based
+microgravity
+facilities.
+The inslnunent
+is now promoted
+as an on-
+line analyzer
+for industrial
+smoke control.
+Advanced
+Materials
+Material processing
+in spacecraft is already a well established
+field, with recognized
+potential
+for commer-
+cialization
+(Bayuzick
+1988, Whitten
+1995).
+The non-buoyant
+environment
+promotes the study and application
+of
+physical
+processing,
+with such benefits
+as precise phase separations,
+homogeneous
+compositional
+cunu'ol,
+uniform
+large
+crystal growth,
+and containerless
+processing.
+The predominant
+role of combustion
+in material syntheses
+and processing
+is certainly recognized,
+but the wide
+range of potential
+applications
+(and the influence
+of gravity) is often overlooked.
+Combustion
+synthesis,
+for example,
+
+<<<PAGE 7>>>
+isthebasisforthe commercial
+production
+of many commodity
+and reagent gases, powders,
+ceramics,
+plastics,
+and
+coatings.
+Gravity
+is inherent in these
+processes,
+enhancing
+or inhibiting
+the actions of contacting
+devices,
+scrubbers,
+separators, and heat and mass exchangers.
+Even small-scale
+microgravity-combnstion
+studies
+can aid the understanding
+and improvement
+of these
+operations
+by idealizing
+the systems,
+simplifying
+the analysis
+of reactions
+and modeling,
+and
+by aiding
+the evaluation
+of alternative or innovative
+techniques.
+lhe current thrust in microgravity-combustion
+applications
+relative to material
+syntheses
+obviously
+concenuates
+on methods
+yielding
+products of high unit value, such as advanced
+ceramics,
+intermetallics,
+or fullerenes.
+As an example,
+one can cite the progress in self-propagating
+high-temperature
+synthesis (SHS)
+(Merzhanov
+1993).
+The
+SHS process
+is based on highly exothermic,
+self-sustaining
+reactions for the efficient
+production
+of many refractory,
+high-strength,
+and specialized
+ceramic,
+alloy,
+and composite
+materials from metal-powder
+reagents.
+In normal gravity,
+the SHS reactions,
+which generate high temperatures
+and fluid phases, are prone to gravity-driven
+flows,
+density
+gradients,
+and product segregation.
+Microgravity
+offers an environment
+free from these
+disturbances,
+enabling
+the
+analysis
+and optimization
+of the processes
+(Hunter
+1994).
+Microgravity
+experiments
+can verify analytical
+predictions,
+and they can lead to a better understanding
+of the kinetics of the reaction
+and the phase control of the products.
+Potential products obtained by SHS reactions
+may include ceramic fibers and whiskers,
+porous
+materials
+for
+filters and medical
+implants, glasses,
+as well as monolithic
+intermetallics.
+An interesting
+illustration
+of heterogeneous
+materials produced by SHS and the influence
+of gravity
+on the product morphology
+is seen in the work
+of A.S.
+Shteinberg
+of the Russian
+Institute
+of Structural Macrokinetics.
+In this study, titanium
+carbide is formed as a "foam"
+product through unconstrained
+expansion
+during the reaction from the elements.
+Regardless
+of the reaction
+orientation,
+gravity forces inhibit the expansion.
+In microgravity,
+a fully expanded,
+homogeneous
+porous
+product is obtained.
+Particle
+synthesis
+in flames
+also offers the promise
+of low-cost
+manufacturing
+of non-oxide
+powders,
+such as
+uniform
+silicon-carbide
+particles.
+This effort could be linked to the study of ash formation
+in combustion
+processes.
+CONCLUDING
+REMARKS
+The non-convective,
+microgravity
+environment
+associated
+with orbiting
+spacecraft
+offers advantages
+for
+research that have greatly increased
+the fundamental
+knowledge
+of combnstion
+science.
+Because
+of the great economic
+importance
+of combustion
+processes
+in practice, there
+is strong motivation
+to pursue the commercial
+applications
+of the
+research findings.
+Examples
+of technology
+developments
+now actively
+underway
+and described
+in this paper,
+include
+spacecraft
+and terresUial fire safety,
+combustors
+for use in propulsion
+and power systems,
+applied
+sensors
+and controls
+(including
+diagnostic
+instrumentation),
+and advanced
+materials
+developed
+with self-propagating
+high-temperature
+synthesis
+(SHS).
+Acknowledgments
+This work was prepared with internal
+funds by Valerie Lyons
+and Robert Friedman at the NASA
+Lewis
+Research
+Center.
+References
+Bayuzick,
+ILL (1988)
+"Space
+Processing
+of Metals
+and Alloys,"
+in Commercial
+Opportunities
+in Space,
+Shahrokhi,
+F.
+C.C. Chao,
+and K.E. Harwell,
+eds.,
+Prog.
+inAero,
+andAstro.
+110: 137-160.
+B6dat,
+B., L.W. Kostiuk,
+and ILK. Cheng (1995)
+"Coupling
+of Wrinkled
+Laminar
+Flames
+with Gravity,"
+in 3rd
+lnternat.
+Microgravity
+Comb.
+Workshop,
+Ross,
+H.D.,
+ed., NASA
+Conf.
+Publ. CP- 10174,
+395-400.
+Choi,
+M.Y.,
+et al. (1993)
+"Soot Agglomeration
+in Isolated,
+Free Droplet
+Combustion,"
+A/AA
+Paper
+93-0823.
+Friedman,
+R. (1992-93)
+"Fire Safety
+Practices
+and Needs
+in Human
+Crew Spacecraft,"
+Jour. AppL Fire SaJbty,
+2 (3):
+243-259.
+Friedman,
+R. and D.L. Urban
+(1993)
+"Contributions
+of Microgravity
+Test Results
+to the Design
+of Spacecraft
+Fire
+Safety
+Systems,"
+AIAA
+Paper
+93-1152.
+
+<<<PAGE 8>>>
+Friedman,
+R. and V.J. Lyons (1996)
+"Potential
+Commercial
+Applications
+From Combustion
+and Fire Research
+in
+Space," A/AA
+Paper
+96-4439.
+Grayson,
+G., et al. (1994)
+"Flame Spreading
+Over a Thin Solid in Low-Sp¢_!
+Concurrent Flow3/_'op
+Tower
+Experimental
+Results and Comparison
+with Theory,"
+Micrograv.
+Sci. Technol. VII (2): 187-195.
+Greenberg,
+P.S., K.il
+Saeksteder,
+and T. Kashiwagi
+(1994)
+"Wire Insulation
+Flammability
+Experiment:
+USML-1
+1 Year Post Mission
+Summary,"
+in Joint Launch
++ One Year Sci. Review
+of USMI_I
+and USMP-1
+with the Micrograv.
+Me.as. Group,
+Frazier, D.O., S.L. L,zboczky, and C.R. Bang,her, exls., NASA
+Conf. Publ. CP-3272,
+vol. II, 631-655.
+Haggerty,
+J.J. (1996)
+"Spinoff
+1995,"
+NASA NP-217.
+Hunter, ICil
+and JJ. Moore
+(1994)
+"The Effect of Gravity on the Combustion
+Synthesis
+of Ceramic
+and Ceramic-
+Metal Composites,"
+Jour. Mater. Syntit
+Prec. 2: 355-365.
+Itu, H., O. Fujita, and K. Ire (1994)
+"Agglomeration
+of Soot Particles in Diffusion
+Flames Under Microgravity,"
+Comb.
+andFlame
+99: 363-370.
+Kostiuk,
+L.W. and IlK.
+Cheng (1996)
+"Apparatus
+and Method for Burning a Lean, Premixed
+Fuel/Air Mixture with
+Low NOx Emission,"
+U.S. Patent
+No. 5,516,280,
+14 May.
+Law, C.K. and G.M. Faeth (1994)
+"Opportunities
+and Challenges
+of Combnstion
+in Microgravity"
+Prog.
+Energy
+Comb.
+Sc/ence
+20:65-113.
+Lyons, V.J. and R.W. Niodzwiecki
+(1993)
+"Combustor Technology
+for Future Small
+Gas Turbine Aircrait,"
+NASA TM
+106312.
+Merzhanov,
+A.G. (1993)
+"Theory
+and Practice
+of SHS: Worldwide
+State of the Art and the Newest
+Results,"
+lnternat.
+Jour.
+of Self-Propagating
+High- Temp. Synthesis,
+2:113-158.
+NASA
+(1995)
+"Microgravity
+Combustion
+Science:
+1995 Program Update,"
+NASA TM 106858.
+Olson, S.L., P.V. Ferkul, and J.S. "Pien (1988)
+"Near-Limit Flame Spread Over a Thin Solid Fuel in Microgravity,"
+in
+Twenty-Second
+Symp.
+(InternaU'onal)
+on Comb.
+The Combustion
+Inst., Pittsburgh,
+1213-1222.
+Paul, M.Ii,
+et al. (1993)
+"The Morphological
+Description
+of Particles Generated
+from Overheated
+Wire Insulations
+in
+Microgravity
+and Terrestrial Environments,"
+in Heat Transfer in Microgravity
+Systems-1993,
+Sadhal, S.S. and A.
+Hashemi,
+eds.
+ASME
+HTD 235: 59-66.
+Priem, IlJ.
+(1988)
+"Study of Induslry Requirements
+That Can Be Fulfilled
+by Combustion
+Experimentation
+Aboard
+Space
+Station,"
+NASA CR-180854.
+Ramachandra,
+P.A., et al. "The Behavior
+of Flames Spreading
+Over Thin Solids in Mierogravity,"
+Comb.
+and Flame
+100: 71-84.
+Rygh, K. (1995)
+"Fire Safety Research
+in Mierogravity:
+How to Detect Smoke and Flames
+You Cannot See,"
+Fire
+Technol. 31: 175-185.
+Tapscott,
+R., ed. (1995)
+"Chemical
+Options to Halons for Aircraft Use,"
+DOT/FAA/CT-95/9.
+"l_ien, J.S. (1990)
+"The Possibility
+era Reversal of Material Flammability
+Ranking
+from Normal Gravity to
+Mierogravity,"
+Comb.
+andFlame
+80: 355-357.
+Todd, P. et al. (1993)
+"Physics,
+Chemistry
+and Pulmonary
+Sequelae
+of Themrnodegradafion
+Events in Long-Mission
+Space FUght," SAE Tech. Paper
+932144.
+Urban, D.L., et al.. (1995)
+"Smoke
+Detection
+in Low-G
+Fires," in 3rd Internat.
+Microgravity
+Comb.
+Workshop,
+Ross,
+H.D., od. NASA
+Conf. Publ. CP-10174,
+175-180.
+Weiland,
+KJ.
+(1995)
+"Qualitative
+and Quantitative
+Imaging in Microgravity
+Combustion,"
+in 3rdlnternat.
+Microgravity
+Comb.
+Workshop,
+Ross, H.D., ed. NASA
+Conf. PUbl. CP-10174,
+291-302.
+Whitten, IlP.
+and E.A.Gabris,
+(1995)
+"Commercial
+Space Processing,"
+AIAA
+Paper
+95-0389.
+Ziemianski,
+J.A. and Ball, C.L. (1993)
+"Propulsion
+Technology
+Challenges
+for Turn-of-the-Century
+Commercial
+Aircraft,"
+NASA
+TM 106192.
+
+<<<PAGE 10>>>
+FormApproved
+REPORT
+DOCUMENTATION
+PAGE
+OUBNo.o7o_1,a
+PuiMicI_ng
+bu_hm for this coil_tlon al k'4omilion _ estimated to average
+I he_
+pro'r_,l__.,
+Including the tJrne1orreviewingIns_-_,o
+INiC,_;,-_ exiltktg data _oudr¢_.;=
+0mhedng and molntlktlr_ the data needed, and complol,n9 and reviewingthe co41K:tionol infor_
+.S_
+co_,mments
+regaling the.,burden _.e_imilo .or=IW olh_._._all__...
+el k.dommlon, Including,_tloms
+for reducingthis I_Jl_..., tO Wmhington I._q+u.t_tl_.
+__OrVIGiS,O_
+f_ Inl,orl_.i_J 0_= ri_lO_.,___H=_onL
+1Z+._1_,
+JOIlell_or*
+HI0hwly,
+Suite 1204, Arl_,
+VA 22_0_-431_, and to the Oflme ol Mana0ement arielBudget,Pape_orm Pteeucuon_-roleo Lutumv-u=eep,wmnmgmn,
+_
++.
+1.
+AGENCY
+USE ONLY
+(Leave
+b/ank)
+2.
+REPORT
+DATE
+3.
+REPORT
+TYPE
+AND
+DATE,_
+COVERED
+November 1996
+4.
+TITLE
+AND
+SUBTITLE
+Overview of Microgravity Combustion Research at NASA Lewis
+Research Center and its Potential Commercial Impact
+e. AUTHOR(S)
+Valerie Lyons and Robert Friedman
+7.
+PERFORMING
+ORGANIZATION
+NAME(S)
+AND
+ADDRESS(ES)
+National Aeronautics and Space Administration
+Lewis Research Center
+Cleveland,
+Ohio 44135-3191
+9. SPONSORING/MONITORING
+AGENCYNAME(S)ANDADDRESS(ES)
+National Aeronautics
+and Space Administration
+Washington, D.C. 20546-0001
+Technical Memorandum
+5.
+FUNDING
+NUMBERS
+WU-962--22-00
+8.
+PERFORMING
+ORGANIZATION
+REPORT
+NUMBER
+E-10506
+10.
+SPONSORING/MONITORING
+AGENCY
+REPORT
+NUMBER
+NASA TM- 107353
+11.
+SUPPLEMENTARY
+NOTES
+for the Space Technology and Applications International Forum cosponsored by the Defense Nuclear Agency,
+NASA, U.S. Department
+of Energy, and U.S. Air Force, Albuquerque, New Mexico January 26-30,
+1997. Responsible
+person, Valerie Lyons, organization code 2710, (216) 433-5728.
+12a.
+DISTRIBUTION/AVAILABILITY
+STATEMENT
+12b.
+DIs_H=BUTIONCODE
+Unclassified-Unlimited
+Subject Category85
+This
+publication
+is available
+from
+the NASA
+Cenmr
+for AeroSpace
+Information,
+(301) 621---0390.
+13.
+ABSTRACT
+( Mmxlmurn
+200
+words)
+The near-zero gravity (microgravity) environment of orbiting spacecraft minimizes buoyant flows, greatly simplifying
+combustion processes and isolating important phenomena ordinarily concealed by the overwhelming gravity-driven forces
+and flows. Fundamental combustion understanding has greatly benefited from analyses and experiments conducted in the
+microgravity environment.
+Because of the economic and commercial importance of combustion in practice, there is strong
+motivation to seek wider applications for the microgravity-combustion
+findings. This paper reviews selected technology
+developments to illustrate some emerging applications. Topics covered include improved fire-safety technology in space-
+craft and terresnial systems, innovative combustor designs for aerospace and ground propulsion, applied sensors and
+control for combustion processes, and self-sustaining
+synthesis techniques for advanced materials.
+14.
+SUBJECT
+TERMS
+Combustion; Combustion control; Fire prevention; Reduced gravity;
+Space commercialization;
+Space processing
+17.
+SECURITY
+CLASSIRCATION
+18.
+SECURITY
+CLASSIFICATION
+19. SECURITY
+CLASSIRCATION
+OF REPORT
+OF THIS
+PAGE
+OF ABSTRACT
+Unclassified
+Unclassified
+Unclassified
+NSN
+7540-01-280-5500
+15.
+NUIW-BEH OF PAGES
+8
+16.
+PRICE
+CODE
+A02
+20.
+LIMITAT_N
+OF AB._ACT
+Standard
+Form
+298
+(Rev.
+2-89)
+Prescribed
+by ANSI Std. 7-39-18
+298.-102

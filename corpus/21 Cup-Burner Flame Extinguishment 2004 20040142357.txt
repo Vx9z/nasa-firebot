@@ -1,0 +1,352 @@
+<<<PAGE 1>>>
+Space Experiment Concepts: 
+Space Experiment Concepts: 
+Cup
+Cup-Burner Flame 
+Burner Flame 
+Extinguishment
+Extinguishment
+Fumiaki Takahashi
+Fumiaki Takahashi
+National Center for Microgravity Research
+Cleveland, Ohio
+Fumiaki.Takahashi@grc.nasa.gov
+Supported by 
+NASA OBPR
+Conference-Workshop on Strategic Research to Enable NASA's Exploration Missions 
+Cleveland, Ohio, June 23, 2004
+NASA/CP—2004-213205/VOL1
+880
+
+<<<PAGE 2>>>
+In-House
+GRC
+Roger Forsgren (PM)
+Scott Numbers
+Dennis Stocker 
+NCMR Peter Sunderland
+ZIN
+Gregory Funk
+Dale Robinson
+David Althausen
+Mike Jamison
+Rita Cognion
+Akima David Bennett
+NRA-99
+NIST
+Gregory Linteris (co-I)
+ISSI
+Viswanath Katta (co-I)
+Acknowledgment
+GBEX-Gaseous Burner 
+Extinguishment Experiment
+Physical and Chemical Aspects of 
+Fire Suppression in Extraterrestrial 
+Environments
+NASA/CP—2004-213205/VOL1
+881
+
+<<<PAGE 3>>>
+Background
+ NASA’s Fire Safety Approach
+z Fire prevention plays a key role
+⇒fire safety program for manned space flight
+has been based on controlling the materials 
+flammability and eliminating ignition sources
+z Space exploration expands platform
+⇒longer duration missions to the moon, Mars, 
+or aboard the International Space Station (ISS)
+increase the likelihood of fire events
+⇒various gravity levels affect fire behavior
+ISS: µg, lunar: 1/6g, Martian: 1/3g
+NASA/CP—2004-213205/VOL1
+882
+
+<<<PAGE 4>>>
+Objectives
+ Space Fire Suppression Processes & Technology
+z Be prepared for space fire suppression!
+⇒need better understanding of physical and chemical suppression 
+processes in reduced gravity environments simulating various 
+missions
+z Develop space fire suppression technology
+⇒the results must provide useful data leading to technology 
+development of fire suppression systems in various platforms
+NASA/CP—2004-213205/VOL1
+883
+
+<<<PAGE 5>>>
+Organizing Questions Fire Suppression
+z Fire-Extinguishing Agent Effectiveness in Space Environments
+1.
+What is the relative effectiveness of candidate suppressants to extinguish 
+a representative fire in reduced gravity, including high-O2 mole fraction, 
+low-pressure environments? 
+2.
+What are the relative advantages and disadvantages of physically acting
+and chemically acting agents in space fire suppression? 
+3.
+What are the O2 mole fraction and absolute pressure below which a fire 
+cannot exist?
+4.
+What effect does gas-phase radiation play in the overall fire and post-fire 
+environments?
+5.
+Are the candidate suppressants effective to extinguish fires on  practical 
+solid fuels?
+z Space Fire Suppression Technology Development
+7.
+How can idealized space experiment results be applied to a practical fire 
+scenario? 
+8.
+What is the optimal agent deployment strategy for space fire suppression?
+NASA/CP—2004-213205/VOL1
+884
+
+<<<PAGE 6>>>
+Agent Effectiveness
+ Cup-Burner Method:
+z Standard Test 
+⇒the most widely used test specified in 
+national and international standards
+(NFPA 2001, AS 4214, ISO 14502)
+⇒measure the minimum extinguishing 
+concentration (MEC) which renders the 
+“inhibited” air incapable of supporting diffusion 
+flame combustion
+⇒the minimum design concentration of a 
+gaseous agent for a fire protection system is 
+determined by adding at least 30% to 
+the cup-burner MEC value by manufacturer
+⇒the third party approval (e.g., UL, Factory 
+Mutual) of a fire extinguishing system
+requires large-scale pan fire tests in 
+relation to the cup-burner MEC values
+Hamins et al. (1994)
+dynamic co-flow diffusion flame
+NASA/CP—2004-213205/VOL1
+885
+
+<<<PAGE 7>>>
+MEC Minimum Extinguishing Concentration
+Hamins et al. (1994)
+Gaseous hydrocarbon
+Liquid hydrocarbons
+Jet fuels
+Lubricants
+Halon
+FM-200
+NASA/CP—2004-213205/VOL1
+886
+
+<<<PAGE 8>>>
+ Cup- Burner Flame Behavior:
+z Relatively system independent: 
+⇒the MEC is nearly independent of the fuel cup size, 
+chimney size, fuel velocity, and oxidizer velocity
+⇒the cup-burner MEC values are nearly equal to 
+those for low strain rate counterfow diffusion flames
+z Scale model of a real fire: 
+⇒flame segments subjected to various strain rates, 
+including stabilized/spreading edge diffusion flames
+⇒flame flickering and separation in 1g, affecting the air 
+and agent entrainment into fire zone
+⇒extinguishment occurs via dynamic blow-off process
+rather than global extinction typical of counterflow 
+diffusion flames
+Cup Burner
+Pool Fire
+http://www.me.uwaterloo.ca/~ew
+eckman/fire/firehome.htm
+Laboratory Flame vs. Real Fire
+NASA/CP—2004-213205/VOL1
+887
+Click here to play movie
+
+<<<PAGE 9>>>
+GBEX Gaseous Burner Extinguishment EXperiment
+CUP BURNER
+CHIMNEY
+IGNITER
+FLAME DETECTOR
+FUEL INLET
+OXIDIZER+AGENT 
+INLET
+NASA/CP—2004-213205/VOL1
+888
+
+<<<PAGE 10>>>
+GBEX in CIR
+CUP BURNER
+CHIMNEY
+IGNITER
+COMBUSTION INTEGRATED RACK
+FUEL INLET
+OXIDIZER + AGENT INLET
+ULTRASONIC ATOMIZER
+NASA/CP—2004-213205/VOL1
+889
+
+<<<PAGE 11>>>
+ Dimensions: 5/8 Scale
+Burner :  
+17 mm ID
+Chimney:  
+51 mm ID × 350 mm length
+ Test Matrix:
+Fuel:  
+CH4
+Oxidizer: 
+O2-N2 mixture
+Oxygen mole fraction:  0.21, 0.3
+Velocity : 1 – 12 cm/s
+Agent:  
+CO2, N2, He, Water Mist, Inert Gas/Water Mist
+Gravity:  
+µg
+Pressure:
+1 atm, 0.7 atm
+GBEX Gaseous Burner Extinguishment EXperiment
+NASA/CP—2004-213205/VOL1
+890
+
+<<<PAGE 12>>>
+MSG Microgravity Science Glovebox
+NASA/CP—2004-213205/VOL1
+891
+
+<<<PAGE 13>>>
+MSG Microgravity Science Glovebox
+NASA/CP—2004-213205/VOL1
+892
+
+<<<PAGE 14>>>
+ Dimensions:
+Burner:  
+12 mm ID
+Chimney:  
+79 mm square × 187 mm length
+ Test Matrix:
+Fuel:  
+CH4
+Oxidizer: 
+Air
+Velocity : 1 – 50 cm/s
+Agent:  
+N2
+Gravity:  
+µg
+Pressure:
+1 atm
+MSG Microgravity Science Glovebox
+NASA/CP—2004-213205/VOL1
+893
+
+<<<PAGE 15>>>
+FSEE Fire Suppression in Extraterrestrial Environments
+CHIMNEY
+CUP BURNER
+CHAMBER
+PIV-MZI OPTICS      FLOW MODULES
+COMPUTER &
+I/O BOX
+BATTERIES
+Drop/KC-135 Rig
+NASA/CP—2004-213205/VOL1
+894
+
+<<<PAGE 16>>>
+ Dimensions: Full Scale
+Burner :  
+28 mm ID
+Chimney:  
+85 mm ID × 533 mm length
+ Test Matrix:
+Fuel:  
+Gas:
+CH4, C2H6, C3H8
+Liquid:
+n-C7H16, CH3OH
+Solid:
+trioxane (3[CH2O]), PMMA
+Oxidizer: 
+O2-N2 mixture
+Oxygen mole fraction:  0.21 – 0.3
+Velocity: 3 – 20 cm/s
+Agent:  
+CO2, N2, He, Ar
+CF3H(HFC-23), C3F7H (HFC-227ea), CF3Br (Halon 1301) 
+Water Mist, Inert/Water Mist, Microencapsulated Water
+Gravity:  
+µg, lunar (1/6 g), Martian (1/3 g), 1g
+Pressure:
+0.7 – 1 atm
+FSEE Fire Suppression in Extraterrestrial Environments
+NASA/CP—2004-213205/VOL1
+895
+
+<<<PAGE 17>>>
+Dynamic Flame Extinguishment
+Methane
+Air + 15.9%CO2
+UCH4= 0.92 cm/s
+Uox= 6.7 cm/s
+Takahashi, Linteris, and Katta, AIAA Paper No. 2004-0957, January 2004
+UCH4= 0.92 cm/s
+Uox= 10.7 cm/s
+Methane 
+Air + 30.7% He
+Experiment (1g)
+Direct Numerical Simulation (0g)
+•Full chemistry
+(GRI Mech 1.2)
+•Radiative loss
+•Mixture rules
+NASA/CP—2004-213205/VOL1
+896
+Click here to play movie
+
+<<<PAGE 18>>>
+Extinguishment Limits
+Takahashi, Linteris, and Katta, AIAA Paper No. 2004-0957, January 2004
+NASA/CP—2004-213205/VOL1
+897
+
+<<<PAGE 19>>>
+Answering to Organizing Questions
+1.
+measure the relative effectiveness (MEC) of candidate 
+suppressants in low-g, including high-O2, low-P environments
+2.
+determine the XO2 (LOI) below which a fire cannot exist
+3.
+examine the effect of radiation in fire and post-fire environments
+4.
+reveal advantages/disadvantages of physical/chemical agents
+5.
+measure the agent effectiveness for practical solid fuels
+7.
+provide an idealized space experiment applicable to a practical 
+fire scenario
+8.
+produce useful data in relation to agent deployment strategy
+z Cup-burner flame extinguishment experiment can:
+NASA/CP—2004-213205/VOL1
+898
+
+<<<PAGE 20>>>
+Conclusions
+ Space Fire Suppression 
+Processes & Technology
+⇒Space experiment concepts of cup-burner 
+flame extinguishment have been conceived 
+to address to the key issues (i.e., organizing 
+questions) in space fire suppression
+⇒Cup-burner flame extinguishment experiment
+can reveal physical and chemical 
+suppression processes and provide agent 
+effectiveness data useful for technology 
+development of space fire suppression 
+systems in various reduced-gravity platforms
+NASA/CP—2004-213205/VOL1
+899

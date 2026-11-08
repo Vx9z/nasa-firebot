@@ -1,0 +1,1751 @@
+<<<PAGE 1>>>
+SKYLAB
+EXPERIMENT
+M479
+ZERO
+GRAVITY
+FL_ILITY
+'|
+989(). ..
+J.
+H.
+Kimzey
+Lyndon
+B.
+Johnson
+Space
+Center
+Houston,
+Texas
+77058
+SUMMARY
+Flammability
+under
+conditions
+of
+weightlessness
+was
+investigated
+in
+Skylab
+4.
+Thirty-seven
+tests
+using
+six
+materials
+were
+successfully
+carried
+out
+to
+learn
+more
+about
+how a
+flame
+acts
+in
+the
+absence
+of
+con-
+fection.
+Specific
+objectives
+were
+to
+note
+the
+extent
+of
+surface
+flame
+propagation
+and
+flash-over
+to
+adjacent
+materials,
+rates
+of
+surface
+and
+bulk
+flame
+propagation,
+self-extinguishment,
+and
+extinguishment
+by
+both
+vacuum
+and
+water
+spray.
+Data
+were
+returned
+in
+the
+form
+of
+crew
+com-
+ments
+on
+voice
+tapes
+and
+sixteen
+millimeter
+motion
+pictures
+taken
+at
+24
+frames
+per
+second.
+All
+tests
+were
+performed
+and
+all
+hardware
+functioned
+properly,
+although
+an
+operational
+oversight
+caused
+the
+water
+in
+the
+supply
+tank
+to
+be
+less
+than
+the
+minimumrequired
+pressure.
+Burning
+rates
+were
+significantly
+reduced
+as
+anticipated
+from
+earlier
+aircraft
+tests.
+Some
+reduction
+of
+total
+burning
+was
+also
+noted.
+The
+surface
+burn
+was
+not
+followed
+by
+continued
+inward
+burning
+as typically
+experienced
+on
+earth
+although
+some
+one-g
+tests at extremely
+low pressures
+have
+partially
+re-
+produced
+this
+condition.
+Ignition
+and extinguishment
+also
+appear
+to be
+similar
+to one-g.
+The
+typical
+soft
+blue
+flame was
+seen by
+the crew,
+but
+was
+not detected
+on
+the film
+emulsions
+used'
+Smoke
+patterns
+were
+also
+noted.
+This
+can be of value
+instudying
+Brownian
+movement
+of
+solids
+in
+gases under
+conditions
+of weightlessness.
+INTRODUCTION
+Skylab
+Experiment
+M479
+was
+performed
+February
+4, 1974,
+on Day
+81
+of the third and
+last manned
+mission.
+This
+was
+the latest
+in a study
+of flammability
+as applied
+to spacecraft.
+BACKGROUND
+An
+investigation
+of flammability
+under
+conditions
+of weightless-
+ness
+began
+over
+10 years
+ago.
+Without
+convection
+a £1ame as
+a some-
+what
+spherical
+corona
+as
+seen
+on the right,
+figure
+1.
+In
+such
+a case
+the fuel
+is
+surrounded
+by a corona
+which
+isolates
+the material
+from
+the
+surrounding
+atmosphere
+rather
+than
+extending
+above
+the fuel
+as noted
+on
+the left.
+Hardware
+for these aircraft
+tests was very
+basic
+consisting
+of a lO-inch
+diameter
+chamber
+in which
+the fuel was
+positioned.
+A
+motion
+picture
+camera
+recorded
+ignition
+and burning
+(figure
+2).
+Fuels
+were
+selected
+to represent
+a variety
+of engineering
+materials
+with
+various
+melting
+points
+and flammability
+characteristics
+(figure
+3).
+AIRCRAFT
+TESTS
+A typical
+float
+of the fla_nabillty
+chamber
+is seen
+in
+the motion
+picture
+film.
+Test
+times varied
+from
+4 to i0 seconds.
+Burning
+rates
+from
+this
+series
+of
+tests were
+noted
+(figure
+4) for somematerials.
+Conclu-
+sions
+from
+these tests
+are given in
+figure
+5.
+See also
+reference
+i.
+P_C_DING
+PAG'_ BLANK
+NOT FILMED
+ll5
+
+<<<PAGE 2>>>
+SKYLAB TESTS
+Thirty
+seven tests were
+performed
+in Skylab
+mission
+4,
+(figure
+6).
+The hardware
+for Experiment
+M-479
+consisted
+of many
+items used
+through-
+out the Skylab
+flight
+in eighteen
+different
+experiments.
+All
+of the
+M-479
+hardware
+was
+designed,
+built,
+and tested
+by
+the George
+C. Marshall
+Space
+Flight
+Center.
+We
+are
+grateful
+for support
+by
+the many
+groups
+at
+Huntsville
+that
+provided
+this
+highly
+reliable
+and still
+functional
+equi_nent.
+The specimens
+(figure
+7) were
+separately
+packaged
+in a
+designated
+container.
+Each
+one has
+a piece of
+test material,
+a Nichrome
+heater
+wire
+and an
+electric
+socket
+to support
+the material
+in the
+proper
+orientation.
+A number
+tab
+served
+to
+identify
+the
+specimen
+both
+for the
+astro-
+naut
+operator
+and
+for an aid
+in viewing
+the film.
+Once he
+installed
+the
+specimen
+in the work
+chamber
+(figure
+8)
+and closed
+the cover
+he
+observed
+the test
+through
+the hatch window.
+Another
+port
+on
+the side
+provided
+for photographing
+the test
+with
+a motion
+picture
+camera.
+Controls
+for
+operating
+a water
+spray
+and a vent
+are also
+provided
+to evaluate
+these
+as a means
+of
+extinguishment.
+Tests were
+conducted
+in the Skylab
+at-
+mosphere
+of 65
+percent
+oxygen
+at
+5.2 psia.
+Skylab
+In-Flight
+Testin_
+-
+Operation
+of the
+experiment
+was
+scheduled
+for day 81 of SL-4.
+Commander
+Gerald
+Carr
+performed
+these
+tests
+(figure9).
+Skylab
+Film
+Details
+- A
+16 mm motion
+picture
+film
+shows:
+i.
+Commander
+Carr
+in SL-4.
+Test number
+2 was video
+recorded
+showing
+the specimen
+before
+test
+and
+following
+test
+as
+it was
+compared
+with
+speci-
+ment
+number
+8 which
+had
+identical
+constructiono
+Focus was
+poor but the
+fact
+that the
+1-inch
+square
+specimen was
+not burned
+was readily
+apparent.
+2.
+Commander
+Carr
+in SL-4.
+Tests
+numbered
+16 and
+17 were
+video
+recorded
+with
+the
+camera
+at
+the viewport
+recording
+the burning
+of the
+polyurethane
+foam
+specimen
+and
+the paper
+specimen.
+The
+test
+details
+are narrated
+as
+the materials
+were
+ignited
+and burned.
+3.
+Test
+number
+15.
+Neoprene
+coated
+nylon
+fabric
+was
+next
+ignited
+and
+burned
+using
+the film
+exposed
+in flight.
+This
+material
+exhibited
+the
+property
+of shrinkage
+on the nylon
+side and
+the tendency
+to
+curl and
+quickly
+roll
+up disturbing
+the burning.
+4.
+Test
+number
+16.
+Polyurethane
+foam covered
+in scene
+2, above,
+is
+next.
+The flame
+is seen
+proceeding
+along
+the surface
+at
+0.8 inches
+per
+second
+followed
+by
+a venting
+overboard
+of
+the atmosphere.
+The fire
+goes
+116
+
+<<<PAGE 3>>>
+out
+as the
+foam melts
+to
+a much
+smaller
+volume.
+No
+estimate
+of the un-
+burned
+material
+is possible.
+No vent
+rates
+are given.
+Venting
+is
+through
+a 1-inch
+diameter
+screened
+orifice.
+5.
+Test
+number
+17.
+Paper,
+also
+described
+in
+the video
+recording
+of
+scene 2,
+is next.
+Ignition
+is noted
+but the
+film
+fails to
+show
+the soft
+blue
+glow
+of the flame
+described
+by
+Commander
+Carr,
+the
+same glow
+barely
+discernable
+in part
+of the video
+recording
+as the T.V.
+lens
+aperture
+opened
+fully.
+Evidence
+of the burning
+could be
+seen
+as the metal
+frame
+(near the
+top of the
+screen)
+began
+to glow
+as
+it was
+heated
+to a dark
+red heat
+(650
+- 750
+°C).
+The venting
+caused
+a significant
+flare up
+as
+burning
+rates
+and luminousity
+increased
+markedly
+due to the
+forced
+con-
+vection.
+6.
+Test
+number
+18.
+Teflon
+fabric
+is next.
+The
+igniter
+caused a flame
+of the material
+contacting
+the fabric.
+However,
+the flame
+did not
+persist.
+As
+the igniter
+cooled_
+after
+about three
+seconds,
+the
+flame went
+out.
+7.
+Test
+number
+1.
+The
+aluminized
+mylar
+is seen next.
+This
+material
+burned
+at
+3.8 inches
+per second,
+with
+a bright
+light,
+indicating
+that
+the
+aluminum
+was
+burning
+and
+contributing
+significantly
+to the
+heat.
+This
+same material
+in one-g burns
+the same way
+irrespective
+of
+orienta-
+tion
+as convection
+cannot
+overcome
+inertia
+as quickly
+as the flame moves.
+8.
+Test
+number
+2.
+Nylon
+of
+scene number
+1 is next.
+Three
+ignition
+attempts
+are
+seen.
+9.
+Test
+number
+26.
+Nylon
+in this
+test
+has a different
+geometry
+but an
+identical
+igniter.
+The first attempt
+did not produce
+a flame.
+The
+second,
+however,
+did.
+The film
+shows
+two flame
+zones that
+start in
+a
+subtle,
+gentle
+glow
+that
+pulses
+as the material
+melts
+and liberates
+flammable
+gases.
+As
+time
+passes
+the agitation
+increases.
+The material
+burns
+for lO minutes
+43
+seconds
+at which
+time
+the atmosphere
+was
+dumped
+to cause extinguishment.
+The
+effect_
+of venting
+include
+intensified
+burning
+as
+seen
+earlier
+with
+polyurethane
+foam
+and paper
+in tests
+num-
+ber
+16 and
+17.
+In addition
+to video
+tape and motion
+pictures
+we
+have
+two still photo-
+graphs.
+The first
+(figure
+lO)
+shows the burning
+of
+polyurethane
+foam
+in test
+number
+lO.
+Note
+the
+spherical
+shape
+of the
+flame.
+The diameter
+is estimated
+at more
+than 6 centimeters.
+This means
+that this material
+has a flame
+in zero-gravity
+(at this
+atmosphere)
+extending
+over 3 centi-
+meters.
+Another
+picture
+immediately
+after
+the fire went
+out shows
+the
+smoke pattern
+(figure
+ll).
+It reportedly
+persisted
+for a long period
+of time.
+117
+
+<<<PAGE 4>>>
+SKYLAB
+SPECIMENS
+RETURNED
+Two specimens
+were
+brought
+back,
+as requested
+(figures
+12
+and 13).
+These
+are the nylon
+from
+tests
+numbered
+2 and 8.
+Neither
+ignited.
+This
+being
+the
+case, Col.
+Carr
+included
+the residue
+from
+test
+number
+26
+(figures
+14, 15,
+and 16).
+After
+burning
+for nearly
+ii minutes,
+this
+fire was
+deliberately
+extinguished
+by
+dumping
+the atmosphere.
+Westill
+have
+over
+i0 percent
+of the material
+unburned
+in this
+specimen.
+Another
+returned
+specimen
+was
+a piece
+of residue
+from
+test
+number
+17 (figure
+17).
+Paper burned
+with
+a very
+soft
+blue
+flame
+not visible
+to the
+camera.
+Carr
+reported
+that
+the residue
+"has remarkable
+strength."
+An estimation,
+based
+on area
+and weight,
+showed
+it was
+consumed
+between
+74 and
+79 percent.
+Similar
+paper
+ignited
+in one-g
+(in air) was
+consumed
+by 91 percent.
+CONCLUSIONS
+Several
+conclusions
+can be
+made
+regarding
+fire
+in zero-gravity
+(figure
+18).
+These
+include
+ignition,
+burning
+rates,
+extinguishment
+by vacuum
+dump, water
+spray
+and self-extinguishment
+and the
+validity
+of one-g tests.
+RECOMMENDATIONS
+The M-479
+experiment
+was
+an
+engineering
+study designed
+to assist
+in future manned
+space
+programs.
+The
+need
+for additional
+zero-gravity
+testing
+is obvious.
+Areas
+of
+concern
+are as
+follows
+(figure
+19):
+1.
+Fire
+detection
+- Document
+the
+light emission
+from
+various
+materials.
+Note
+specifically
+the wavelength
+and
+intensity
+for paper.
+2.
+I_nition
+- Ignition
+energies
+should
+be
+quantitatively
+measured.
+3.
+Propagation
+rates
+- Various
+fuel
+compositions,
+thicknesses
+and
+geometry.
+4.
+Critical
+gap distances
+- Determine
+critical
+spacing
+for various
+materials.
+5.
+Other
+fuels
+- Flammable
+liquids,
+flammable
+gases
+and metals
+could
+have unique
+mechanisms
+of burning
+in zero
+gravity.
+Metals
+do not have
+gaseous
+products
+of combustion
+therefore
+they
+probably
+burn
+in zero-
+gravity
+as vigorously
+as
+in one-g.
+118
+
+<<<PAGE 5>>>
+6.
+Extinguishment
+- The suitability
+of water
+as an
+extinguishment
+should
+be verified
+as well
+as the use
+of
+solids
+(bicarbonates)
+and gases
+(C02
+and Halons
+such
+as
+1301 bromotrifluoromethane).
+REFERENCES
+[1]
+Kimzey,
+J. H.,
+"Zero Gravity
+Flammability,"
+included
+in
+"Space
+Manufacturlng
+symposium
+held
+October
+21,
+1969, at the
+Processing
+and
+"
+"
+George
+C. Marshall
+Space
+Flight
+Center,
+Huntsville,
+Alabama.
+ME-69-1.
+N-70-14669,
+N71-i1719,
+N70-20535.
+119
+
+<<<PAGE 6>>>
+_D
+X_I_I_
+O-O_Z
+"Z
+_q_IlOl._
+alqeo IOa+UOO
+eJatueo
+alqeouo!+!uOI
+lan-I
+eJameo
+_oddns uo!l!u61
+aJn:lo!d-uo!:lo_
+Mopu!MsseI0
+)unoaS)loeqP!JO
+aJ!MamoJqo!NJ
+IlaqStunu!tunlv
+_I_IH_TSOI_IVhL_OXXO
+NI
+O-O_._Z
+_
+D-_O
+_V
+OEIE_dl_
+q_I_
+,.,tO
+HOSIh_V_OO
+"T
+_Ol._
+('_lHeiuauJolAI)
+(uJnHq!l!nb3)
+6 oJaZ
+6 au0
+
+<<<PAGE 7>>>
+MATERIALS
+DACRONTHREAD
+SILICONERUBBER
+NEOPRENERUBBER,FOAMED
+STYRENEPLASTIC
+NEOPRENERUBBERTUBING
+TEFLONTUBING
+PARAFFIN
+POLYURETHANE
+RUBBER
+FIGURE 3.
+AIRCRAFT FLAMMABILITY TEST
+RATE OF
+BURNING
+INCH
+PER SECOND
+ONE-g
+ZERO-g
+FUEL I
+15 PSIA
+5 PSIA
+15 PSIA
+15 PSIA
+5 PSIA
+15 PSIA
+AIR
+02
+02
+AIR
+02
+02
+NEOPRENE
+0.0
+0.2
+"01'4
+0.10
+SILICONE
+0.04
+0.5
+1.1
+0.0
+0.08
+TEFLON
+0.0
+0.00
+POLYURETHANE
+0.6
+0.7
+0.0
+0.08
+0.15
+DACRON
+2
+0.6
+0.7
+0.08
+0.15
+NOTE:
+I.
+FUEL IS TUBULAR (NO.10
+AWG
+I D)
+AND
+THREADED
+OVER A STEEL OR CERAMIC
+MANDREL
+2.
+DACRON
+THREAD
+IS WRAPPED
+AROUND
+POLYURETHANE
+3.
+IGNITION
+IS PROVIDED
+BY ELECTRIC RESISTANCE
+COIL
+4.
+TEMPERATURE
+OF ATMOSPHERE
+IS 65 + 5°F
+FIGURE
+4.
+BURNING
+RATES
+IN
+ONE-G
+AND
+ZERO-G
+121
+
+<<<PAGE 8>>>
+CONCLUSIONS
+IGNITION
+- NODIFFERENT
+THANONE-G
+BURNING_TES - SLOWERTHANONE-G
+o
+FIREWILLPROPAGATE
+ALONGA SURFACE
+SELFEXTINGUISHMENT
+- HIGHLYPROBABLE
+o
+FIREWILLNOTBURNINWARDASGASEOUSPRODUCTS
+OFCOMBUSTION
+WILLIMPEDEOXYGENFLOW
+CONVECTION
+- INTRODUCING
+CONVECTION
+PROMPTLY
+INCREASES
+FLAMESIZEANDINTENSITY,
+o FORCEDAIRFLOWORVENTINGINCREASES
+BURNING
+FIGURE 5.
+AIRCRAFT FLAMMABILITY TEST
+(ZEROGRAVITYFLAMMABILITY)
+DATE.
+FEBRUARY
+4 & 5.,1974- MISSIONDAY81
+MISSION:SL-4
+ASTRONAUT-OPERATOR.LT,COL,GERALDP,CARR
+EQUIPMENT.
+M-512FACILITYINM,D,A,
+i
+FIGURE 6.
+SKYLAB M-479 EXPERIMENT
+122
+
+<<<PAGE 9>>>
+MATERIAL
+DIMENSIONS
+TESTNUMBERS
+ALUMINIZED
+MYLAR
+2 518"x 3 518"x .0003
+1,7,13,19,25
+NYLONSHEET
+1" x 1" x .125
+2,8,14,20,26
+NEOPRENECOATEDNYLON
+FABRIC
+2 518"x 3 518"
+3,9,15,21,27
+/
+POL_RETHANEFOAM
+/1_"x 1/4"x 2"
+4,10,16,22,28
+BLEACHEDCELLULOSE
+PAPER
+2 518"x ) 518"x .009"
+5,11,17,23,29
+TEFLONFABRIC
+2 518"x 3 518"
+6,12,18,24,30
+PAPER,2 PIECES,
+2
+5/8" x )
+5/8" x
+,009"
+31 THROUGH
+37
+MOUNTEDINPARALLELFACE-
+TO FACEWITHA GAPOF
+1/8,1/4,1/2"
+FIGURE 7.
+S_
+EXPERIMENT M-479
+_-.CHAMBER CONTROL VALVES
+FLAMMABILITY
+J I-" WORK CHAMBER
+SPECIMEN
+I
+I
+I_ CONTROL PANEL /---
+MDA POWER SOURCE
+CONTAINER--/
+J I
+_ _
+BATTERYVENT /
+CALFAX
+/
+I
+I
+_ \
+LINE
+//"ACCESSORIES
+DOUBLE-LEAD
+/
+I
+I
+_
+\
+_
+/_
+/
+AND METALS
+r'_
+FASTENER
+/
+I
+I
+__
+. .MELTING
+_
+/'--APOLLO
+(TYPICAL)--'_
+I
+J....____L_'_-p/
+/ AND SPHERE
+1!_.i"_
+CSM
+__l_
+_'_/
+]
+CONTAINER
+I
+If
+DOCKING
+WATER
+II11
+_Z_
+'_\'_
+I_:_'_ J.L-,_.-'Z_,_ _
+,I
+I
+ADAPTER
+WATER
+II
+/_.._
+_:
+_
+_.
+_--}[_I_'AIRLOCK
+SOURCE
+II/ac*_Ll_
+_
+COMPOSITE
+MODULE
+CONNECTOR "_(_
+|
+_
+L.. SINGLE
+CASTING
+.. iLW'_.'%,,_f
+_
+|
+I
+I
+GROWTH
+I I
+'-- WORK
+_
+I
+/
+I
+I
+;ACKAGE
+ii
+SHOP
+-
+I I
+I
+'--CAMERA
+CABLE
+II
+L
+EXOTHERMIC BRAZEPACKAGE
+FIGURE 8.
+SKIlAB EXPERIMENT M-479 ZERO
+GRAVITY FLAMMABILITY
+123
+
+<<<PAGE 10>>>
+FIGURE
+9.
+SKYLAB
+IN-FLIGHT
+TESTING
+FIGURE
+i0.
+PHOTOGRAPH
+OF
+BURNING
+POLYURETHANE
+FOAM
+IN
+TEST NUMBER
+I0
+124
+
+<<<PAGE 11>>>
+FIGURE
+Ii.
+PHOTOGRAPH
+OF
+SMOKE
+PATTERN
+OF BURNING
+POLYURETHANE
+FOAM
+IMMEDIATELY
+AFTER
+FIRE
+WENT
+OUT
+FIGURE
+12.
+PHOTOGRAPH
+OF
+SPECIMEN
+RETURNED
+FROM
+TEST
+NUMBER
+2
+WHICH
+DID NOT
+IGNITE
+125
+
+<<<PAGE 12>>>
+FIGURE 13.
+PHOTOGRAPH OF SPECIMEN RETURNED FROM TEST NUMBER 8
+WHICH DID NOT IGNITE
+FIGURE 14.
+PHOTOGRAPH OF RETURNED RESIDUE FROM TEST NUMBER 26
+WHICH AFTER BURNING FOR NEARLY IIMINUTES
+WAS
+DELIBERATELY EXTINGUISHED BY DUMPING THE ATMOSPHERE.
+126
+
+<<<PAGE 13>>>
+FIGURE
+15.
+PHOTOGRAPH
+OF
+RETURNED
+RESIDUE
+FROM
+TEST
+NUMBER
+26
+WHICH
+AFTER
+BURNING
+FOR NEARLY
+Ii MINUTES
+WAS
+DELIBERATELY
+EXTINGUISHED
+BY DUMPING
+THE ATMOSPHERE.
+FIGURE
+16.
+PHOTOGRAPH
+OF RETURNED
+RESIDUE
+FROM
+TEST
+NUMBER
+26
+WHICH
+AFTER
+BURNING
+FOR
+NEARLY
+ii MINUTES
+WAS
+DELIBERATELY
+EXTINGUISHED
+BY DUMPING
+THE ATMOSPHERE.
+127
+
+<<<PAGE 14>>>
+FIGURE 17.
+PHOTOGRAPH OF RETURNED RESIDUE FEOM TEST NUMBER 17.
+PAPER
+BURNED WITH A VERY SOFT BLUE FLAME NOT VISIBLE TO THE CAMERA.
+(CONCLUSIONS)
+IGNITION
+- NODIFFERENT
+THANONE-G
+BURNINGRATES- SLOWERTHANINONE-G,NOTENDENCY
+TOINCREASEWITHTIMEAS
+ONE-GUPWARDBURNING
+o
+HIGHLYFLAI_'4ABLE,
+THINMATERIAL
+- FASTBURNINGINONE-GREGARDLESS
+OFORIENTATION,
+SIMILARFASTBURNINGINZERO-G,
+o THICKERMATERIAL,
+NONMELTING
+- A NEARLYINVISIBLE
+FLAMEPASSESOVER
+THESURFACECOMPLETELY
+SURROUNDING
+THEFUELSLOWERTHANONE-G,
+o
+PLASTIC
+MATERIAL,
+LOWMELTINGPOINT-SLOWERBURNINGTHANONE-G,
+NOTSELFEXTINGUISHING,
+WILLBURNFOREXTENDED
+PERIODOFTIME
+INA VERYS_LL,NEARLYINVISIBLE
+FLAMEWHICHISERRATICDUE
+TOHIGHVISCOSITY
+DISTURBANCES,
+FIGURE 18.
+SKYLAB EXPERIMENT M-479
+128
+
+<<<PAGE 15>>>
+o FOAMMATERIAL_FLAMMABLE
+- SLOWER
+BURNING
+THANONE-G
+EXTINGUISHMENT
+BYVACUUM
+- POSSIBLE
+BUTADVERSE
+EFFECTS
+FROMEDDYCURRENTS
+CAUSEINCREASED
+BURNING
+EXTINGUISHMENT
+BYWATER
+- POSSIBLE
+IF APPLICATION
+IS CONTROLLED
+SELFEXTINGUISHMENT
+o YES- NONMBLTING
+MATERIAL
+(PAPER,CARBON,
+ETC,)AND
+MATERIALREQUIRING
+HIGHHEATTO IGNITE(TEFLON)
+o
+NO - PLASTICMATERIALS
+WITHA LARGETEMPERATURE
+SPREADBETWEEN
+MELTINGPOINTANDBOILINGPOINT(NYLON,ETC,)AND
+METALS- NOGASEOUSPRODUCTSOFCOMBUSTION
+_PIDLYBURNINGMATERIAL(ALUMINIZED
+MYLAR,ETC,)
+MATERIALS
+CONTAININ@
+OXIDIZERSAND
+MATERIALS
+TRAPPINGOXYGEN(OPENCELLFOAMEDPOLYURETHANE)
+FLASHOVER
+TOADJACENTMATERIAL- BURNINGPAPERREQUIRES
+GAPDISTANCES
+OF OVER
+1/2INCHTOPREVENTFLASHOVER,
+FLAMEVISIBILITY
+- THEFUEL-RICH
+NATUREOF MANYKINDSOF ZERO-6FLAMESCAUSES
+A SOFTBLUEFLAMEWHICHISBOTHSMALLANDNEARLYINVISIBLE,FLAMES
+FROMRAPIDLYBURNINGMATERIALAREGENERALLY
+VISIBLE,
+MATERIALTESTING- ONE-GTESTINGFORELAMMABILITY
+PROVIDESANADEQUATE,
+SOME-
+W_T CONSERVATIVE,
+TESTFORFIRESAFETY,
+FIGURE 18.
+SKYLAB EXPERIMENT M-479
+(CONT.)
+129
+,}i
+i,i
+
+<<<PAGE 16>>>
+FUTURESTUDIESOFZERO-GRAVITY
+FLAMMABILITY
+SHOULD
+INCLUDE:
+o FIREDETECTION
+- FLAMESPECTRA
+o
+IGNITION
+ENERGIES
+"
+o
+PROPAGATION
+RATES
+o OTHERFUELS
+o LIQUIDS
+o GASES
+o METALS
+o EXTINGUISHMENT
+FIGURE
+19.
+RECOMMENDATIONS
+130

@@ -1,0 +1,814 @@
+<<<PAGE 1>>>
+NASA
+MICROGRAVITY
+COMBUSTION
+SCIENCE
+MERRILL
+KKING
+i
+NASA
+Headquarters,
+Code
+UG
+/
+Washington,
+DC
+20546
+.
+_ :
+_
+PROGRAM
+Introduction
+Combustion is a key element of many critical technologies
+used by contemporary
+society.
+For example, electric
+power production,
+home heating, surface and air transportation,
+space propulsion, and materials synthesis all utilize
+combustion as a source of energy.
+Yet, although combustion
+technology
+is vital to our standard of living, it poses
+great challenges to maintaining a habitable environment.
+For example, pollutants, atmospheric
+change and global
+warming, unwanted fires and explosions, and the incineration of hazardous wastes are major problem areas which
+would benefit from improved
+understanding
+of combustion.
+Effects of gravitational
+forces impede combustion
+studies more than most other areas of science since combustion
+involves production of high-temperature
+gases
+whose low density
+results in buoyant motion, vastly complicating
+the execution
+and interpretation
+of experiments.
+Effects of buoyancy
+are so ubiquitous that their enormous
+negative impact on the rational development
+of
+combustion
+science is generally
+not recognized.
+Buoyant motion also triggers the onset of turbulence,
+yielding
+complicating
+unsteady effects.
+Finally, gravity forces cause particles and drops to settle, inhibiting deconvoluted
+studies of heterogeneous
+flames important to furnace,
+incineration
+and power generation
+technologies.
+Thus,
+effects of buoyancy
+have seriously limited our capabilities
+to carry out "clean" experiments
+needed for fundamental
+u_._terstanding of flame phenomena.
+Combustion
+scientists can use microgravity
+to simplify the study of many
+combustion
+processes,
+allowing fresh insights into important
+problems via a deeper understanding
+of elemental
+phenomena
+also found in Earth-based combustion
+processes
+and to additionally
+provide valuable
+information
+conceming
+how fires behave in microgravity and how fire safety on spacecraft
+can be enhanced.
+Promising
+Microgravity
+Combustion
+Program
+Research
+Thrusts
+(1)
+Turbulence
+and Combustion.
+Virtually
+all practical
+combustion
+devices
+are turbulent.
+The wide
+range of
+turbulence length and time scales generally precludes exact numerical simulation and also presents a significant
+challenge to experimental investigations.
+Microgravity uniquely limitsthe range of length and time scales to those
+large enough to be tractable experimentally and more readily simulated. Preliminary I_gexperiments reveal that
+buoyancy plays a role inthe turbulence characteristics in regimes where it had been previously assumed that the flow
+field and flame behavior was independent of gravitational influence. One particularly powerful approach for treating
+the coupling between fluid motion and combustion chemistry based on studies of laminar flames is currently under
+development; this approach, referred to as laminar flamelet theory, shows promise as a tractable representation of
+turbulent combustion. The extension of laminar flamelet theories to predict fully turbulent flames cannot presently be
+exploited, however, due to limitations of our current knowledge base caused by the interferences of buoyancy
+during laminar flame studies. Microgravity combustion studies provide an opportunity to eliminate these
+interferences and, thus, markedly advance our capability to address turbulent combustion phenomena.
+(2)
+Transient
+Processes
+in Gaseous
+Flames.
+Numerous types of instabilities
+are possible
+in combustion of
+flowing gases, some of these being gravity-dependent and others not. Such phenomena as ignition, extinction, and
+unsteady response of flames to extemally imposed perturbations (e.g., pressure oscillations) are also of major
+importance as regards fire safety, production of pollutants, and combustion efficiency.
+Research studies in a
+microgravity environment provide for examination of fundamental
+phenomena involved in these transient
+phenomena
+without the confounding effects of buoyancy-induced flows which will, under normal gravity conditions,
+also respond in an unsteady manner to such imposed perturbations, often masking fundamental
+phenomena of
+interest. With understanding of these phenomena, strategies for controlling ignition, extinction, and responses of
+flames to externally imposed perturbations in practical combustion devices can better be devised.
+3
+
+<<<PAGE 2>>>
+(3)
+Soot Processes.
+Soot is a critical element in many combustion systems, strongly affecting combustor
+lifetime, efficiency, peak power output, and pollution generation. The short time scales and small spatial volumes
+affecting soot formation
+and destruction processes under normal gravity conditions preclude experimental probing.
+Furthermore, buoyancy
+accelerates, in an uncontrolled fashion, the flow field in which soot is formed and oxidized;
+this too inhibits scientific investigations. Microgravity offers a unique opportunity for controlling the flow environment
+and through this control extending the range of conditions involving soot processes.
+The lack of buoyantly-induced,
+accelerated flow results in longer residence times for primary soot formation,
+clustering, cluster-cluster agglomeration,
+and oxidation in a variety of flames.
+In addition, soot particle pathlines are strongly altered under microgravity
+conditions, resulting in major changes in the environmental history seen by the soot precursors and particles.
+From
+the perspective of practical benefit, the fundamental
+understanding of the processes controlling soot formation,
+aggregation,
+and oxidation is of vital importance since such understanding would allow us to develop methods to
+predict and control sooting associated with combustion processes under a wide variety of circumstances.
+(4)
+Measurement
+(Species,
+Velocity,
+Temperature)
+Technology.
+A historic (and valid) criticism of
+microgravity
+experimental research is lack of quantification of meaningful variables (e.g. species concentrations).
+Advancement in understanding of chemical kinetic mechanisms is inhibited by an inability to measure progress of
+reactions and to quantify the detailed temperature and flow fields in which those reactions take place. Improved
+measurement methods in both lg and I_gare a growing focus of terrestrial research. Technological improvements in
+measurement capabilities will lead directly to improved kinetic and flow field modeling leading to enhanced capability
+for design of combustors with reduced pollutant generation and improved fuel efficiency. Spinoffs of these
+technologies can and are being used not only in laboratories distant from the inventor's own, but also in the
+monitoring of pollutant emissions from various sources. In the future these technologies will be used to evaluate fuel
+consumption, product generation, heat transfer efficiency, and pollutant control in manufacturing processes, and to
+serve as insitu engine performance
+and emission levels monitors.
+The resulting combination of diagnostic sensors
+and computational algorithms will allow electronic controlsto play a larger part in practical combustion systems,
+enabling
+so-called "intelligent
+combustors".
+(5)
+Droplet/Particle
+Combustion
+at Pressures
+Up to Supercritical.
+Microgravity
+is of particular benefit in
+studies of particle and liquid droplet ignition and combustion inasmuch as it permits elimination of settling effects and
+of buoyancy-induced flows around the droplets, thus leading to truly symmetrical (and hence one-dimensional)
+geometry and allowing droplets to be restrained within the field-of-view of various diagnostics.
+Currently, high
+pressure and supercritical fluid operation of combustion devices is being examined for increased efficiency.
+Unfortunately, pollutant (e.g., soot and oxides of nitrogen) generation increases with increasing pressure; hence
+military and NASA aeropropulsion research is heavily populated with studies aimed at realization of the theoretical
+efficiency improvements with simultaneous minimization of pollutants. Another application of this technology is in the
+area of hazardous waste disposal: supercritical water oxidation of hazardous wastes has been predicted as an
+important technology of the future, hopefully yielding only benign products (carbon dioxide and water).
+Much of our
+detailed knowledge in the area of combustion of droplets and particles has been obtained
+at low pressure; extension
+of studies to high pressure is required. For example, soot studies have mostly been performed
+near ambient
+pressures with flame temperatures of less than 2000K; diesel engines operate at over 50 atm and 2800K.
+Much of
+our knowledge of soot kinetics may not be applicable to these high temperature, high pressure regimes. High
+pressure operation is accompanied by increased buoyant flow effects; microgravity experiments will enable, as in
+other situations, an isolation of the effects of the buoyancy on flame structure, flammability, and flame speeds.
+(6)
+Classical
+Model Validation/Benchmark
+Data.
+Combustion textbooks are replete with theories which are
+incompletely tested though widely accepted (through historical precedent).
+These theories often neglect buoyancy
+effects and utilize simplified transport processes and/or assume one-dimensional behavior in situations where
+buoyant effects preclude it. Microgravity continues to offer the unique ability to test, via ideal truly one-dimensional
+experiments, the accuracy of specific aspects of theories and to provide a benchmark data base against which
+extensions to existing theories and altogether new theories can be tested.
+(7)
+Flame
+Structure/Elementary
+Mechanisms.
+A fruitful approach to achieving
+meaningful technology
+gains in combustion processes must be centered on development of better understanding of the fundamentals of
+the unit processes involved. Without such an understanding, the approach taken to improving combustion devices
+tends to involve incremental trial-and-error perturbations around current state-of-the-art designs, with opportunities to
+achieve possible major improvements with radically different approaches being missed.
+However, if one fully
+4
+
+<<<PAGE 3>>>
+understands
+the physics and chemistry
+involved in a given combustion
+process, including detailed
+understanding
+of
+the unit subprocesses
+and how they interact, this understanding
+can be combined
+into physically accurate models
+which can then be used for parametric exploration of new combustion
+domains via computer simulation,
+with possible
+definition of radically different
+approaches to accomplishment
+of various combustion
+goals.
+Accordingly,
+emphasis
+should be placed on studies
+of combustion fundamentals
+which are not currently well understood;
+gravitational
+effects associated with normal earthbound
+combustion
+studies have prevented study of many elementary
+processes
+which tend to be overshadowed
+by gravitation-induced
+processes such as buoyancy
+or settling.
+(8)
+Direct
+Numerical
+Simulation,
+Large
+Eddy Simulation.
+DNS and LES are being widely pursued
+for
+definition of detailed features of the flame structure and transport processes (and their interactions) associated with
+combustion. Due to the large range of length and time scales, however, direct numerical simulation of practical or
+even idealized devices is considered to be a technology of the future, at best. DNS modeling to date has, however,
+shown the need to account for preferential mass diffusion even in turbulent flame environments.
+Microgravity
+experiments again lessen the range of scales and may make the problem tractable at least for model validation of
+laboratory-scale experiments, a first step toward DNS validation. DNS is expected to ultimatelyplay a major role inthe
+design of practical combustion systems and obviate the need for the expensive construction and modification of a
+wide range of breadboards, prototypes, and experimental models of combustion devices; it may also be used for
+optimization of design elements, subsystems, controls, and overall system performance at reduced cost/time.
+(9)
+Spray
+and Aerosol
+Combustion.
+Realistic sprays include a liquid breakup region, dispersed multiphase
+flow, turbulent mixing processes, and various levels of flame interactions through the spray. Idealization of spray
+configurations in a quiescent
+environment (the starting point for models) has been impossible in lg due to settling of
+large droplets and buoyant pluming of post-combustion gases.
+Microgravity offers the promise of such idealization,
+but has just begun to provide experimental data on ignition,fire spread, and interactions in idealized linear and planar
+arrays of monosized
+droplets. Spray and aerosol cloud combustion accounts for 25% of the world's energy use, yet
+remains poorly understood from both a fundamental
+and practical perspective.
+Improved understanding of the
+flammability and flame interactions of sprays can be expected to yield improved combustion efficiency in practical
+devices; this will only occur with an improved detailed theoretical description.
+In the area of combustion safety, dust
+clouds contribute to accidental fires and explosions (grain elevators, underground mines).
+Finally, improved spray
+technology can be applied to improvements in hazardous waste incineration.
+(10)
+Combustion
+Synthesis.
+The use of flames to synthesize materials is expanding rapidly. Products include
+valuable vapors (e.g. acetylene), ultrafine particles (fullerenes, silicon oxides, titanium oxides), coatings (diamonds) or
+monolithic solids (boron carbide, titanium boride). Fullerene production is being investigated extensively, but the
+product yields of fullerenes
+are currently typically less than 1%, leaving tremendous potential for improvement.
+Sedimentation and buoyant plumes yielding limited critical residence times again interfere with present investigations
+into both the scientific mechanisms of material production and the quality of the actual industrial product.
+For
+example, pressure and buoyancy effects on soot-filled flames are not understood sufficiently to determine the ideal
+operating conditions to maximize fullerene generation in either premixed or diffusion flames.
+Microgravity offers the
+promise of isolating the effects of pressure by removing the influence of buoyancy on the material production
+process. A major difficulty in self-propagating, high-temperature synthesis (SHS) of materials is the control of porosity
+and the microstructure of the products. SHS reactions generating gaseous, liquid, or combined phases are prone to
+gravity-induced fluid flows, leading to non-uniform microstructure and undesirable properties of the product material
+due to segregation and density gradient effects. Gravitational forces have been shown to play a dominant role in
+controlling both the combustion-synthesis reactions and the morphologies of the synthesis products. Current
+research is geared towards interpreting the differences between normal- and low-gravity processing.
+(11)
+Partial Gravity Studies.
+The utilization
+of partial gravity environments enables systematic scientific testing
+of effects of this parameter on fundamental
+processes as well as tying directly to the nation's desire for space
+exploration. Both the Moon and Mars are in NASA's future; microgravity and normal gravity studies have already
+shown that combustion processes are distinctly affected by reductions in gravity, with a conclusion that the partial
+gravitational levels on the Moon and Mars may yield increased flammability. In addition, partial gravity environments
+may have strong effects on insitu propellant production
+processes as well as on utilization of these products.
+(12)
+Surface
+Flame
+Spread
+<.... > Large-Scale
+Fires.
+Anyone who has observed the combustion of solid
+fuels, particularlyflame spread across and burning of vertical walls, is well aware of the dominant effects of buoyancy
+5
+
+<<<PAGE 4>>>
+on such processes under normal gravity conditions, a dominance which makes understanding of other phenomena
+involved very difficult (an example of how buoyancy can "mask" such phenomena).
+Accordingly, microgravity studies
+of flame spread across solid fuels and liquid pools are of considerable interest from a fundamental
+pointof view as well
+as being very important in terms of fire safety on various space platforms. On Earth, the fluid mechanics of large-scale
+fires are complicated by buoyancy-fed turbulent processes and thermal radiative interactions with surrounding
+materials, terrain, and building structure. Current models are still somewhat primitive, with little elucidation of the role
+of thermal radiation in almost any aspect of fires.
+Investigations of large-scale fires under microgravity conditions have
+yet to begin, but it has been shown that radiation takes on heightened
+importance in small-scale fires in microgravity,
+indicating that results from laboratory-scale
+experiments in microgravity might be utilized in modeling of large-scale
+fires.
+In terms of NASA's own direct interests, ongoing investigations of material flammability
+and fire behavior in
+microgravity
+have yielded vital guidance to improved fire safety aboard orbiting spacecraft.
+There does remain,
+however, a need for lg - I_gcorrelations of ignition,flame spread, flammability,
+and extinction conditions.
+Current
+NASA
+Microgravity
+Combustion
+Program
+Content
+As stated in NASA's Microgravity Research Program Strategic Management
+Handbook, the Microgravity
+Research
+Program mission is "To use the microgravity environment of space as a tool to advance knowledge; to use space as a
+laboratory to explore the nature of physical phenomena, contributing to progress in science and technology on
+Earth; and to study the role of gravity in technological processes, building a scientific foundation
+for understanding
+the consequences of gravitational environments beyond Earth's boundaries". For accomplishment
+of this mission,
+both a ground-based program and a flight experiments program are employed; in addition, development of facilities
+and experiment modules for conduct of multiple experiments is supported. The ground-based program has two
+major objectives: (1) nurturing and development of ideas and concepts that may be later developed into flight
+experiments; and, (2) providing theoretical and experimental underpinnings to support understanding of
+phenomena being studied in the microgravity environment.
+Ground-based investigations include theoretical and
+experimental laboratory research, drop-tower tests, and parabolic aircraft flight experiments.
+In the flight program
+experiments judged to justify use of the flight environment are developed and executed.
+These experiments are
+conducted in microgravity
+environments provided by suborbital sounding rockets, the Space Shuttle middeck or
+isolated cargo bay support structures, the Shuttle-based Spacelab or Spacehab pressurized laboratory facilities, the
+Russian Mir station, international Space Station facilities, and other available carriers.
+Currently,
+the Microgravity Combustion
+Science program is supporting 48 ground-based studies, 7 flight definition
+studies, 8 flight programs, 3 GIovebox investigations, 5 Graduate Student Researcher
+Programs, and 2 NRC
+postdoctoral studies, for a total of 73 programs. In addition, two major combustion-related Advanced Technology
+Development programs in the area of diagnostics development are being carried out at the Lewis Research Center.
+In terms of the Research Thrusts described above, the number of studies involving aspects of Categories 1-12 are 7,
+7, 5, 7, 11,9,
+18, 2, 8, 6, 3, and 15, respectively. [Note that this totals 97, in excess of the total number of programs
+being supported, since some of the programs involve aspects of more than one of the categories.]
+Although the majority of the current programs are ground-based
+studies, centered on analytical
+modeling activities,
+testing in drop-towers and parabolic aircraft at Lewis Research Center, and testing at the Japan Microgravity Center
+(JAMIC) dropshaft in Hokkaido, Japan, limited flight testing has also been carried out on Sounding Rockets and on
+the Space Shuttle. Three Sounding Rocket tests on the Spread Across Liquids (SAL) Program of Dr. Howard Ross
+(Lewis Research Center) have been successfully completed to date.
+Each flight provided approximately six minutes
+of microgravity time (during which three bums were accomplished) for investigation of the flame spread characteristics
+across a deep pool of liquid fuel in a microgravity
+environment, with particle imaging velocimetry, rainbow schlieren,
+and flamespread
+data being obtained for comparison with model predictions. This program has recently been
+approved for five additional flights.
+In addition, three Sounding Rocket flights have been carried out on Prof. Robert
+Altenkirch's (Washington State University) Diffusive and Radiative Transport in Fires Experiment (DARTFire).
+Dr. Altenkirch
+is also Principal Investigator
+on the Solid Surface Combustion
+Experiment
+(SSCE) on which eight
+experiments
+have been completed
+to date, with samples of PMMA being bumt in various oxygen-nitrogen
+atmospheres
+under quiescent
+conditions.
+Two additional
+shuttle flights have been approved
+for this experiment;
+it is
+expected that these will be completed
+during 1997.
+Two Getaway Special Canister
+(GASCAN) payload shuttle flight
+
+<<<PAGE 5>>>
+testsontheMicrogravitySmolderingCombustionexperiment(MSC)ofProf.CarlosFernandez-Pello
+(Universityof
+California-Berkeley)
+havealsobeenrecentlycompleted,witha requestforadditionalflightscurrentlyunderreview.At
+thistime,finalpreparationshavebeencompletedforthreemajorcombustionexperimentsontheMicrogravitySpace
+Laboratory(MSL-1)ontheSpaceShuttle,scheduledforApril,1997;theseexperimentsaretheDropletCombustion
+Experiment(DCE)ofProf.FormanWilliams(UCSD),Prof.PaulRonney's(UniversityofSouthemCalifomia)Studyof
+FlameballsatLowLewisNumbersexperiment(SOFBALL),andDr.GerardFaeth's(UniversityofMichigan)Laminar
+SootProcessesinFlamesexperiment(LSP).Inaddition,Dr.YousefBahadori's(SAIC)TurbulentGasJetDiffusion
+Flame(TGDF)experimentistentativelyscheduledtogotoflightinlate1997.
+Todate, four
+Microgravity
+Combustion
+Glovebox Experiments,
+one on USML-2 (Oct., 1995) and three on USMP-3
+(Feb., 1996), have been carried out; these were the Fiber-Supported
+Droplet Combustion
+(FSDC) experiment,
+the
+Forced Flow Flame Spreading Test (FFFT), the Comparative
+Soot Diagnostics (CSD) experiment,
+and the Radiative
+Ignition and Transition to Flame Spread Investigation (RITSI).
+In addition, a repeat of the FSDC experiment
+is planned
+for MSL-1, with two additional
+glovebox experiments,
+Opposed-Flow
+Flame Spread on Cylindrical Surfaces
+(OFFS)
+and Enclosed Laminar Flames (ELF), planned for the near future.
+Finally, additional
+FFFT tests and Candle Flame
+Combustion tests have been carried out in the Mir Glovebox facility during 1996.
+Enterprise
+for
+Human
+Exploration
+and
+Development
+of Space
+(HEDS)--Roadmap
+In early 1994, as part of ongoing reorganizations
+at NASA, the agency established
+six major enterprises,
+later
+reduced to five.
+In the current organization,
+the Microgravity
+Science and Applications
+Division (MSAD) of the Office
+of Life and Microgravity
+Sciences and Applications
+(OLMSA) has become part of the Human Exploration and
+Development
+(HEDS) Enterprise.
+In January, 1996, a Strategic Plan for HEDS was put into place and development
+of
+"roadmaps" for the future directions of activities within HEDS was initiated; the current roadmap for the Microgravity
+Combustion
+Science program is attached as Figure 1. The three major thrusts of the HEDS activities are shown in the
+ellipses at the .left of the figure, with applications
+of these to the direction(s)
+of the Microgravity
+Combustion
+Science
+program over three time periods being shown in the boxes to the right of these ellipses.
+It is obvious from this chart
+that, while basic research into fundamentals
+is still considered to be vitally important to the program, there is a major
+shift of emphasis toward "mission-oriented"
+research; that is, research aimed at specific problems in combustion
+applications on Earth as well as under reduced or microgravity
+conditions.
+Thus, it is important that firmer linkages
+between the research being done using microgravity
+and applications
+to practical applications
+on Earth (e.g.,
+increased efficiency of conversion
+of chemical energy contained
+in fuels to useful work, reduction of combustion-
+generated pollutants
+from automobile
+engines and other combustors,
+decreased
+fire and explosion
+hazards) need to
+be established
+for an increasing percentage of efforts funded under this program.
+In trying to steer our program into
+particular areas of emphasis, however, we cannot lose sight of the fact that outside peer review weighs very heavily
+into selection for funding of proposals submitted in response to our NASA Research
+Announcements
+(NRA's),
+though final selections are made by a NASA selecting official (in this case, the Director of the Microgravity
+Science
+and Applications
+Division).
+In the past, we have asked our peer reviewers to judge proposals solely on scientific merit
+and microgravity
+relevance; for future NRA's, we will likely extend the evaluation criteria to include responsiveness
+to
+specific areas of emphasis called out in these NRA's.
+In addition, the question of relevance to specific program goals
+can be used as a "tie-breaker" in choosing between proposals with similar peer review scores.
+Included among the long-term goals of the HEDS microgravity combustion
+program are: (1) Melding
+microgravity
+combustion
+space experiments
+together with ground-based
+combustion
+studies, using gravity as an added
+independent
+variable, to provide better understanding
+of the physical and chemical
+mechanisms
+involved in
+combustion and to provide more rigorous testing of analytical models; (2) Utilizing basic research to provide
+technological
+advances
+in various combustion
+processes/devices
+(e.g., internal combustion
+engines, turbines,
+combustion synthesis,
+incinerators);
+(3) Creating the understanding
+that will permit lessons learned in microgravity
+combustion
+experiments
+and modeling to be used in optimizing
+combustion
+devices
+here on Earth; (4)
+Providing
+quantum leaps in the areas of fire safety and minimization of combustion-generated
+pollution; (5) Providing the
+understanding
+which will permit efficient use of alternative
+fuels, which will be increasingly
+needed as we deplete our
+oil and gas reserves; and, (6) Developing
+a better understanding
+of various combustion
+synthesis
+processes,
+opening the door to production of novel tailored materials here on Earth as well as in space.
+7
+
+<<<PAGE 6>>>
+There are numerous potential combustion technologies
+for terrestrial
+and space exploration applications
+delineated
+in the Figure 1 roadmap.
+These include: (1) Active control over thermal efficiency and pollutant generation (e.g.,
+soot, NOx) through sensor development and miniaturization accompanied by development of algorithms relating
+sensor readings, control settings, and system performance; (2) Use of magnetic and electric fields to improve thermal
+efficiency (microgravity enables improved isolation of and thus understanding of field effects on electrically-charged
+radicals and paramagnetic molecules such as oxygen); (3) Improved atomization methods for diesel and gas turbine
+engines, leading to improved fuel utilization, through improved understanding of fundamentals
+of liquid jet breakup
+and droplet interactions in sprays; (4) Flame-zone pollutioncontrol in premixed and diffusion burners, reducing the
+need for post-combustion cleanup devices, through fundamentally
+improved understanding of flame structure and of
+mechanisms of formation of soot and oxides of nitrogen; (5) Improved exhaust gas monitoringfor cars and other
+combustion devices combined with development of "smart" controls to compensate for fuel variations and/or
+degradation of engine components to decrease pollution emissions; (6) New flame-stabilization/control
+technologies
+for burners enabling reliable, ultra-lean premixed combustion through improved understanding of flame stabilization
+zones in engines, burners, etc.; (7) Development of improved strategies and procedures for fire prevention,
+detection, and suppression in the microgravity environment associated with Space Station and in the reduced gravity
+Lunar and Martian environments; (8) Reduction of hazards associated with gaseous fuel combustion through better
+mapping and understanding of flammability
+limit and combustion instabilityphenomena;
+(9) Development of
+improved protection against large-scale fires (house fires, forest fires) via better fundamental
+understanding of
+material ignition and flamespread
+phenomena;
+(10) Reduction of mine and grain silo explosion hazards through
+development of understanding of fundamentals
+associated with these phenomena;
+(11) Improved reliability in
+hazardous liquid waste incineration, resulting from studies of droplet and spray burning and of pollution generation;
+(12) Industrial-scale, combustion-generated fullerene
+production through determination of approaches for improving
+the yields of fullerenic material in flame systems; (13) Production of composite materials with improved strength,
+reliability, and ductility through better understanding of how to improve micro-structural
+uniformity and control porosity
+via gravitational control; and, (14) Development of methods for producing and utilizing alternate fuel/oxidizer
+combinations associated with Lunar, Martian, or other extraterrestrial habitats.
+Upcoming
+Microgravity
+Combustion
+NASA
+Research
+Announcement
+In the Microgravity Combustion
+Program at NASA, investigators are selected in response to a NASA Research
+Announcement (NRA) issued once every two years and are placed either in the Ground-based Category
+or in the
+Flight Definition Category. At this time, it is anticipated that an NRA will be released early in the Fall of this year (1997)
+with proposals being due approximately three months after the NRA release date; it is suggested that, even though
+distribution of postcards describing how to obtain the NRA will be made to an existing extensive distribution list,
+potential proposers contact the author to ensure that they are included on this list. Proposals received in response to
+this NRA will first be examined for responsiveness and divided into categories, with external peer review panels being
+established for each category. Next, written reviews and ratings (three per proposal) will be obtained from the
+reviewers, each of whom will review approximately 10 proposals, with each proposal being rated on scientific merit,
+microgravity relevance, and linkage to goals outlined in the HEDS Roadmap. All the reviewers on a given panel will
+then be assembled for discussion of the proposals within that group with the ultimate output of a consensus
+evaluation of each proposal and assignments into "Highly Qualified", =Qualified", or "Not Qualified" categories.
+For
+strong candidate proposals which are likely to require flight, feasibility and resource compatibility reviews will be
+carded out by NASA/Lewis personnel. Finally, the "Highly Qualified" and "Qualified" proposals will be assessed in
+terms of program balance and linkage to HEDS goals by the Enterprise Scientist for Microgravity Combustion and a list
+of suggested awardees for Ground-Based and Flight Definition Programs will be developed. A listof proposals
+recommended for funding will be generated in a meeting of the Microgravity Science Branch, with final approval by
+the Lead Scientist and Division Director. It is anticipated that the review process should be complete by mid-1998,
+with awards occurring in late 1998 (early Fiscal Year 1999).
+For proposals receiving awards in the Flight Definition category, the programs may proceed, following passing of a
+peer-reviewed Science Concept Review (SCR) and Requirements Definition Review (RDR) and acceptance of a
+Science Requirements Document (SRD) generated by the Principal Investigator, into the Flight Program.
+In
+addition, there is opportunity for Ground-Based investigators to participate as "guest" investigators in Glovebox
+Experiments on a Space Platform based on internal NASA review of proposals submitted in response to Glovebox
+8
+
+<<<PAGE 7>>>
+Opportunity Announcements.
+[More details on these processes are available from the author.]
+In the overall (flight
+plus ground-based
+projects)
+Microgravity
+Combustion
+program, both experimental
+and theoretical
+modeling efforts
+are supported.
+Experimental
+test beds for microgravity
+experiments
+include drop-towers
+at NASA/Lewis,
+capable of
+providing 2.2 to 5 seconds of microgravity
+time, aircraft flying parabolic trajectories,
+providing up to twenty seconds of
+reduced gravity (0.001 to 0.01 g), sounding
+rockets which supply very low gravity for up to 6-7 minutes, and Shuttle
+or Space Station facilities of various types, allowing basically unlimited microgravity operating times.
+In addition, we
+are participating
+in cooperative
+studies with Japanese investigators
+allowing us access to a 10-second drop tower at
+Hokkaido, Japan.
+As indicated earlier, while conduct of fundamental
+science investigations remains a cornerstone
+of the Microgravity
+Combustion Science program, more emphasis will be placed in the future on relevance to the goals outlined in the
+HEDS Roadmap, with linkage of the proposed research to attainment of these goals receiving increased emphasis.
+However, future proposals are not limited to the topic areas discussed in this paper; extension to combustion topics
+not currently included in the Micr0qravitv
+Combustion
+oroaram is strongly encouraged
+to permit us to broaden the
+program scope.
+Evaluation criteria which should be kept in mind by proposers
+include:
+1.
+Is microgravity
+of fundamental
+importance to the proposed study?
+.
+Do the issues addressed by the research have the potential to close major gaps
+in the understanding
+of
+fundamentals
+of combustion
+processes?
+4.
+Is there potential for elucidation
+of previously
+unknown phenomena
+or interactions between phenomena?
+o
+Is the project likely to have significant benefits/applications
+to ground-based
+as well as space-based
+operations involving combustion processes?
+6.
+Are the results likely to be broadly useful, leading to further theoretical or experimental studies?
+7.
+Can another project in the specific subarea be justified in terms of limited resource allocation?
+8.
+Is the project technologically
+feasible, without requirements
+for substantial new technological
+advances?
+9.
+How will this project stimulate research and education inthe combustion area?
+10.
+How does the projected cost/benefit
+ratio compare with other projects competing for the same resources?
+11.
+What is the potential of this project in terms of stimulating future technological
+"spinoffs"?
+12.
+Are there strong well-defined linkages between the research and HEDS goals?
+It appears that the most fruitful approach
+to achieving meaningful technology
+gains in processes
+involving
+combustion
+is to concentrate
+on developing
+better understanding
+of the fundamentals
+of the individual
+processes
+involved.
+With such understanding,
+including
+definition of details of the unit processes and their interactions,
+physically accurate models which can be used for parametric exploration of new combustion
+domains via computer
+simulation can be developed, with possible resultant definition of radically different approaches
+to accomplishment
+of
+various combustion
+goals. As discussed earlier, normal-gravity
+conditions
+have prevented study of many elementary
+processes which are over-shadowed
+by processes such as buoyancy, making it difficult to develop mechanistic
+understanding
+of unit phenomena
+making up overall combustion
+processes.
+It cannot be emphasized
+too strongly
+that our program is dedicated to taking advantage of microgravity to untangle these complications,
+allowing major
+strides in our understanding
+of combustion
+processes
+and in subsequent
+development
+of improved
+combustion
+devices leading to improved quality of life here on Earth.
+9
+
+<<<PAGE 8>>>
+b_
+b_
+r_
+<
+I0

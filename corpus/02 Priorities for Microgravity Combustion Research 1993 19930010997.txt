@@ -1,0 +1,483 @@
+<<<PAGE 1>>>
+PRIORITIES FOR MICROGRAVITY COMBUSTION RESEARCH AND GOALS 
+Introduction 
+FOR WORKSHOP DISCUSSIONS 
+Gerard M. Faeth 
+Department of Aerospace Engineering 
+The University of Michigan 
+Ann Arbor, Michigan 48109-2140 
+Several concerns motivate fundamental combustion research: combustion-generated pollutants are 
+re-emerging as a major problem, new combustion technologies are needed for effective energy 
+utilization, municipal and hazardous waste incineration are needed to replace landfills and storage, 
+new combustion technologies are needed for advanced aircraft and spacecraft propulsion systems, 
+and current understanding of fires and explosion hazards is limited -
+particularly for space-craft 
+environments. Thus, it is of interest to determine how experimentation using micro gravity 
+facilities can advance research relevant to these problems. 
+Effects of buoyancy have had an enormous negative impact on the rational development of 
+combustion science. Thus, microgravity (~g) offers a potential breakthrough in combustion 
+research capabilities that could be comparable to the impact of laser diagnostics and numerical 
+computations in recent years. On the other hand, human operations in spacecraft involve flre-
+safety issues at ~g that largely are unexplored. Thus, ~g offers both unusual opponunities and 
+unusual challenges to combustion science. The objectives of this paper are to highlight the 
+intrusion of buoyancy on fundamental combustion studies, the current priorities of microgravity 
+combustion program and the goals of this workshop. The present discussion is brief, see several 
+recent reviews of aspects of ~g combustion research for more details (1-6]. 
+Intrusion of Buoyancy 
+The intrusion of buoyancy is a greater impediment to combustion than most other areas of science 
+because density changes caused by chemical reaction initiate buoyant flows that vastly complicate 
+both the execution and interpretation of measurements. Thus, the presence of gravity prevents 
+some fundamental phenomena -
+most laminar one-dimensional premixed and diffusion flames, 
+low Reynolds number heterogeneous flames, flame spread in dispersed heterogeneous media. etc. 
+-
+from being observed at all. 
+Perv~rsely, problems of buoyancy are greatest for fundamental 
+laboratory experiments where good temporal and spatial resolution are needed; few practical 
+combustion phenomena are dominated by effects of buoyancy. 
+The limitations of buoyancy on combustion studies have been quantified using phenomenological 
+theories [4-6). For example, for effects of buoyancy to be small in a motionless combustion 
+environment at atmospheric pressure, the dimensions of the flame should be no larger than 100 
+~m; unfortUnately, it is not possible to resolve experiments on such scales using either existing or 
+anticipated combustion apparatus and instrumentation [4-6). Experiments at subatmospheric 
+pressures can inCrease allowable flame sizes, and this has been exploited in the past, however, the 
+available range is limited due to low reaction rates leading to extinction at low pressures, see [6] 
+and references cited therein. 
+67 
+-
+----
+PRIORITIES FOR MICROGRAVITY COMBUSTION RESEARCH AND GOALS 
+Introduction 
+FOR WORKSHOP DISCUSSIONS 
+Gerard M. Faeth 
+Department of Aerospace Engineering 
+The University of Michigan 
+Ann Arbor, Michigan 48109-2140 
+Several concerns motivate fundamental combustion research: combustion-generated pollutants are 
+re-emerging as a major problem, new combustion technologies are needed for effective energy 
+utilization, municipal and hazardous waste incineration are needed to replace landfills and storage, 
+new combustion technologies are needed for advanced aircraft and spacecraft propulsion systems, 
+and current understanding of fires and explosion hazards is limited -
+particularly for space-craft 
+environments. Thus, it is of interest to determine how experimentation using micro gravity 
+facilities can advance research relevant to these problems. 
+Effects of buoyancy have had an enormous negative impact on the rational development of 
+combustion science. Thus, microgravity (~g) offers a potential breakthrough in combustion 
+research capabilities that could be comparable to the impact of laser diagnostics and numerical 
+computations in recent years. On the other hand, human operations in spacecraft involve flre-
+safety issues at ~g that largely are unexplored. Thus, ~g offers both unusual opponunities and 
+unusual challenges to combustion science. The objectives of this paper are to highlight the 
+intrusion of buoyancy on fundamental combustion studies, the current priorities of microgravity 
+combustion program and the goals of this workshop. The present discussion is brief, see several 
+recent reviews of aspects of ~g combustion research for more details (1-6]. 
+Intrusion of Buoyancy 
+The intrusion of buoyancy is a greater impediment to combustion than most other areas of science 
+because density changes caused by chemical reaction initiate buoyant flows that vastly complicate 
+both the execution and interpretation of measurements. Thus, the presence of gravity prevents 
+some fundamental phenomena -
+most laminar one-dimensional premixed and diffusion flames, 
+low Reynolds number heterogeneous flames, flame spread in dispersed heterogeneous media. etc. 
+-
+from being observed at all. 
+Perv~rsely, problems of buoyancy are greatest for fundamental 
+laboratory experiments where good temporal and spatial resolution are needed; few practical 
+combustion phenomena are dominated by effects of buoyancy. 
+The limitations of buoyancy on combustion studies have been quantified using phenomenological 
+theories [4-6). For example, for effects of buoyancy to be small in a motionless combustion 
+environment at atmospheric pressure, the dimensions of the flame should be no larger than 100 
+~m; unfortUnately, it is not possible to resolve experiments on such scales using either existing or 
+anticipated combustion apparatus and instrumentation [4-6). Experiments at subatmospheric 
+pressures can inCrease allowable flame sizes, and this has been exploited in the past, however, the 
+available range is limited due to low reaction rates leading to extinction at low pressures, see [6] 
+and references cited therein. 
+67 
+-
+----
+
+<<<PAGE 2>>>
+Experiments in the presence of flow velocities offer a way of circumventing buoyancy effects, 
+however, relatively large velocities must be used causing spatial resolution problems similar to 
+those just discussed, and problems with approaching limiting conditions where either combustion 
+rates or flow velocities are small. Thus, for effects of buoyancy to be small for premixed flames, 
+at atmospheric pressure, laminar flame speeds should be greater than 1 mls [4-6]. This prevents 
+approaching flammability limits without effects of buoyant motion, which is problematical because 
+premixed flames are unusually responsive to stretch induced by gas motion near limits [7]. 
+Similarly, nonpremixed flames should have characteristic Reynolds numbers of 100 or more to 
+avoid effects of buoyancy at atmospheric pressure [4-6]. This prevents approach to the low 
+Reynolds number Stokes flow regime that has been invaluable for understanding fluid mechanics. 
+The effect of buoyancy is so ubiquitous that we generally do not appreciate the enormous negative 
+impact that it has had on the rational development of combustion science. For example, aside from 
+limited exploratory work at !lg conditions, we have never observed the most fundamental 
+processes of combustion without substantial disturbances of buoyancy. This includes simple one-
+dimensional configurations and low Reynolds number flows that have been invaluable in other 
+areas of science. Thus, buoyancy prevents the rational merging of theory, where buoyancy 
+frequently is of little interest, and experiments, which always are contaminated by effects of 
+buoyancy at nonnal gravity (ng). 
+Turbulent flames, one of the most important unresolved problems of combustion science, provides 
+a graphic example of how buoyancy impedes the parallel development of theory and experiment. 
+Three-dimensional time-dependent numerical simulations provide a rational way to study some 
+phenomena of turbulence but the calculations only will be tractable at low Reynolds numbers for 
+some time to come [8]. Unfonunately, such conditions cannot be duplicated in the laboratory at ng 
+because buoyancy immediately accelerates any low-speed initial condition into a high Reynolds 
+number flow. Similar problems abound for other imponant combustion problems, e.g., the 
+combustion of sprays and particles due to problems of phase separation, etc. With no massive 
+breakthrough in computer technology in the offing, combustion experiments at !lg offer the most 
+promising approach toward resolving this theoreticaVexperimental dichotomy of combustion 
+SCIence. 
+Spacecraft Fire Safety 
+The same features that make !lg attractive for fundamental combustion experiments introduce 
+hazards of fires and explosions that have no counterpan on earth. The main concern is that 
+virtually all existing information concerning design procedures to control fires and explosions is 
+based on experience at ng. Even current qualification procedures for materials used in space 
+involve tests at ng, justified by rather limited measurements at !lg [3]. Since we know that 
+combustion processes are very different at ng and ~g, there is little basis for confidence that this 
+practice is correct. Additionally, excessive caution to reflect our poor understanding of ~g fire 
+environments can unduly restrict our capabilities for exploiting space [3]. 
+Addressing spacecraft fire safety concerns at ~g will require a substantial research effon. 
+Curiously, an alternative that could eliminate many of these concerns has not received much 
+attention. This involves the use of fire-safe attnospheres in spacecraft, similar to the methods used 
+to avoid fires in undersea systems [9]. This potential exists because fire-related phenomena tend to 
+be functions of the fractional amount of oxygen in the atmosphere while human comfon and 
+performance mainly depend on the absolute amount of oxygen in the attnosphere. Thus, it may be 
+possible to find a composition for spacecraft atmospheres that will not suppon combustion but will 
+suppon normal human activities indefinitely. However, available information concerning fire-safe 
+aunospheres -
+combustion properties at ~g, the performance and health of humans and other 
+biological systems, and potential impacts on spacecraft design and operation -
+are woefully 
+68 
+Experiments in the presence of flow velocities offer a way of circumventing buoyancy effects, 
+however, relatively large velocities must be used causing spatial resolution problems similar to 
+those just discussed, and problems with approaching limiting conditions where either combustion 
+rates or flow velocities are small. Thus, for effects of buoyancy to be small for premixed flames, 
+at atmospheric pressure, laminar flame speeds should be greater than 1 mls [4-6]. This prevents 
+approaching flammability limits without effects of buoyant motion, which is problematical because 
+premixed flames are unusually responsive to stretch induced by gas motion near limits [7]. 
+Similarly, nonpremixed flames should have characteristic Reynolds numbers of 100 or more to 
+avoid effects of buoyancy at atmospheric pressure [4-6]. This prevents approach to the low 
+Reynolds number Stokes flow regime that has been invaluable for understanding fluid mechanics. 
+The effect of buoyancy is so ubiquitous that we generally do not appreciate the enormous negative 
+impact that it has had on the rational development of combustion science. For example, aside from 
+limited exploratory work at !lg conditions, we have never observed the most fundamental 
+processes of combustion without substantial disturbances of buoyancy. This includes simple one-
+dimensional configurations and low Reynolds number flows that have been invaluable in other 
+areas of science. Thus, buoyancy prevents the rational merging of theory, where buoyancy 
+frequently is of little interest, and experiments, which always are contaminated by effects of 
+buoyancy at nonnal gravity (ng). 
+Turbulent flames, one of the most important unresolved problems of combustion science, provides 
+a graphic example of how buoyancy impedes the parallel development of theory and experiment. 
+Three-dimensional time-dependent numerical simulations provide a rational way to study some 
+phenomena of turbulence but the calculations only will be tractable at low Reynolds numbers for 
+some time to come [8]. Unfonunately, such conditions cannot be duplicated in the laboratory at ng 
+because buoyancy immediately accelerates any low-speed initial condition into a high Reynolds 
+number flow. Similar problems abound for other imponant combustion problems, e.g., the 
+combustion of sprays and particles due to problems of phase separation, etc. With no massive 
+breakthrough in computer technology in the offing, combustion experiments at !lg offer the most 
+promising approach toward resolving this theoreticaVexperimental dichotomy of combustion 
+SCIence. 
+Spacecraft Fire Safety 
+The same features that make !lg attractive for fundamental combustion experiments introduce 
+hazards of fires and explosions that have no counterpan on earth. The main concern is that 
+virtually all existing information concerning design procedures to control fires and explosions is 
+based on experience at ng. Even current qualification procedures for materials used in space 
+involve tests at ng, justified by rather limited measurements at !lg [3]. Since we know that 
+combustion processes are very different at ng and ~g, there is little basis for confidence that this 
+practice is correct. Additionally, excessive caution to reflect our poor understanding of ~g fire 
+environments can unduly restrict our capabilities for exploiting space [3]. 
+Addressing spacecraft fire safety concerns at ~g will require a substantial research effon. 
+Curiously, an alternative that could eliminate many of these concerns has not received much 
+attention. This involves the use of fire-safe attnospheres in spacecraft, similar to the methods used 
+to avoid fires in undersea systems [9]. This potential exists because fire-related phenomena tend to 
+be functions of the fractional amount of oxygen in the atmosphere while human comfon and 
+performance mainly depend on the absolute amount of oxygen in the attnosphere. Thus, it may be 
+possible to find a composition for spacecraft atmospheres that will not suppon combustion but will 
+suppon normal human activities indefinitely. However, available information concerning fire-safe 
+aunospheres -
+combustion properties at ~g, the performance and health of humans and other 
+biological systems, and potential impacts on spacecraft design and operation -
+are woefully 
+68
+
+<<<PAGE 3>>>
+inadequate in view of the importance of this selection. Thus, fire-safe atmospheres appear to merit 
+a broad-based interdisciplinary research program due to their potential impact on future human 
+activities in space. 
+Current Priorities for Micromvity Combustion Research 
+An objective of this workshop is to identify priority areas within combustion science where 
+micro gravity-based investigations are needed. Based on the results of the First International 
+Microgravity Combustion Workshop, the Discipline Working Group (DWG) that advises NASA 
+in the area of micro gravity combustion science has set the following priorities: (1 ) turbulent 
+reacting flows; (2) heterogeneous combustion such as droplets, particles, slurries, solid fuels and 
+pools of liquid fuels; and (3) laminar homogeneous combustion phenomena such as ignition, 
+fiarneholding, t1ammability limits, flame instabilities, and diffusion flames. Prioritization also was 
+made with respect to applications, with spacecraft fire safety selected as the single most important 
+application area. 
+The current microgravity combustion science program only reflects these priorities with respect to 
+relevance to spacecraft fire safety, with the bulk of the work associated with heterogeneous 
+combustion. This status is summarized in Table 1. 
+In this table, flight studies denote 
+investigations that are candidates for experimentation in space. Other studies either use ground-
+based IJ.g facilities, such as drop towers and aircraft flying parabolic trajectories, or are theoretical 
+studies. The relatively few studies of turbulent combustion is surprising in view of the current 
+high priority of this area. In contrast, seven flight studies and 18 total studies are related to 
+spacecraft fIre safety, implying a strong response to this priority area following the last NASA 
+Research Announcement (NRA) in 1989. 
+Table 1 Current Microgravity Combustion Science Program 
+Priority 
+Area 
+Flight 
+Total 
+Studies 
+Studies 
+Turbulent Reacting Flows 
+1 
+'"l 
+j 
+J 
+Heterogeneous Combustion 
+7 
+19 
+3 
+Laminar Homogeneous Flames 
+2 
+6 
+Goals for W orlcshop Discussions 
+As the microgravity combustion science program develops both the priorities and the focus of the 
+research program will change. Thus, an objective of the workshop is to highlight areas where 
+changes shoulq be encouraged. Some questions that might be addressed during the discussions 
+are as follows: 
+l. 
+2. 
+3. 
+L_ 
+Are the areas and priorities selected by the DWG appropriate? 
+Are there new areas, e.g., combustion synthesis, metal combustion, etc., that merit emphasis 
+in the next NRA? 
+What should be done to improve the content and balance of the flight and ground-based 
+programs. and of experimental and theoretical programs? 
+69 
+-- --- - --
+inadequate in view of the importance of this selection. Thus, fire-safe atmospheres appear to merit 
+a broad-based interdisciplinary research program due to their potential impact on future human 
+activities in space. 
+Current Priorities for Micromvity Combustion Research 
+An objective of this workshop is to identify priority areas within combustion science where 
+micro gravity-based investigations are needed. Based on the results of the First International 
+Microgravity Combustion Workshop, the Discipline Working Group (DWG) that advises NASA 
+in the area of micro gravity combustion science has set the following priorities: (1 ) turbulent 
+reacting flows; (2) heterogeneous combustion such as droplets, particles, slurries, solid fuels and 
+pools of liquid fuels; and (3) laminar homogeneous combustion phenomena such as ignition, 
+fiarneholding, t1ammability limits, flame instabilities, and diffusion flames. Prioritization also was 
+made with respect to applications, with spacecraft fire safety selected as the single most important 
+application area. 
+The current microgravity combustion science program only reflects these priorities with respect to 
+relevance to spacecraft fire safety, with the bulk of the work associated with heterogeneous 
+combustion. This status is summarized in Table 1. 
+In this table, flight studies denote 
+investigations that are candidates for experimentation in space. Other studies either use ground-
+based IJ.g facilities, such as drop towers and aircraft flying parabolic trajectories, or are theoretical 
+studies. The relatively few studies of turbulent combustion is surprising in view of the current 
+high priority of this area. In contrast, seven flight studies and 18 total studies are related to 
+spacecraft fIre safety, implying a strong response to this priority area following the last NASA 
+Research Announcement (NRA) in 1989. 
+Table 1 Current Microgravity Combustion Science Program 
+Priority 
+Area 
+Flight 
+Total 
+Studies 
+Studies 
+Turbulent Reacting Flows 
+1 
+'"l 
+j 
+J 
+Heterogeneous Combustion 
+7 
+19 
+3 
+Laminar Homogeneous Flames 
+2 
+6 
+Goals for W orlcshop Discussions 
+As the microgravity combustion science program develops both the priorities and the focus of the 
+research program will change. Thus, an objective of the workshop is to highlight areas where 
+changes shoulq be encouraged. Some questions that might be addressed during the discussions 
+are as follows: 
+l. 
+2. 
+3. 
+L_ 
+Are the areas and priorities selected by the DWG appropriate? 
+Are there new areas, e.g., combustion synthesis, metal combustion, etc., that merit emphasis 
+in the next NRA? 
+What should be done to improve the content and balance of the flight and ground-based 
+programs. and of experimental and theoretical programs? 
+69 
+-- --- - --
+
+<<<PAGE 4>>>
+4 . 
+Should a major interdisciplinary research program on spacecraft fIre-safe atmospheres be 
+recommended and what should be the combustion component of any such program? 
+S. 
+Does the present program adequately address fundamental research issues relevant to 
+spacecraft fire safety? 
+Funding is competitive within the micrograviry combustion science program, and perhaps more 
+importantly, between this program and other research areas of interest to NASA and other 
+government agencies. Thus. an active high-quality rnicrogravity combustion science program is 
+required to assure continuing funding levels -
+much less increases. This workshop is one step in 
+developing such a program; therefore, lively and productive discussions here will be a valuable 
+service to the field of combustion. 
+Acknowled~ements 
+Helpful inputs from the NASA Microgravity Combustion Science Discipline Working Group are 
+gratefully acknowledged. 
+References 
+1. 
+"Microgravity Combustion Science: A Program Overview;" NASA TM 101424, 1989. 
+2. 
+"Microgravity Combustion Science: Progress, Plans and Opponunities," NASA TM 105410, 
+1992. 
+3. 
+Sacksteder. K .. Twenty-Third Symposiwn (Imernarional) on Combustion, The Combustion 
+Institute, Pittsburgh, 1990, pp. 1589-1596. 
+4. 
+Law, c.K., AlAA Paper No. 90-0120, 1990. 
+S. 
+Faeth. G.M .. AlAAfIKI Microgravity Science Symposium. Moscow, AlAA. Washington. 
+1991, pp. 281-293. 
+6. 
+Law, C.K. and Faeth, G.M .. "Opportunities and Challenges of Combustion in 
+Micrograviry." in preparation, 1992. 
+7. 
+Kwon, S., Tseng, L.-K. and Faeth, G.M., Combust. Flame, Vol. 90, 1992, pp. 230-246. 
+8. 
+Pope, S.B., Twenty-Third Symposiwn (International) on Combustion, The Combustion 
+Institute, Pittsburgh, 1990, pp. 591-612. 
+9. 
+Gann, R.G., Stone, J.P., Tatem, P.L., Williams, F.W. and Carhart, H.W., Combust. Sci. 
+Technol., Vol. 18, 1978, pp. 155-163. 
+70 
+4 . 
+Should a major interdisciplinary research program on spacecraft fIre-safe atmospheres be 
+recommended and what should be the combustion component of any such program? 
+S. 
+Does the present program adequately address fundamental research issues relevant to 
+spacecraft fire safety? 
+Funding is competitive within the micrograviry combustion science program, and perhaps more 
+importantly, between this program and other research areas of interest to NASA and other 
+government agencies. Thus. an active high-quality rnicrogravity combustion science program is 
+required to assure continuing funding levels -
+much less increases. This workshop is one step in 
+developing such a program; therefore, lively and productive discussions here will be a valuable 
+service to the field of combustion. 
+Acknowled~ements 
+Helpful inputs from the NASA Microgravity Combustion Science Discipline Working Group are 
+gratefully acknowledged. 
+References 
+1. 
+"Microgravity Combustion Science: A Program Overview;" NASA TM 101424, 1989. 
+2. 
+"Microgravity Combustion Science: Progress, Plans and Opponunities," NASA TM 105410, 
+1992. 
+3. 
+Sacksteder. K .. Twenty-Third Symposiwn (Imernarional) on Combustion, The Combustion 
+Institute, Pittsburgh, 1990, pp. 1589-1596. 
+4. 
+Law, c.K., AlAA Paper No. 90-0120, 1990. 
+S. 
+Faeth. G.M .. AlAAfIKI Microgravity Science Symposium. Moscow, AlAA. Washington. 
+1991, pp. 281-293. 
+6. 
+Law, C.K. and Faeth, G.M .. "Opportunities and Challenges of Combustion in 
+Micrograviry." in preparation, 1992. 
+7. 
+Kwon, S., Tseng, L.-K. and Faeth, G.M., Combust. Flame, Vol. 90, 1992, pp. 230-246. 
+8. 
+Pope, S.B., Twenty-Third Symposiwn (International) on Combustion, The Combustion 
+Institute, Pittsburgh, 1990, pp. 591-612. 
+9. 
+Gann, R.G., Stone, J.P., Tatem, P.L., Williams, F.W. and Carhart, H.W., Combust. Sci. 
+Technol., Vol. 18, 1978, pp. 155-163. 
+70
+
+<<<PAGE 5>>>
+COMMENTS 
+Question (Takashi Kashiwagi, NlST): (1) I am not sure that a name-limited, atmosplll.:ric ,lflprl1;ldl removes 
+lire problems in a spacecraft entirely. Smoldering under certain conditions. such as wL:i1 insuLlkd and 
+preheated cases, can continue even in several percent of 0 2' It seems to me as long as t hl'rt': is m<tnned 
+!light there are lire safety issues. 
+(2) I should like to see clearly delined policy in which the combustilln rt:search areas n.:I;ltctl tll lin.: research 
+could be considered in Microgravitv Science Program. 
+Answer: Fire-safe atmospheres to eliminate conventional unwanted fires would represent a suhst:tntial 
+improvement of fire safety in spJcecraft. Whether this can be achieved. and the contlitillns nl'elkd to 
+prevent smoldering in microgravity. are open issues at this tim e that clearly mcrit further st udy. Your second 
+com ment relales to NASA policy issues, however; my undcrstanding is that relationship ur , tUlliL-, in the 
+microgravity combustion program to spacecraft lire safety is a strong point in establ ishing thc rL·J..:vance of 
+the research. 
+Ouest ion (Fred Dryer, Princeton U ni"ersity): 1\1 Y coml11ent dea ls wit h priorit ii'.at ion III III icr(1~r;II ' it y science 
+to practical lire safety problems. Fire safety standards regarding the permissible cllllcClllratillns IIi" Ilammablc 
+gases and liquids are typically rcferred to about LO% of the lean limit. a ,·,t!ue which apparc ntil' \\ ill change 
+little from absence or presence of gral"ity. This docs not mean that the science oj jbllllll<thility limits is not 
+important to understand. only that its outcome may have lillie impact in the lirc safcty arc n.\. 
+()11 thc other 
+hand. limiting oxygen index apparcntlv changes by as much as a factor oi" 2. an absolute chan!!c Pi" substantial 
+consequence to defining (lire) inert atmospheres. Finally, on Eart h therc is no cxpcricnCl: with tin.: 
+flamm ability characteristics of wide-range polydisperse aerosols. a li kely acrnsol character in Illinllgravity 
+conditions. 
+In addition to the smoldering problem (which must be materials-controlled and studied). thc 1;ltt (r two areas 
+of microgravity combustion sciencc would appear to me to bc much highcr priority than llallllll<thility limits. 
+Answer: My reference to tlall1mabilit~· limits. in connection with fire-safc atmosphLn:s. \\';I~ mL·:tnl to he 
+generic and nol related 10 a specific criterion like the lean llamm;lbility limit llr thc limiling ll ... \"~~l" n inuex. 
+Your point is well taken that the crite ria to be used will inllucnce the dclinition or jilc-~;t1e ;Itlllll"pheres. 
+Clearly. the research issues in this area must invok e both the n<tlure and criteria i"or lire -~; Irc ;ttlllllsphcres. 
+()uestion (A. (illITICZ. Yale Uni\ 'e r s it~"): One of the idcntificd priority are;ls is th;1l 01 tlll hulcnt ITacting 
+Ilows. Would you agree that bcfore this research area can bcncfit rrom Illicrogra"itv experilllcl1l:ttion, we 
+should wait ror suhstantial imprm'cmc nt O il ava il;thlc diagnostic tcchl1iqucs"i 
+Answer: No, I see no reason to wait for improved diagnostics in order to address problcms lit turhulent 
+reacting Oows. First of all, available instrumentation at this point is equivalent tn methods mcd to develop 
+much of our understanding of turbulent llames. Next, the environment itself. which allows turhulent-like 
+name processes to proceed at much smaller velocities than on Earth, provides new potential rllr conventional 
+experimental methods. Finally, I hesitate to exclude the possibility of some new approach heing developed 
+from available lechnolof,'Y. 
+71 
+COMMENTS 
+Question (Takashi Kashiwagi, NlST): (1) I am not sure that a name-limited, atmosplll.:ric ,lflprl1;ldl removes 
+lire problems in a spacecraft entirely. Smoldering under certain conditions. such as wL:i1 insuLlkd and 
+preheated cases, can continue even in several percent of 0 2' It seems to me as long as t hl'rt': is m<tnned 
+!light there are lire safety issues. 
+(2) I should like to see clearly delined policy in which the combustilln rt:search areas n.:I;ltctl tll lin.: research 
+could be considered in Microgravitv Science Program. 
+Answer: Fire-safe atmospheres to eliminate conventional unwanted fires would represent a suhst:tntial 
+improvement of fire safety in spJcecraft. Whether this can be achieved. and the contlitillns nl'elkd to 
+prevent smoldering in microgravity. are open issues at this tim e that clearly mcrit further st udy. Your second 
+com ment relales to NASA policy issues, however; my undcrstanding is that relationship ur , tUlliL-, in the 
+microgravity combustion program to spacecraft lire safety is a strong point in establ ishing thc rL·J..:vance of 
+the research. 
+Ouest ion (Fred Dryer, Princeton U ni"ersity): 1\1 Y coml11ent dea ls wit h priorit ii'.at ion III III icr(1~r;II ' it y science 
+to practical lire safety problems. Fire safety standards regarding the permissible cllllcClllratillns IIi" Ilammablc 
+gases and liquids are typically rcferred to about LO% of the lean limit. a ,·,t!ue which apparc ntil' \\ ill change 
+little from absence or presence of gral"ity. This docs not mean that the science oj jbllllll<thility limits is not 
+important to understand. only that its outcome may have lillie impact in the lirc safcty arc n.\. 
+()11 thc other 
+hand. limiting oxygen index apparcntlv changes by as much as a factor oi" 2. an absolute chan!!c Pi" substantial 
+consequence to defining (lire) inert atmospheres. Finally, on Eart h therc is no cxpcricnCl: with tin.: 
+flamm ability characteristics of wide-range polydisperse aerosols. a li kely acrnsol character in Illinllgravity 
+conditions. 
+In addition to the smoldering problem (which must be materials-controlled and studied). thc 1;ltt (r two areas 
+of microgravity combustion sciencc would appear to me to bc much highcr priority than llallllll<thility limits. 
+Answer: My reference to tlall1mabilit~· limits. in connection with fire-safc atmosphLn:s. \\';I~ mL·:tnl to he 
+generic and nol related 10 a specific criterion like the lean llamm;lbility limit llr thc limiling ll ... \"~~l" n inuex. 
+Your point is well taken that the crite ria to be used will inllucnce the dclinition or jilc-~;t1e ;Itlllll"pheres. 
+Clearly. the research issues in this area must invok e both the n<tlure and criteria i"or lire -~; Irc ;ttlllllsphcres. 
+()uestion (A. (illITICZ. Yale Uni\ 'e r s it~"): One of the idcntificd priority are;ls is th;1l 01 tlll hulcnt ITacting 
+Ilows. Would you agree that bcfore this research area can bcncfit rrom Illicrogra"itv experilllcl1l:ttion, we 
+should wait ror suhstantial imprm'cmc nt O il ava il;thlc diagnostic tcchl1iqucs"i 
+Answer: No, I see no reason to wait for improved diagnostics in order to address problcms lit turhulent 
+reacting Oows. First of all, available instrumentation at this point is equivalent tn methods mcd to develop 
+much of our understanding of turbulent llames. Next, the environment itself. which allows turhulent-like 
+name processes to proceed at much smaller velocities than on Earth, provides new potential rllr conventional 
+experimental methods. Finally, I hesitate to exclude the possibility of some new approach heing developed 
+from available lechnolof,'Y. 
+71

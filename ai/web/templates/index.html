@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>NASA Fire Safety — Microgravity Combustion Assistant</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 920px; margin: 2rem auto; padding: 0 1rem; color: #1a1a1a; }
+    h1 { font-size: 1.4rem; }
+    #chat { display: flex; gap: 0.5rem; margin: 1rem 0; }
+    #q { flex: 1; padding: 0.7rem; font-size: 1rem; border: 1px solid #ccc; border-radius: 8px; }
+    button { padding: 0.7rem 1.2rem; cursor: pointer; background: #0b5fff; color: #fff; border: 0; border-radius: 8px; }
+    #status { color: #888; min-height: 1.2rem; margin-bottom: 0.5rem; }
+    #answer { white-space: pre-wrap; background: #f6f6f6; padding: 1rem; border-radius: 8px; line-height: 1.5; }
+    h3 { margin: 1.2rem 0 0.4rem; }
+    .src { color: #555; font-size: 0.88rem; margin: 0.25rem 0; }
+    #figures { display: flex; gap: 1.2rem; flex-wrap: wrap; }
+    .fig img { max-width: 340px; max-height: 250px; border: 1px solid #ccc; border-radius: 6px; display: block; }
+    .fig .cap { font-size: 0.8rem; color: #666; max-width: 340px; margin-top: 0.3rem; }
+  </style>
+</head>
+<body>
+  <h1>🔥 NASA Fire Safety — Microgravity Combustion Assistant</h1>
+  <p>Ask about fire, flames, and fire safety in microgravity. Answers are grounded in the literature and cite sources.</p>
+  <div id="chat">
+    <input id="q" placeholder="e.g. How do flames behave differently in microgravity?" autofocus />
+    <button onclick="ask()">Ask</button>
+  </div>
+  <div id="status"></div>
+  <div id="answer"></div>
+  <div id="sources"></div>
+  <div id="figures"></div>
+
+  <script>
+    async function ask() {
+      const q = document.getElementById('q').value.trim();
+      if (!q) return;
+      const status = document.getElementById('status');
+      status.textContent = 'Thinking…';
+      document.getElementById('answer').textContent = '';
+      document.getElementById('sources').innerHTML = '';
+      document.getElementById('figures').innerHTML = '';
+      try {
+        const res = await fetch('/ask', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ question: q })
+        });
+        const data = await res.json();
+        status.textContent = '';
+        document.getElementById('answer').textContent = data.answer || data.error || '(no answer)';
+        if (data.sources && data.sources.length) {
+          let h = '<h3>Sources</h3>';
+          data.sources.forEach(x => {
+            h += `<div class="src">[${x.nn}] ${x.paper} — p${x.page} (score ${x.score})</div>`;
+          });
+          document.getElementById('sources').innerHTML = h;
+        }
+        if (data.figures && data.figures.length) {
+          let h = '<h3>Relevant figures</h3>';
+          data.figures.forEach(x => {
+            h += `<div class="fig"><img src="/figures/${encodeURIComponent(x.file)}" alt="${x.label}">` +
+                 `<div class="cap">${x.label} <span style="color:#999">(paper ${x.nn}, p${x.page})</span></div></div>`;
+          });
+          document.getElementById('figures').innerHTML = h;
+        }
+      } catch (e) {
+        status.textContent = 'Error: ' + e.message;
+      }
+    }
+    document.getElementById('q').addEventListener('keydown', e => { if (e.key === 'Enter') ask(); });
+  </script>
+</body>
+</html>

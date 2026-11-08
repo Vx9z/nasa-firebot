@@ -1,0 +1,849 @@
+<<<PAGE 1>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+NASA Microgravity Combustion Program
+October 20, 2015
+David L. Urban
+NASA GRC
+Cleveland OH
+
+<<<PAGE 2>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Combustion Science
+• Spacecraft fire safety
+• Droplets
+• Gaseous – Premixed and 
+Non-Premixed 
+• Solid Fuels
+• Supercritical reacting fluids
+NASA Microgravity Combustion Program
+2
+
+<<<PAGE 3>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Outline
+• Historic Program
+• Current Status 
+• Completed Content
+• Current & Proposed Content
+• Current Schedule
+• Cool Flames
+• Future Investigations
+• Proposed Investigations: Supercritical Reactions
+• Drop Tower Modification Proposal
+• Saffire
+• Open Science
+• Opportunities
+3
+
+<<<PAGE 4>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Historic Program
+• 1989-2006:  Large ground-based program and robust set of 
+flight experiments building upon shuttle based payloads toward 
+ISS experiments
+• 2006-present:  change in focus toward “exploration” i.e. 
+research directed to support manned exploration of space.  In 
+the case of combustion research, this focused on Spacecraft 
+Fire Safety and In Situ Research Utilization (ISRU).
+• Owing to pressure from Congress, a balance was developed 
+that included a substantial fraction of fundamental research in 
+addition to exploration research.
+• This has transitioned to include use of the ISS by the Center for 
+Advancement of Science in Space (CASIS).
+4
+
+<<<PAGE 5>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Current Status
+• Ongoing Space Life and Physical Sciences (SLPS) program 
+now constrained by on-orbit resources (became a serious 
+problem for combustion in 2014).
+• Management of 50% of the ISS resources has been allocated 
+to CASIS (Center for the Advancement of Science in Space) as 
+manager of the International Space Station U.S. National 
+Laboratory. 
+• Commercial entities and other government agencies can 
+approach CASIS for access to the ISS.
+• Mutually beneficial collaboration between CASIS and SLPS 
+experiments is encouraged.
+•
+Similar benefits can be achieved through Russian 
+collaboration.
+5
+
+<<<PAGE 6>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Combustion Science completed content
+Conducted in the Microgravity Science Glovebox
+Fire Detection: 
+– Smoke Aerosol Measurement Experiment (SAME) (Urban, Mulholland, 
+Cleary, Yang)
+Solid Fuel Flammability
+– Burning And Spread over Solids (BASS) (Bhattacharjee, Miller, Olson, T’ien, 
+Pello)
+6
+Teflon
+Polyurethane
+Kapton
+Cellulose
+PMMA rod in stagnation flow
+
+<<<PAGE 7>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Combustion Science completed content
+Conducted in the Microgravity Science Glovebox
+Non-premixed Gaseous Flames
+– Smoke Point in Co-Flow Experiment (SPICE) (Urban-Sunderland)
+– Structure & Liftoff In Combustion Experiment (SLICE) (Smooke-Long)
+7
+Soot 
+temperature
+Soot volume fraction
+1g            µg
+Photo
+Methane Results
+Diluted Propylene 
+Smoke Points
+
+<<<PAGE 8>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Combustion Science current content
+Droplet Combustion (Williams, Dryer, Farouk, Nayagam, Shaw, Avedesian,                        
+Dietrich, Choi)
+– MDCA – FLEX, FLEX-I (completed)
+– MDCA – FLEX-2, FLEX-J (Chemical kinetics and transport)
+– MDCA - Cool Flames
+Non-premixed Gaseous Flames
+– ACME – BRE (Burning Rate Emulator) (Quintiere-Sunderland)
+– ACME – CLD Flame (Coflow Laminar Diffusion Flame) (Smooke-Long)
+– ACME – E-FIELD Flames (Electric-Field Effects)    (Dunn Rankin)
+– ACME – Flame Design (soot inception and transport) (Axelbaum, 
+Sunderland, Chao)
+– ACME – s-Flame (Structure and Response of Spherical Diffusion Flames) (Law 
+and Tse)
+8
+
+<<<PAGE 9>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Combustion Science current content
+Solid Fuel / Flammability
+– SoFIE - Residence Time Driven Flame Spread (Bhattacharjee)
+– SoFIE - Narrow Channel Validation (Miller, Wichman)
+– SoFIE - Spacecraft Materials Microgravity Research on Flammability 
+(Olson) 
+– SoFIE - Growth and Extinction Limit (T’ien)
+– SoFIE - Material Ignition and Suppression Test (Pello)
+– FLARE – Flammability Limits At Reduced-g Experiment (JAXA-Fujita)
+Super Critical Water Mixture
+– SCWM – Supercritical Water Mixture Experiment (Hicks)
+9
+
+<<<PAGE 10>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Combustion Science proposed content
+“CombustionLab” Workshop
+Held last year at American Society for Space and Gravitational 
+Research Conference. Considered opportunities in 6 areas:
+–
+Spacecraft Fire Safety 
+–
+Droplets, Sprays and Aerosols  
+–
+Premixed Flames
+–
+Non-premixed Flames
+–
+Heterogeneous Reaction Processes
+–
+High Pressure and Supercritical Reacting Systems
+Selected from the highest rated concepts from CombustionLab for 
+the next investigation:
+High-Pressure / Super Critical Water Oxidation
+– High Pressure Droplets and Sprays - Transport  and Combustion 
+Processes
+– SCWO – Supercritical Water Oxidation Experiment
+10
+
+<<<PAGE 11>>>
+Combustion Integrated Rack (CIR)
+Payload Utilization Schedule
+Glenn Research Center - SLPS PPBE17 Review - March 2015
+11
+03/12/2015
+
+<<<PAGE 12>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Cool Flame - Droplet Combustion
+•
+FLEX tests examined methanol and heptane 
+droplet combustion in quiescent microgravity 
+ambient environments
+•
+Early tests showed unusual behavior of 
+heptane droplets after radiative extinction of 
+the (visible) hot flame
+•
+The droplet continued to vaporize at a 
+rate nearly equal to that it did during the 
+hot flame
+•
+This linear vaporization ended with an 
+abrupt plateau at a finite droplet size
+•
+The plateau coincided with the 
+formation of a large ‘cloud’ or ‘fog’ 
+surrounding the droplet
+•
+Initial cool flame burning ideas rejected 
+because that was unlikely or ‘impossible’
+•
+Sustained cool flame burning confirmed by 
+theoretical and numerical models with 
+detailed and reduced chemistry
+
+<<<PAGE 13>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Cool Flame Burning
+
+<<<PAGE 14>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+hot flame
+cool flame
+evaporation
+narrow-band
+radiation
+wide-band
+radiation
+Visible flame extinction
+FLEX Cool Flame – N-Decane in O2/N2 environment
+D0 = 4.05 mm
+Fuel – n-decane
+Oxygen – 25%
+Nitrogen – 75%
+Pressure – 0.5 atm
+
+<<<PAGE 15>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Cool Flame Visualization
+•
+Cool flames are invisible to the CIR 
+and MDCA cameras as configured 
+for FLEX
+•
+Reconfigured OH* camera 
+(intensified) to visualize cool flame
+•
+Removed 310 nm OH* filter 
+(broadband flame emission)
+•
+Maximized gain during cool 
+flame
+•
+Turn off gain during hot flame
+•
+Use radiometer output to 
+determine presence of cool 
+flame
+•
+Flame still not discernible in a single 
+image
+•
+Frame average over 0.5 to 1.5 s
+•
+Able to ‘see’ cool flame
+•
+Resulting size and standoff ratio in 
+good agreement with theory and 
+models of cool flame burning
+
+<<<PAGE 16>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Cool Flame Results with modified camera
+
+<<<PAGE 17>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Cool Flames - Implications
+• Spherically symmetric droplet 
+combustion offers unique 
+opportunity to study cool 
+flames
+– Have achieved cool flame burns 
+of over 120 s
+• Predicted cool flame extinction 
+droplet diameter, very sensitive 
+to kinetic model
+– Some models don’t predict cool 
+flames at all
+– Farouk and Dryer identified key 
+reactions to improve low 
+temperature chemical kinetic 
+models
+
+<<<PAGE 18>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Comparison with detailed chemistry model
+18
+
+<<<PAGE 19>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Cool flame burning is modeled using Liñán's partial burning regime
+Burning rates are predicted reasonably well 
+Flame standoff ratio is predicted accurately for a range of oxygen concentrations
+Extinction diameters are correlated using simplified chemistry
+Theory
+Theory predicts -3/2 slope shown in the plot
+Flame standoff ratio ~3.1 agrees with experiments and numerical 
+simulations
+Theoretical Models using Liñán’s Partial Burning 
+Regime
+
+<<<PAGE 20>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+• While the reduced chemical kinetic models predict ignition 
+delay times well, they are unable to correlate the cool flame 
+burning rate and extinction data for varying pressures
+• Alkane-alcohol mixtures show puzzling trends where both 
+cool and hot flames seem to exist – observed trends are 
+contrary to normal intuition
+• Re-ignition to hot flames were observed only for fiber-
+supported droplets at higher pressures – fiber has profound 
+influence on re-ignition
+• Cool Flame Investigation seeks to resolve some of these 
+issues
+Unresolved Issues
+
+<<<PAGE 21>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Cool Flames Investigation (CFI)
+• SDT Members – F.A. Williams (UCSD), F.L. 
+Dryer (Princeton), T.I. Farouk (USC), V. 
+Nayagam (CWRU), D.L. Dietrich (NASA GRC)
+• Study pure alkane, bio-fuel and mixtures of 
+alkane and iso-alkane
+– Pure dodecane
+– Pure Farnesane (2,6,10 trimethyldodecane)
+– Dodecane/iso-dodecane mixtures
+• Ambient pressures ranging from 0.50 to 5.0 atm
+• Vary ambient O2 with N2 and Xe dilution
+• Actively looking for outside collaborations to 
+utilize the results of CFI
+
+<<<PAGE 22>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Future Investigations: Advanced Combustion via 
+Microgravity Experiments 
+22
+Objective
+Improve fundamental understanding of:
+•
+combustion structure and stability
+•
+soot inception, surface growth, & oxidation
+•
+emission reduction through N2 exchange
+•
+flame chemi-ionization behavior & ion-driven wind
+•
+materials flammability in microgravity
+Relevance
+•
+Improved
+computational
+combustion
+models
+including sub-models for soot processes.
+•
+Soot and NOx reduction in practical combustion.
+•
+Spacecraft fire safety.
+Impact/Applications - Earth-based
+•
+Improved efficiency & reduced pollution.
+•
+High-efficiency, low-emission combustors which
+operate at near-limit conditions.
+•
+Improved design tools for combustion systems
+leading to reduced costs & design time.
+•
+Novel
+control
+capability
+enabling
+improved
+combustor performance.
+•
+Improved materials selection for spacecraft.
+Facilities
+ACME
+modular
+mini-facility
+for
+the
+Combustion
+Integrated Rack (CIR) enabling 5+ experiments:
+ACME chamber insert with 
+exchangeable burner, flow 
+controllers, flame diagnostics 
+Burning Rate 
+Emulator (BRE)
+Coflow Laminar 
+Diffusion Flame 
+(CLD Flame)
+Electric-Field 
+Effects on Laminar 
+Diffusion Flames 
+(E-FIELD Flames)
+Flame Design
+(soot inception 
+and transport)
+Structure and  
+Response of 
+Spherical Diffusion 
+Flames (s-Flame)
+
+<<<PAGE 23>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Future Investigations: Solid Fuel Ignition  and 
+Extinction (SoFIE) 
+23
+Facilities
+• New CIR insert
+Impact/Applications –
+Earth-based
+• Improved understanding 
+of ignition, flame growth, 
+and flammability of 
+materials.
+Objectives:
+•
+To study ignition and flammability of solid spacecraft 
+materials in practical geometries and realistic 
+atmospheric conditions
+•
+Evaluate the effects of oxygen, pressure, flow 
+velocity and direction, external radiant heat flux, 
+sample geometry, and fuel thickness on ignition, 
+flame growth, and flammability
+Relevance/Impact:
+•
+Determine improved flammability test methods for 
+cabin materials 
+•
+Update NASA materials flammability test protocols 
+to address enhanced flammability of low-gravity fires
+•
+Improve understanding of ignition limits and early 
+fire growth behavior
+•
+Validate material flammability numerical models
+
+<<<PAGE 24>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Solid Fuel / Fire / Flammability Applications
+24
+Materials Flammability 
+Screening
+Ignition
+24
+We reduce the fire risk by improving our 
+understanding of 
+Material flammability 
+Ignition sources
+Atmosphere effects (O2, P, flow) 
+Fire modeling
+It is impossible to eliminate all 
+risk of fire in spacecraft as 
+long as there is fuel, oxygen, 
+and a potential source of heat.
+Spacecraft Atmospheres
+52.7 – 58.6 kPa, 
+27.6 - 34% O2
+Fire Modeling
+Human hair, 30% O2
+Flow
+Effects
+
+<<<PAGE 25>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Flammability Limits At Reduced-g Experiment (FLARE)
+25
+Objective:
+To develop a methodology to correlate material 
+flammability limits in normal gravity and 
+microgravity, which allows quantitative estimation 
+of material flammability limit in microgravity 
+based on the reproducible flammability data 
+obtained on the ground. 
+Relevance/Impact:
+Fundamental Science – studying materials 
+flammability in space allows us to accurately 
+control the flow field and thus elucidate the 
+importance of a critical Damkohler number (flow 
+time /reaction time) on flame extinction. 
+Facilities
+• JAXA to use existing KIBO/ MCIR/MSPR
+Impact/Applications – Earth-based
+• Improved normal gravity materials 
+screening tests
+
+<<<PAGE 26>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+SCWM Series … an international set of investigations 
+using the DECLIC Facility, built and operated by CNES, 
+designed as precursor investigations to a follow-on 
+Supercritical Water Oxidation research program
+Objectives:
+•
+SCWM … observe and quantify shift in critical point, 
+determine onset of salt precipitation and salt transport in 
+the presence of a salinity and temperature gradients 
+(ISS operations end FY’16) 
+•
+SCWM-2 … using a binary or tertiary system relevant to 
+SCWO processes (e.g., CO2/Na2SO4/H2O) obtain high 
+resolution measurements of phase transition points and 
+transport properties (ISS operations end FY’19)
+Relevance … investigation develops understanding of 
+fundamental processes that occur during phase transitions 
+at near-critical conditions
+• develop mitigation strategies for fouling/corrosion due to 
+salt deposits on critical surfaces ... the major obstacle 
+preventing widespread use of this technology
+• provide  information for advanced reactor designs relying 
+on internal heat sources for sustained operations
+Supercritical Water Mixture (SCWM) – 2010 through 2021
+Schematic illustrating vapor liquid regions (top), test cell (left) 
+and regions in liquid where “vapor channels” (right)  begin to 
+appear (~373C) due to local boiling at walls
+P-T curve showing supercritical region (left) salt solubility  curves 
+showing dramatic change in solubility in supercritical water (right)
+(top)
+(left)
+(right)
+High Pressure Combustion Research (HPCR) 
+Supercritical Water Mixture Experiments (SCWM-series)
+26
+
+<<<PAGE 27>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+What’s next?—Proposed Content
+High Pressure (Super and subcritical) Droplet Combustion
+Development Approach
+• Establish
+Science
+Definition
+Team
+in
+collaboration with other Agencies.
+• Define experiment beginning in 2018 and
+conduct experiment in 2022
+Objective
+Obtain benchmark data on the vaporization and 
+combustion of droplets in sub- to super-critical 
+conditions. Improve the fundamental 
+understanding of the sub- to super-critical 
+transition for single droplets and  develop sub-
+models for complex CFD design codes.
+Relevance  
+Virtually all practical combustors operate at high
+pressures
+due
+to
+higher
+thermodynamic
+efficiencies. High pressure combustion in the sub-
+to
+super-critical
+transition
+region
+poorly
+understood. Difficult to study under normal gravity
+due to increased buoyancy effects and reduced
+surface tension. Fundamental data needed to
+improve modeling of real combustors.
+Facilities
+Requires high-pressure insert to CIR or a new
+facility.
+Ground-based
+program
+necessary
+for
+engineering/science development.
+
+<<<PAGE 28>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Hydrothermal Flames … advanced SCWO reactors will 
+rely on internal heating provided by hydrothermal flames 
+similar to conventional combustion burners
+Objectives:
+•
+Determine ignition parameters, flame structure, 
+temperature profiles and reaction mechanisms of 
+hydrothermal flames
+•
+Study supercritical fluid dynamics of injected reactant 
+streams; e.g., flow structure, turbulent transition, 
+reactant mixing, critical transition phenomena 
+Relevance:
+•
+Significant reductions in mass and volume, making 
+SCWO feasible for space and extraterrestrial 
+applications
+Facilities:
+•
+Research will require a new High Pressure 
+Combustion  Research Facility (HPCRF)
+Supercritical Water Oxidation (SCWO)
+Hydrothermal flame (left) in a supercritical water  mixture of 
+methanol at 250 bar using a  co-flow burner (Wellig, B. , 2003) 
+and conceptual SCWO reactor (right) using flow-stabilized 
+hydrothermal flame for internal heating of reactant flow stream
+What’s next?—Proposed Content
+Supercritical Water Mixture Oxidation (SCWO)
+28
+
+<<<PAGE 29>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+• Design Objectives:
+
+Accommodate both constant pressure and 
+constant volume operations
+−
+MAWP = 250 atm
+−
+maximum wall temp = 600 C  
+
+Diagnostics to inlcude: 
+−
+imaging with two orthogonal views
+−
+Raman spectroscopy
+−
+temperatue, pressure, and radiometric 
+sensors
+
+On-orbit reconfigurable base will  accommodate 
+a wide range of experimental configurations 
+(e.g., droplet, opposed flow, co-flow, etc.) 
+Future Facility Concept
+
+<<<PAGE 30>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+NASA Zero-g Facility
+• GRC Zero-g Facility became operational in 1966
+•
+No major mods since then
+•
+Over 4900 drops
+•
+Utilization rate: 2 drops/day 
+•
+Operational cost: $5.8 K/drop; 
+74 labor hrs/drop 
+•
+Microgravity Duration: 5.18 s
+•
+Free Fall Distance: 432 ft (132 m)
+•
+Gravitational Acceleration: <0.000,01 g
+•
+Deceleration: 35/65 g mean / peak
+•
+Payload - Cylindrical, 42 in. (1 m) diameter 
+by 13 ft. (4 m) tall
+•
+Gross Vehicle Weight: 2500 lbs. (1130 kg)
+•
+Experimental Payload Weight: up to 
+1000 lbs. (455 kg)
+30
+
+<<<PAGE 31>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Zero-g Facilities Background
+• Current world-wide Drop Tower capability is little changed in 
+decades despite major technology growth. 
+• Exceptions 
+• ZARM-Bremen -- launch capability provides 10 seconds of micro-g
+• Portland State University -- rapid drop turnaround provides 2 seconds of 
+micro-g with increased productivity and innovation
+• Planetary exploration plans raise new research needs in partial 
+gravity that cannot be satisfied on low-g aircraft alone (NASA 
+terminated support in 2015).
+• Partial gravity research largely ignored despite substantial 
+technical importance for both fundamental science and 
+exploration needs.
+A design study has been initiated to convert to a mag-lev 
+system that would cut operating costs by an order of 
+magnitude and provide 10 s of user selectable g-levels.
+31
+
+<<<PAGE 32>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Spacecraft Fire Safety Demonstration (Saffire)
+3
+2
+Experiment Objectives:
+Determine the fate of a large-scale 
+microgravity fire 
+1. Spread rate, mass consumption, and 
+heat release
+• Is there a limiting size in microgravity?
+2. Confirm that low- and partial-g 
+flammability limits are less than those in 
+normal gravity
+• Are drop tower results correct?
+Most U.S. agencies responsible for large 
+transportation systems conduct full-scale fire 
+tests to  address gaps in fire safety knowledge 
+and prove equipment and protocols.
+FAA full scale aircraft test
+Naval Research Laboratory
+Ex-USS Shadwell
+Orbital Science’s Cygnus
+approaching ISS
+Controlled burns of 
+structures
+Project developed and funded by NASA
+Supported by international Topical Team 
+(ESA)
+
+<<<PAGE 33>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Saffire Overview
+Needs:
+♦
+Low-g flammability limits for spacecraft 
+materials
+♦
+Definition of realistic fires for exploration 
+vehicles
+‒
+Fate of a large-scale spacecraft fire
+Objectives:
+♦Saffire-I:
+Assess flame spread of large-
+scale microgravity fire (spread 
+rate, mass consumption, heat 
+release)
+♦Saffire-II: Verify oxygen flammability limits 
+in low gravity
+♦Saffire-III: Same as Saffire-I at a different 
+flow condition
+Saffire module consists of a flow duct 
+containing the sample card and an avionics 
+bay. All power, computer, and data acquisition 
+modules are contained in the bay. Dimensions 
+are approximately 53- by 90- by 133-cm
+•
+Data obtained from the experiment will be used to 
+validate modeling of spacecraft fire response 
+scenarios
+•
+Evaluate NASA’s normal-gravity material 
+flammability screening test for low-gravity conditions.
+Fans
+Power
+Management
+Cameras
+Signal
+conditioning
+card
+Sample card
+(flame spread
+sample 
+shown)
+Flow
+straightener
+Flow Duct
+Avionics Bay
+33
+
+<<<PAGE 34>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+SAFFIRE Experiment Layout
+34
+Sample card
+(flame spread
+sample shown)
+Flow Duct
+Avionics Bay
+USB Hub
+Fans
+Cameras
+Flow
+straightener
+Signal
+conditioning card
+Power
+Management
+Air flow
+. Dimensions are approximately 
+53- by 90- by 133-cm
+
+<<<PAGE 35>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Physical Sciences Informatics
+All NASA Life and Physical Sciences Data are being loaded on servers to 
+be available to all
+For Physical Sciences: psi.nasa.gov
+
+<<<PAGE 36>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+
+<<<PAGE 37>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+Opportunities
+• Open Science – PSI database it open to all.  Some funding 
+from NASA.
+• Future experiments and current facilities are potentially 
+available to outside corporations and agencies through CASIS.
+• High Pressure Super Critical combustion facility - a novel 
+opportunity with significant challenges but real opportunity to 
+provide needed data.  
+– We are looking to collaborate with other agencies on the concept 
+definition and utilization.
+– Suggestions on the best approach are welcome.
+37
+
+<<<PAGE 38>>>
+National Aeronautics and Space Administration
+www.nasa.gov
+38

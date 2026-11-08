@@ -1,0 +1,8 @@
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:8000
+Press CTRL+C to quit
+127.0.0.1 - - [07/Nov/2026 18:26:45] "POST /ask HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2026 19:03:05] "OPTIONS /ask HTTP/1.1" 204 -
+127.0.0.1 - - [07/Nov/2026 19:03:07] "POST /ask HTTP/1.1" 200 -
+127.0.0.1 - - [07/Nov/2026 19:03:30] "OPTIONS /ask HTTP/1.1" 204 -
+127.0.0.1 - - [07/Nov/2026 19:03:50] "POST /ask HTTP/1.1" 200 -

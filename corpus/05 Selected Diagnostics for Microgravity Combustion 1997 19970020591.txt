@@ -1,0 +1,2260 @@
+<<<PAGE 1>>>
+F
+......
+, --<i.
+/ /
+_-
+07
+-:.-_3"
+SELECTED
+DIAGNOSTICS
+FOR
+MICROGRAVITY
+COMBUSTION
+SCIENCE
+Paul
+S. G-reenberg;
+NASA-Lewis
+Research
+Center
+DeVon
+W. Griffin;
+NASA-Lewis
+Research
+Center
+Karen
+J. Weiland;
+NASA-Lewis
+Research
+Center
+William
+Yanis;
+NYMA;
+Lewis
+Research
+Center
+Group
+Introduction
+The evolution
+of our understanding
+of combustion
+phenomena
+occurring
+under
+reduced
+gravity
+conditions
+poses
+a continuing
+demand
+for diagnostic
+tools of increased
+sophistication.
+Existing
+methods
+have
+become
+insufficient
+to keep pace
+with emerging
+refinements
+in the underlying
+theories
+and
+predictive
+models.
+The
+coupling
+of physical
+mechanisms
+inherent
+in combustion
+systems
+mandates
+the simultaneous
+determination
+of numerous
+thermophysical
+quantities,
+principally
+temperature,
+velocity,
+and
+species
+concentrations.
+Observed
+differences
+attributable
+to variations
+in experimental
+configuration,
+fuels
+and diluents,
+and initial
+conditions
+enhance
+the difficulty
+of developing
+diagnostic
+methods
+suitable
+for
+the acquisition
+of the required
+data
+over
+the
+desired
+range
+of experimental
+parameters.
+Efforts
+to provide
+for ongoing
+diagnostic
+development
+supporting
+microgravity
+combustion
+science
+experiments
+are conducted
+within
+the Microgravity
+Science
+Division
+at the NASA-Lewis
+Research
+Center.
+The
+following
+describes
+recent
+results
+from
+several
+diagnostic
+development
+efforts
+conducted
+under
+this
+project.
+Laser
+Doppler
+Velocimetry
+Laser
+doppler
+velocimetry
+(LDV)
+utilizes
+the
+frequency
+shift
+of
+scattered
+radiation
+to
+perform
+remote,
+non-intrusive
+measurements
+of local fluid
+velocities.
+Recent
+advances
+in both
+solid-state
+laser
+and detector
+technologies
+and high
+speed
+digital
+signal
+processing
+(DSP)
+architectures
+have
+permitted
+the construction
+of compact,
+mechanically
+robust
+systems
+suitable
+for
+microgravity
+combustion
+science
+applications.
+The
+systems
+described
+here utilize
+dual-beam
+heterodyne
+detection.
+This
+configuration
+affords
+optimal
+performance
+under
+the broadest
+range
+of measurement
+applications.
+"The intersection
+of the dual
+input
+beams
+defines
+the optical
+sample
+volume,
+which
+for the present
+systems
+is on the order
+of 70 microns
+(1/e = diameter).
+The doppler
+shift
+of light scattered
+from
+small
+seed
+particles
+introduced
+into the flow field is utilized
+to determine
+the Eulerian
+velocity
+within
+the sample
+volume.
+The capacity
+for
+high
+temporal
+data
+rates
+provides
+a valuable
+tool
+for the investigation
+of time
+dependent
+flows
+and
+turbulent
+phenomena.
+Two basic
+optical
+configurations
+are employed,
+depending
+on the specifics
+of the application.
+A forward
+scattering
+system
+is utilized
+for
+applications
+involving
+large
+spectral
+bandwidths,
+such
+as highly
+turbulent
+flows.
+Strongly
+enhanced
+forward
+scattering
+cross
+sections
+permit
+the use of smaller
+seed particles
+in conjunction
+with
+relatively
+low power
+laser
+sources.
+The
+smaller
+particles
+are necessary
+to follow
+detailed
+features
+of the flow
+structure
+with
+suitable
+fidelity.
+The
+system
+reported
+here
+utilizes
+a 14 milliwatt
+diode-pumped,
+doubled
+Nd:YAG
+laser
+operating
+at 532 nanometers.
+Shorter
+wavelengths
+are generally
+advantageous
+by
+virtue
+of the k4 dependence
+of the scattered
+signal.
+Further
+compaction
+of the receiving
+optics
+module
+is
+achieved
+via fiber
+optic
+coupling
+of the photodetector.
+The
+detector
+is composed
+of a low-noise
+avalanche
+photodiode
+(APD)
+with
+an integrated
+preamp
+and line driver.
+The
+use of APD's
+is favored
+in this application,
+since
+the high
+quantum
+efficiency
+dominates
+the excess
+gain provided
+by conventional
+photomultiplier
+tubes.
+Optical
+systems
+have
+also been
+constructed
+in a coaxial
+backscatter
+configuration
+using
+laser
+diode
+sources
+emitting
+at 680
+and 780
+nanometers.
+In addition
+to simplifying
+alignment
+considerations,
+this
+configuration
+also provides
+single-ended
+optical
+access.
+Such
+an arrangement
+affords
+the possibility
+of rapid
+spatial
+scanning
+of the sample
+volume
+using
+computer
+controlled
+turning
+mirrors
+or diffractive
+optics.
+A system
+of this type has been
+constructed
+for use in the various
+reduced-gravity
+facilities.
+The
+onboard
+computer
+system
+generates
+the waveforms
+to achieve
+the desired
+spatial
+scan sequence,
+and simultaneously
+provides
+timing
+flags
+to synchronize
+with
+the data
+acquisition
+system.
+Data
+is acquired
+and processed
+using
+a novel
+burst-spectral
+signal
+processor.
+This
+processor
+utilizes
+parallel
+DSP to achieve
+acquisition,
+processing,
+archiving,
+and
+real-time
+graphic
+display
+at rates
+approaching
+104 measurements
+per
+second.
+The
+16-bit
+PC plug-in
+card configuration
+facilitates
+integration
+into a variety
+of experimental
+packages.
+Of particular
+value
+in the context
+of the reduced
+gravity
+facilities
+is the ability
+to operate
+the processor
+as a transient
+recorder.
+In this
+fashion,
+the original
+data
+stream
+is preserved,
+allowing
+flexibility
+in post-processing
+options.
+Shown
+in figure
+1 is velocity
+vs.
+time
+data
+corresponding
+to non-reacting
+flow
+from
+a burner
+with
+Re 2100
+at the
+exit.
+Turbulence
+is generated
+by impingement
+on a diffuser
+plate
+located
+20 mm upstream
+of the exit.
+Also
+shown
+is the associated
+velocity
+probability
+density
+function
+(pd0.
+Figure
+2 illustrates
+the mean
+velocity
+and R_MS of the pdf as a function
+of axial
+height
+above
+the burner.
+This
+data
+was acquired
+on the NASA
+DC-9
+reduced
+gravity
+aircraft
+using
+the forward
+scatter
+optical
+system
+previously
+described.
+Particle
+Image
+Velocimetry
+Measurement
+of velocity
+maps
+for flows by using
+Particle
+Imaging
+Velocimetry
+requires
+an intense
+light
+source
+manipulated
+275
+
+<<<PAGE 2>>>
+to form a light
+sheet
+which
+is an illuminated
+volume
+with a thickness
+of approximately
+1 ram, a width
+of at least
+50 mm and
+an axial
+extent
+of at least
+150 ram.
+In 1G labs,
+high-energy
+lasers
+are routinely
+used
+for this
+purpose.
+Use
+of such
+a laser
+in
+the 2.2 second
+drop
+tower
+is more
+difficult
+since
+the laser head
+and power
+supply
+are too massive
+to be included
+internal
+to the
+drop package.
+Therefore,
+a multi-mode
+fiber optic cable with
+a core diameter
+of 600 micrometers
+was used to transmit
+light from
+the laser
+to the drop rig.
+Once
+on the rig, cylindrical
+optics
+were
+used to suitably
+condition
+the light sheet
+and center
+it over
+the
+burner
+exit.
+Scattering
+particles
+were
+entrained
+in the fuel
+flow by placing
+them
+in an input
+plenum
+through
+which
+the gas flowed.
+The
+0.1
+mm
+diameter
+of the entrance
+orifice
+was
+designed
+to produce
+a Reynolds
+number
+of 2100
+in the plenum
+when
+the mean
+velocity
+from
+a 0.312
+cm diameter
+nozzle
+at the exit of the plenum
+was
+8.72 cnffsec.
+In initial
+tests,
+the seed exited
+the nozzle
+in a continuous
+stream
+that
+was
+much
+too dense
+to resolve
+individual
+particle
+images
+as required.
+When
+a screen
+was
+placed
+inside
+the plenum
+over
+the base
+of the exit nozzle,
+the particulate
+stream
+was disrupted
+and individual
+particles
+could
+be resolved.
+The
+flow
+velocity
+was
+also
+reduced
+to a level
+where
+the Reynolds
+number
+in the plenum
+was
+approximately
+370.
+A velocity
+field map is shown
+in figure
+3.
+In this illustration,
+the nozzle
+is denoted
+by a square
+and the 013 flamefront
+location
+corresponds
+to the hemispherical
+line.
+The
+axes
+are labeled
+according
+to pixel
+number.
+The same
+seeder
+concept
+was also applied
+to seeding
+a 1G flow from
+a 33 mm
+ID tube with
+a non-combusting
+flow.
+In this
+experiment
+air exited
+a 33 mm diameter,
+600 mm long tube with
+a mean
+velocity
+of 5.23 ram/see.
+Given
+the large
+tube diameter,
+a Reynolds
+number
+of 1153 was
+produced
+with an entrance
+diameter
+of 0.3 ram.
+The flow
+field is shown
+in figure
+4 where
+the
+labels
+for the axes
+correspond
+to distance
+in inches.
+In all cases,
+quantitative
+velocity
+maps
+were
+obtained
+from
+the original
+raw
+particle
+image
+sequences
+using
+analysis
+tools
+developed
+at the NASA-Lewis
+Research
+Center.
+_;imultaneous
+Soot
+Volume
+Fraction
+and Tem_r_rature Measurements
+A variety
+of non-intrusive
+optical
+methods
+have
+been
+demonstrated
+for the determination
+of soot
+volume
+and
+fraction
+and
+temperature.
+Specifically,
+optical
+extinction
+has been
+utilized
+for
+the former,
+and
+emission
+pyrometry
+for
+the latter.
+Both
+examples
+involve
+the tomographic
+inversion
+of integrated
+line-of-sight
+data.
+Recently,
+a method
+was
+developed
+to permit
+the
+rapid,
+two-dimensional
+determination
+of soot
+volume
+fraction
+fields.
+A system
+has
+also been
+developed
+for the Combustion
+Module-1
+program
+to determine
+soot
+temperature
+fields
+via two-wavelength
+emission
+tomography.
+The
+present
+effort
+focuses
+on
+performing
+simultaneous
+measurements
+of
+volume
+fraction
+and
+temperature,
+while
+also
+addressing
+issues
+concerning
+the specification
+of the spectrally
+dependent
+emissivity
+for
+carbonaceous
+soot.
+This
+work
+is an
+extension
+of previous
+efforts
+by Hall and
+Bonzcyk,
+essentially
+extending
+the method
+to multi-dimensional
+measurements.
+The
+method
+is predicated
+on the fact that
+[in the optically
+thin limit]
+Kirchoffs
+Law establishes
+the equivalence
+between
+absorptivity
+and
+emissivity.
+Since
+optical
+extinction
+in effect
+determines
+per volume
+absorptivity,
+emission
+measurements
+performed
+along
+identical
+optical
+lines
+of sight
+yield
+path
+integrated
+data
+proportional
+to the
+associated
+extinction
+values.
+The
+constant
+of
+proportionality
+is the Planck
+Function,
+leading
+directly
+to the determination
+of temperature
+without
+the need to explicitly
+determine
+appropriate
+values
+for soot
+emissivity.
+To insure
+this proportional
+equality,
+it is essential
+that the emission
+and extinction
+measurements
+be specified
+over identical
+optical
+paths.
+Isotropic
+emissions
+must
+therefore
+be collected
+over
+narrow,
+spatially
+non-overlapping
+ray
+fans.
+When
+utilizing
+a pixel-based
+detector
+array,
+the permissible
+collection
+angle
+is determined
+by the quantity
+dp/2rdql,
+where
+dp is the dimension
+of a pixel,
+r_ is the maximum
+radius
+of the emitting
+species,
+and M is the system
+magnification.
+Achieving
+a spatially
+invariant
+angular
+collection
+efficiency
+is accomplished
+through
+the use of a telecentric
+imaging
+system.
+Line
+profiles
+from
+a resulting
+SVF
+and
+temperature
+map
+are shown
+in figure
+5 for the case
+of a 3.85
+co/see
+ethylene-air
+coflow
+burner.
+Data
+from
+previous
+measurements
+by Santoro
+et al are shown
+for comparison.
+As would
+be expected,
+temperature
+measurements
+derived
+from
+concomitant
+SVF measurements
+yield
+unphysical
+values
+in regions
+where
+the soot loading
+becomes
+negligible.
+This
+is consistent
+with
+the concept
+of measuring
+the temperature
+of the soot
+field
+itself.
+In the laminar
+diffusion
+flame,
+the location
+of the soot shell occurs
+at radii internal
+to the reaction
+surface,
+and therefore
+measurements
+of soot temperature
+obtained
+by this method
+would
+not be anticipated
+to accurately
+determine
+peak
+gas phase
+temperatures.
+Figure
+6 depicts
+similar
+measurements
+in a Re 2550
+turbulent
+acetylene
+diffusion
+flame.
+Due
+to significantly
+enhanced
+mixing,
+the occurrence
+of soot
+is less
+sharply
+confined,
+as observed
+in the preceding
+laminar
+flame
+data.
+[_apid-Insertion
+Fine
+Wire
+Thermocouples
+The
+use of rapid-insertion
+fine
+wire
+thermocouples
+provides
+a simple
+complement
+to emission
+pyrometry
+techniques.
+The
+latter,
+when
+implemented
+in the visible
+spectrum,
+are dominated
+by radiant
+contributions
+from
+soot.
+While
+isolated
+gas phase
+emissions
+are observed
+in the infrared,
+the output
+still remains
+a line-of-sight
+integrated
+quantity.
+This
+measurement
+therefore
+provides
+a useful
+complement
+for
+the determination
+of spatially
+localized
+temperature
+measurements
+in possibly
+non-sooting
+regions
+of combustion
+phenomena
+of arbitrary
+symmetry.
+Minimizing
+the intrusive
+nature of a physical
+probe
+is enhanced
+by reductions
+in thermal
+mass,
+aerodynamic
+cross
+section,
+and
+residence
+time.
+These
+importance
+of these
+features
+have
+been
+confirmed
+by high
+speed
+imagery
+and high
+speed
+schlieren
+276
+
+<<<PAGE 3>>>
+photography
+of thermophoretic
+soot sampling
+probes.
+To
+this end,
+an identical
+pneumatic
+actuator
+assembly
+was
+used
+for the
+present
+thennocouple
+measurements.
+In this
+case, the 2 mm
+gap
+in the tip of the probe
+normally
+occupied
+by the transmission
+electron
+microscopy
+collection
+grid is spanned
+b_, a fine wire
+thermocouple.
+The results
+reported
+here were
+obtained
+using
+type
+K therrnocouples
+with
+a wire
+diameter
+of 1 rail.
+The
+active
+junctions
+were
+formed
+by laser
+welding,
+forming
+a spherical
+bead
+of approximately
+twice
+the wire
+diameter.
+The
+raw
+leads
+are
+bonded
+to the
+surface
+of the
+probe
+blade
+with
+a thin,
+high
+temperature,
+electrically
+insulating
+coating.
+To reduce
+conductive
+effects
+along
+the metallic
+leads,
+the thermocouple
+was
+oriented
+perpendicular
+to the blade
+gap,
+and
+along
+vertical
+axis of the flame.
+The exposed
+thermocouple
+leads
+are therefore
+exposed
+to minimal
+thermal
+gradients.
+The use
+of 1 rail wire
+places
+the bead 40 wire diameters
+away
+from
+the larger
+thermal
+mass
+presented
+by the probe
+blade.
+The
+apparatus
+is oriented
+so that the thermocouple
+bead
+falls
+on the centerline
+of the burner
+axis
+when
+the actuator
+is in the fully
+extended
+position.
+Typical
+raw voltage
+response
+functions
+are shown
+in figure
+7 for the case of a turbulent
+acetylene
+jet diffusion
+flame
+at Re
+2550.
+Convective
+and
+radiative
+corrections
+have
+not
+yet
+been
+applied.
+The
+junctions
+were
+located
+100
+exit
+diameters
+downstream.
+The
+actual
+residence
+times
+of the probe
+were
+measured
+with
+a simple
+optical
+gate.
+The
+gate
+is formed
+by a laser
+sheet
+which
+is interrupted
+by the traversing
+probe.
+Following
+the probe,
+the sheet
+is focused
+onto
+a high-speed
+PIN diode,
+and
+stored
+on a digital
+sampling
+oscilloscope.
+Shot-to-shot
+variations
+in residence
+time
+are negligible.
+Extrapolations
+based
+on an
+exponential
+response
+model
+demonstrate
+good
+agreement
+between
+sequential
+measurements.
+The
+observed
+slight
+monotonic
+increase
+in response
+time from
+sequential
+insertions
+is attributed
+to the increase
+in bead diameter
+due
+to the deposition
+of soot.
+Miniature
+Speelrometer
+Detection
+of Visible
+Flame
+Emissions
+An
+important
+observable
+in microgravity
+flames
+is the color
+of the flame,
+or more
+specifically,
+the spectral
+distribution
+of
+the flame
+emissions.
+This
+may
+lead
+to conclusions
+about
+the types
+of species
+present
+in different
+flame
+regions,
+comparisons
+of the relative
+amounts
+of the species
+between
+microgravity
+and
+normal
+gravity
+flames,
+and
+to the results
+from
+flame
+models.
+On
+a practical
+level,
+the intensity
+distribution
+may guide
+the selection
+of optical
+bandpass
+filters
+and light
+sources
+for imaging
+measurements.
+Conventional
+laboratory
+monoehromators
+offer
+high resolution,
+but are large
+and sensitive
+to mechanical
+shock.
+A solid-state,
+miniature
+spectrometer,
+the MMS
+1, has been
+obtained
+from
+Carl Zeiss,
+GmbH
+to address
+this
+specific
+need.
+The entire
+unit
+is 70 mm x 60 mmx
+43 ram, features
+a glass
+body
+spectrometer,
+and contains
+an integrated
+grating
+and linear
+diode
+array.
+An input
+optical
+fiber
+bundle
+composed
+of approximately
+30 single
+fibers
+couples
+the input
+to the spectrometer,
+and
+has an inner
+diameter
+of 0.5 nun.
+It converts
+the light from
+a circular
+input
+to a linear
+output
+of 70 micron
+by 2.5 mm
+that forms
+the input
+slit of the spectrometer.
+The grating
+is holographically
+blazed
+to have
+its maximum
+efficiency
+at 215 urn, and images
+the entrance
+slit onto
+the diode
+array.
+The
+same
+grating
+is used throughout
+the uv and visible.
+The
+spectrometer
+has a 256 pixel
+element
+linear
+diode
+array
+that simultaneously
+records
+a complete
+spectrum
+over
+the range
+of 300
+to 1150 rim.
+The
+electronics
+are in a separate
+module
+that interfaces
+between
+the spectrometer
+and
+the computer.
+An analog/digital
+card
+in the PC104
+computer
+(described
+later in this
+paper)
+on the drop rig triggers
+data
+acquisition
+and
+digitizes
+the signal
+from
+the
+electronics
+module.
+A Pascal
+computer
+program
+controls
+the experiment
+sequence,
+including
+activation
+of a gas solenoid,
+hot
+wire
+ignitor,
+and
+data
+acquisition.
+Prior
+to use in the drop
+tower,
+the MMS
+underwent
+a series
+of laboratory
+tests.
+Three
+sources
+were
+used
+to check
+the
+wavelength
+calibration:
+a small
+mercury
+pen
+lamp,
+a helium-neon
+laser,
+and
+a nitrogen
+laser.
+Each
+separately
+illuminated
+the
+fiber
+optic
+input
+to the spectrometer.
+The peaks
+were
+fit to a Gaussian
+to determine
+the pixel
+positions
+of maximum
+intensity.
+Using
+calibration
+coefficients
+supplied
+by the manufacturer,
+agreement
+of the main
+mercury
+lines
+at 365, 404,
+435,
+545, and 578
+rim,
+and
+the laser
+lines
+at 632
+and
+337
+nm to the measured
+wavelengths
+was
+obtained
+for
+five
+of the lines
+to within
+0.3
+rim,
+agreeing
+with
+the manufacturer's
+specification.
+The
+relative
+spectral
+response
+calibration
+was
+done
+using
+a quartz-halogen
+tungsten
+coiled
+filament
+lamp.
+The
+system
+response
+is not flat,
+but
+exhibits
+a peak
+sensitivity
+at 600
+nm,
+falling
+to 10%
+of the peak
+at 415
+and
+920 nm.
+The
+lack
+of
+response
+below
+415
+nm is due
+to the optical
+elements
+in the lens.
+A
+correction
+function
+was
+generated
+and
+applied
+to the
+subsequent
+flame
+spectra
+to account
+for the spectral
+response
+of the lens/detector
+system.
+Above
+920 nm,
+most
+of the large
+fluctuations
+seen
+in the spectra
+may
+be attributed
+to the smaller
+detector
+response.
+The
+spectrometer
+linearity
+with
+integration
+time,
+from
+the minimum
+time of 10.5 msec
+up to 100 msec,
+was examined
+using
+an atomic
+spectral
+lamp.
+Linearity
+for different
+line
+intensities
+was
+observed
+up to near the bit count
+limit
+of 4095.
+An
+initial
+test drop
+was conducted
+using
+a set of light emitting
+diodes
+in the green,
+red,
+and
+near infrared.
+A comparison
+of the wavelength
+maxima
+location
+and
+intensities
+before
+and during
+the drop
+shows
+slight
+changes
+on the order
+of 0.5 nm and
+3% decrease
+in intensity.
+For a demonstration
+of flame
+spectra,
+the MMS
+is mounted
+onto the optics
+plate
+of a 2.2 sec drop rig.
+A 50 mm F/2 macro
+lens
+collects
+the flame
+emissions
+and
+focuses
+them
+onto
+the fiber
+optic.
+The
+magnification
+is roughly
+1/3, so that
+only
+a small
+part
+of the flame
+is imaged
+onto
+the input
+diameter
+of the fiber.
+A pinhole
+is used
+at a separate
+time
+to measure
+the position
+in the flame
+that the
+spectrometer
+views.
+Typical
+accelerations
+at the end
+of the drop
+are between
+10-20
+G as measured
+by a
+277
+
+<<<PAGE 4>>>
+shock accelcrometermounted nearthe spectrometer.A simplelaminarethylenediffusionflame was chosen as itiscommonly
+studiedand easilyand reliablyignited.The nozzleinnerdiameterof 2.5mm
+and ethyleneflow rateof 0.072seem givesa flame
+2.2 cm high.The
+operationalsequence iscollectionof a background (dark)spectrum,flame ignitionin 1-g by a hot wire,
+collectionof severallg spectra,releaseof thedrop package,and collectionof transitionand 0g spectra.Video istakenof the
+flame duringthe entiresequence.
+The firstsetof drops was conducted withthe spectrometerimaging low in theflame,5-7 mm
+above the nozzle.The flame
+has a bluecolorto theeye atthisheight.The integrationtime is33 msec to obtainsatisfactory
+signallevels.The transitionto
+a stable0G flame appears to takeabout I second,afterwhich the flame spectraarenearlyidenticaluntiltheend of thedrop.
+The spectrain 1G and 013 look qualitatively
+similarexceptforthe magnitudes,as shown in Figure 8, and show a continuous
+emissionas would be expectedfrom a spectradominated by particulate
+emission.Surprisinglylittle
+emissionorstructureisseen
+in the blue wavelengthsabove 415 nm
+thatcan be detectedby the opticalsystem. (The spectrum from a butane flame shows
+prominent CH
+emissionat431 nm and C__emissionsat473 and 516 nm.) The peak emissionoccurs inboth 1G and 0(3 flames
+in the near-infrared,
+near950 to 1000 nm.
+In general,theO-g spectraareweaker by 2 to 5 timesthosein 1-g with thegreatest
+l-g/0-gratiooccurringat 450 nm.
+The greatestsubtracteddifferenceoccurs at 900 nm.
+Higher in the flame near thecenter,at 9-10 man above thenozzle,the signalsare considerablystronger.The flame has a
+yellow colortothe eye atthisheight.The integration
+time isreduced to 15 msec to keep thesignalsfrom going off-scale.The
+peak wavelength in IG is 975 nm; in 0(3,the peak is not reached,as the signalis stillincreasingwith wavelength. The
+differencesbetween the magnitudes of the IG and 0(3spectraareeven more dramaticthan thoselower in theflame as shown
+inFigure8, with the 1-g/0-gratiobeing over50 timesat 525 nm. The greatestsubtracteddifferenceoccursat950 nm, similar
+to lower in theflame.
+One preliminarytestof a 1G methane diffusionflame showed thatitisconsiderablyweaker
+than the ethyleneflame and
+blue-shiftedin itsemissions,as expectedfrom itsappearanceto theeye. An integrationtime of 100 msec yieldedsignalsthat
+are roughly 50 counts,compared to over 3000 for the ethyleneflaws with an integrationtime of only 15 msec.
+To date,theMMS
+has been subjectedto 42 drops. The above resultshow thatthisspectrometersystem isabletospectrally
+resolveflamesand provide informationon theirradiantemissionsin the visible.A uv-visversionof the MMS
+was recently
+received
+and will
+be tested
+for its appLicability
+to enhance
+the blue
+and
+ultraviolet
+emissions
+from
+species
+such
+as OH.
+Data
+Acquisition
+and
+Control
+for Miero_ravity
+Diagnostic
+Systems
+Advances
+in diagnostic
+techniques
+utilized
+in the reduced
+gravity
+facilities
+have
+resulted
+in the requirement
+to upgrade
+the
+associated
+data
+acquisition
+and
+control
+capabilities.
+A PC104
+system
+was
+selected
+for several
+reasons.
+First,
+it is a primary
+standard
+for embedded
+systems.
+This
+standard
+provides
+a platform
+that
+is virtually
+identical
+to the desk
+top
+PC;
+the system
+configuration
+is based
+on the standard
+16 bit ISA bus.
+Numerous
+vendors
+manufacture
+boards
+that will
+readily
+mate
+with
+this
+bus
+architecture.
+This
+provides
+ready
+availability
+of a broad
+variety
+of capabilities,
+including
+power
+supply
+cards,
+CPU
+cards,
+frame
+grabbers,
+analog
+signal
+conditioning,
+digital
+I/O, etc.
+Another
+important
+factor is size.
+Basic
+cards
+have
+an outline
+of less
+than
+100 by 100 ram.
+When
+stacked,
+the cards
+are separated
+by 15 ram.
+The
+minimum
+system
+can
+therefore
+be packaged
+into
+a 150 x 150 x 50 ram.
+An additional
+motivation
+is consistency
+with
+laboratory
+applications.
+Most
+bench
+top systems
+can be
+duplicated
+in the PC104
+format.
+Programs
+written
+to mn
+under
+DOS
+will also run with
+out modification
+on a PC104
+system.
+The present
+configuration
+consists
+of a 486 CPU,
+a PCMCIA
+interface,
+and a data acquisition
+card.
+The
+data acquisition
+card
+has
+16 single
+ended
+or 8 differential
+analog
+inputs,
+digitized
+to 12 bit resolution
+with a maximum
+sampling
+rate
+of 200 kilohertz.
+Analog
+outputs
+are supplied
+through
+two
+12 bit D/A
+converters.
+Also
+provided
+are 16 digital
+lines
+which
+drive
+the various
+solenoids,
+relays,
+and
+status
+indicators.
+As configured
+the system
+requires
+only
+a 5 volt
+input,
+and
+typically
+consumes
+6 watts
+of power.
+Should
+the need
+arise
+to alter
+this
+configuration,
+a second
+acquisition
+card can
+be added
+to the stack
+to enhance
+or
+expand
+these
+capabilities.
+Upon
+initialization,
+the system
+loads
+DOS
+from
+the solid-state
+disk
+(SSD)
+on the
+CPU
+card.
+The
+config.sys
+file
+and
+autoexec.bat
+fries
+in thc SSD load
+all of the necessary
+system
+drivers.
+The
+final command
+in the autoexec.bat
+runs
+a batch
+file
+on the PCMCIA
+flash
+card.
+The
+data
+acquisition
+program
+can then be executed
+from
+the PCMCIA
+card.
+Data
+taken
+during
+the
+experiment
+sequence
+is then
+stored
+back
+to the same
+card.
+Upon
+completion,
+the card
+is removed,
+and
+interfaced
+to either
+a
+laptop
+or desk
+top machine
+to analyze
+and archive
+the data.
+In this fashion,
+the data
+acquisition
+program
+can be changed
+without
+having
+to gain
+access
+to the system,
+facilitating
+parallel
+utilization
+by several
+users.
+The
+authors
+wish
+to acknowledge
+Professor
+J.C.
+Ku of Wayne
+State University
+for his assistance
+in the implementation
+and
+analysis
+of temperature
+measurements.
+278
+
+<<<PAGE 5>>>
+|
+ea
+o,,,,,,,
+0
+__
+e_
+I!
+0
+o
+>
+o
+0
+m
+o
+(oes/u_) S_EI
+o
+c_
+c_
+c_
+o
+c_
+c_
+o
+c_
+c_
+c_
+o
+°
+I
+°
++,/
+,,
+/
+__o
+°
+/
+['
+•
+,_.
+_
+.
+.
+o
+_
+o
+•
+_,
+(oes/w}/,1!.o_le_uee_
+=o
+o
+9
+279
+
+<<<PAGE 6>>>
+E
+N
+0
+o
+e,,,,.
+8
+o
+0
+o
+w
+A.IJSN31NI
+3A11"_73_
+==
+5
+O
+_3_A
+.50
+r,
+0,1)J;,'eJn_,eJSdUJe./_.oo£
+/
+4
+901.x"f'uo!pea..-IewnlOA_,oos
+d
+E
+..,4
+.£
+-6
+..e=
+o
+,.:4
+I=,
+90I.X_ 'uo!l,,3eJ:lauJnlOA;ooS
+E
+v
+°_
+¢.-,,
+m
+¢1
+n,"
+£
+=
+#..
+_,=
+P-.,
+&
+..b
+"d
+=o
+>o
+,3
+b:
+28O

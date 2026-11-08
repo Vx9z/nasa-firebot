@@ -1,0 +1,578 @@
+<<<PAGE 1>>>
+ICES-2020-173 
+ 
+This manuscript is a work of the United States Government authored as part of the official duties of employees of the 
+National Aeronautics and Space Administration. No copyright is claimed in the United States under Title 17, U. S. 
+Code. All other rights are reserved by the United States Government. Any publisher accepting this manuscript for 
+publication acknowledges that the United States Government retains a nonexclusive, irrevocable, worldwide license 
+to prepare derivative works, publish or reproduce the published form of this manuscript, or allow others to do so for 
+United States Government purposes. 
+Spacecraft Fire Safety Technology Development Plan 
+For Exploration Missions 
+Gary A. Ruff1, David L. Urban2, and Daniel L. Dietrich3 
+NASA John H. Glenn Research Center, Cleveland, OH, 44135 
+To date, NASA’s spaceflight operations in the past five decades have been limited to a 
+narrow range of conditions from a fire safety perspective. The currently anticipated missions 
+outside of low earth orbit will substantially expand this parameter space to include, extended 
+durations, dormancy intervals, increased oxygen concentrations, partial gravity conditions 
+and the presence of surface dust. All of these changes can have significant impacts on fire 
+safety system design and operations. The overall state of understanding is discussed in this 
+paper along with the identification of the needs for spacecraft fire safety technology 
+development. These needs have been assembled into a roadmap maintained by the 
+Environmental Control and Life Support System Capability Leadership Team that has 
+evolved as the exploration mission concepts have changed. This roadmap continues to 
+communicate the spacecraft fire safety needs for exploration and guide technology 
+development efforts. This paper summarizes the major recent developments in our 
+understanding of spacecraft fire behavior and mitigation. A review of the major technology 
+development needs and discussion of their objectives, status, and future plans is presented. 
+The plan for transitioning knowledge, hardware, and modeling capability resulting from these 
+development efforts to specific exploration vehicle programs and missions is also discussed. 
+Nomenclature 
+COG 
+= chemical oxygen generator 
+ECLSS 
+= Environmental Control and Life Support System 
+EVA 
+= Extra Vehicular Activity 
+FPDS  
+= fire protection, detection and suppression 
+HEPA  
+= High Efficiency Particulate Air filters  
+ISS 
+= International Space Station 
+Li-ion 
+= Lithium-ion battery 
+STS 
+= Space Transportation System (Space Shuttle) 
+I. Introduction 
+he progressive increase in the duration and extent of spaceflight missions beyond the surface of Earth has not 
+been without risk.  This history includes a number of catastrophic events1. Since the 1960s, of the 10 reported 
+events that resulted in the loss of crew, two events involved fire (both in ground-based testing). On-orbit, there have 
+                                                          
+1 Spacecraft Fire Safety Demonstration Project Manager, Exploration Systems Office, MS 162-7, 21000 Brookpark 
+Road, Cleveland, OH 44135. 
+2 Branch Chief, Low-Gravity Exploration Technology Branch, MS 77-5, 21000 Brookpark Road, Cleveland, OH 
+44135. 
+3 Combustion Discipline Scientist, Low-Gravity Exploration Technology Branch, MS 110-3, 21000 Brookpark Road, 
+Cleveland, OH 44135. 
+ 
+T
+
+<<<PAGE 2>>>
+International Conference on Environmental Systems 
+ 
+ 
+2 
+been 13 fire or near-ignition overheat events of which two were grave and represented a clear risk to the crew. 
+Although most of these events were limited duration component overheating or electric short events, two of these 
+were open fires precipitated by the oxygen generator and included active extinguishment efforts by the crew. 
+Collectively, these results provide evidence that fire continues to be a significant risk for spaceflight that requires 
+ongoing research to adjust to future flight requirements. Although the frame of reference of spacecraft fire safety 
+systems is often their terrestrial counterpart, addressing the fire risk in a spacecraft is more challenging owing to 
+cramped quarters, limited resources for fire response, and limited evacuation opportunities. One advantage of 
+spaceflight is that the configuration control and material usage control is very robust; consequently, the overall risk of 
+an ignition can be kept acceptably low2. 
+Although spacecraft fire safety has been studied since the beginning of the space program in the 1970s3, the 
+development of a significant and integrated program in material flammability, detection, suppression and post fire 
+response only became a reality in the past two decades4. This paper summarizes the current status of that research and 
+the planned road map for future studies. 
+A. Overview of Spacecraft Fire Safety Historical Issues 
+1. Previous Fire Events 
+As discussed in the introduction, to date, the loss of life or serious injury due to fires has occurred in ground-based 
+testing either in the spacecraft itself (Apollo -1, 1967) or in ground-based test chambers (Russia, 1961 and US Navy, 
+1961)1. All of these incidents were in high oxygen environments. Based on the Apollo 1 experience, NASA vigorously 
+improved material control within the spacecraft and made steps to improve egress and provide an extinguishment 
+option. On orbit, there have been at least 13 documented cases of electrical shorts of overheating components1, 5 all of 
+these events were resolved safely. Two more serious on orbit events have been documented; both involved the Mir 
+chemical oxygen generation system (COG). One such event was easily extinguished by a crewmember (1994) while 
+the other was a more significant event (1997) that involved burns to the crewmember fighting the fire6. There are some 
+reports that there may have been additional events on Russian spacecraft but detailed documentation is currently 
+unavailable6. It is notable that all of the most serious events were in the presence of enhanced oxygen, either in an 
+enriched environment or directly involving the oxygen generator.  Chemical oxygen generators have also been the 
+source of other fires including the ValueJet crash7 and a submarine fire in HMS Tireless8. These events have caused 
+NASA to avoid the use of chemical oxygen generators, where possible, and to require that fire extinguishers on flights 
+that have COGs are able to extinguish such potential fires. 
+2. Prior Detection and Suppression Systems 
+Given the limited number of spacecraft fires to date, spacecraft fire detection and suppression systems have 
+necessarily been based on terrestrial systems. Beginning with the Space Shuttle, the fire detection approach has been 
+to use smoke detection systems that look for aerosol particulate created by the fire event and the suppression systems 
+have included Halon, carbon dioxide and, recently, water mist with the requirement to address both enclosed avionics 
+systems and open cabin fires5. Residential smoke detectors are required to be able to detect certain prescribed test 
+fires. Fire extinguisher ratings are based on the size of standard fires the extinguisher can handle. Since there were no 
+data concerning expected smoke particle sizes in low gravity and no reference fire sizes, both systems were adapted 
+from terrestrial systems for spacecraft applications without verification of their effectiveness in low-gravity. Since it 
+was recognized that smoke would not rise to the ceiling in low-gravity, detectors were placed at locations where air 
+sampling was assured by the ventilation system. However, the impact of the well-mixed nature of the cabin volume 
+on the detection threshold was not considered. The particle size sensitivities of the Space Shuttle (STS) and the 
+International Space Station (ISS) detectors were quite different with the ISS detectors more sensitive to larger particles 
+while the Shuttle detectors were designed to reject larger particles9. The design change was driven primarily by 
+available technology for terrestrial systems rather than data concerning the targeted reference fire conditions.  
+B. Changes in Vehicle Configurations that Drive Fire Risk 
+Terrestrial fire protection system designs are based on historical experience with fire behavior; modeling of the 
+interaction of fires and human egress; and full-scale validation testing. Unfortunately, terrestrial experience does not 
+provide useful guidance for spacecraft fire protection, detection, and suppression (FPDS) system design. More 
+importantly, experience in terrestrial fire safety practices is probably more misleading than it is helpful.  
+1. Fire Detection Issues 
+While vehicle designers, starting with the space shuttle, recognized that the absence of buoyancy would require 
+that they place the detectors in the path of the flow system, more subtle details of the impact of gravity on detection 
+were not considered. Terrestrial smoke detection is dramatically simplified by the fact that, even in well-ventilated
+
+<<<PAGE 3>>>
+International Conference on Environmental Systems 
+ 
+ 
+3 
+areas, absent a ceiling fan, buoyant flow creates a stratified smoke layer at the ceiling where the smoke is very 
+concentrated and so detection of a fire against nuisance aerosol sources is much simplified. Not only can the smoke 
+be expected to be in a predictable location, the smoke is concentrated at that location rather than diluted by other air 
+in the volume. In spacecraft, the situation is much different, since the natural ventilation enjoyed by most buildings is 
+not present, spacecraft life support designers ensure that the open volume of spacecraft is well mixed so that no pockets 
+of hazardous gases can exist. This mixing dilutes the smoke such that, in most cases, the entire vehicle volume must 
+be brought up to the alarm threshold rather than smoke collecting in a thin layer at the ceiling10. This problem is further 
+complicated by the effect of the air filtration system. To protect the crews’ eyes and respiratory systems, the ISS and 
+future spacecraft will have High Efficiency Particulate Air filters (HEPA) in the Environmental Control and Life 
+Support System (ECLSS) ventilation. These systems effectively remove smoke particulate so the smoke concentration 
+cannot build up to the detection threshold as quickly. Of particular concern is the fact that these systems may not 
+remove hazardous products as they remove particles. The net result is accumulation of hazardous compounds while 
+alarm triggering is delayed11. 
+These papers demonstrated that successful implementation of a smoke detection system requires analysis or 
+modeling of the specific spacecraft in which it will be installed. Brooker et al.10 demonstrated that for moderate smoke 
+production rates, in a module corresponding to the ISS Destiny laboratory, the detection time could vary by over 2 
+minutes. Subsequently Urban et al.11 estimated the time to trigger the ISS and STS smoke detectors in various 
+spacecraft configurations for a variety of spacecraft materials. The accumulation of smoke was calculated depending 
+on the filtration in the ECLSS system. At the same time, hazardous compounds were allowed to accumulate. In many 
+cases, hazardous levels of multiple materials accumulated before the smoke alarm threshold was achieved. Based on 
+the variation in results depending on the vehicle configuration and the air filtration, the authors concluded that 
+spacecraft fire detection thresholds should not be based on terrestrial levels or on other spacecraft, but instead, need 
+to be specifically selected based on the volume of the vehicle and the anticipated life support (air filtration and 
+ventilation) systems. The interaction between all relevant systems must be considered (and usually modeled in detail) 
+to ensure adequate detection.  
+2. Impact of Stowage and Avionics Configuration 
+Stowage and avionics configuration can also have a significant effect on fire detection and suppression choices.  
+Both the ISS and the STS have enclosures with powered electronics and cooling air flow. This configuration was 
+recognized to have increased risk of sustained fire so they were designed to be accessible for flooding extinguishment 
+and to be covered by smoke detectors2, 4. Alternative approaches have been considered for future spacecraft, which 
+included enclosing avionics systems to restrict airflow and using cold plates for avionics cooling. Applied correctly 
+these approaches can eliminate the need for fire suppressant access to the enclosure. Proposed plans for Orion include 
+ensuring any stowed items that have the potential of providing an ignition source (e.g. Li-ion batteries) are stowed 
+with a fire barrier between the ignition sources and other flammable stowage. Implemented correctly (and backed by 
+suitable testing), these design approaches can eliminate the need for both a fire extinguisher that can flood enclosed 
+spaces and fire detection coverage of the enclosed spaces. 
+3. Vehicle Scale Fire Modeling 
+Studies by Dietrich et al. 12, 13 modeled the impact of a fire in a spacecraft considering effects including pressure 
+rise, thermal injury to the crew, carbon monoxide and carbon dioxide and hazardous gas accumulation. The issues 
+were found to scale in a generally non-linear manner with the fire and the vehicle sizes. Details including the size of 
+the positive pressure relief valves had very important impacts on the outcome.   
+The critical conclusion from these prior studies is that, if there are flammable materials present, there is no simple 
+fire detection and suppression approach that will work for all potential vehicle designs. Instead the specific vehicle 
+must be modeled including the details of the air circulation and filtration; avionics cooling and enclosures; stowage 
+strategy; vehicle volume; atmosphere composition; and relief valves.  With these details included in the model the 
+proposed requirements for detection and suppression can be quantitatively examined. 
+ 
+C. Future mission changes that will further change risk  
+Mission parameters also can have a significant effect on the fire safety requirements. Of these, mission duration, 
+operational gravity levels, Extra Vehicular Activity (EVA) frequency, and dormancy all have important impacts. The 
+impact from mission duration is primarily through the logistics requirements. Longer missions require increased 
+stowed supplies and stowed waste material with the challenges of configuration control.  Included in the additional 
+supplies will necessarily be potential ignition sources including spare batteries and laptops, increased oxygen stores 
+and potentially reactive ECLSS consumables.  The operational gravity levels also strongly affect the fire safety design.
+
+<<<PAGE 4>>>
+International Conference on Environmental Systems 
+ 
+ 
+4 
+Designing a craft for reliable fire detection in both low-gravity and surface gravity environments is particularly 
+challenging as the presence of buoyant flow will dominate the smoke transport even at Lunar g-levels. Consequently 
+the design choices for each environment can be expected to be substantially different. Increased EVA frequency brings 
+with it numerous issues: increased handling of high pressure oxygen, increased dust release in the cabin, use of higher 
+oxygen concentration environments to reduce decompression sickness risk4, and increased battery usage. Designing a 
+spacecraft or habitat for extended periods of dormancy requires the ability to create a fireproof state (vacuum or very 
+low oxygen concentration); remove or enclose all flammable materials; limit or eliminate all possible ignition sources; 
+or provide automated fire suppression capability. 
+ 
+II. Current state of understanding and needs for future research  
+A. Material Flammability, Ignition, and-Fire Growth 
+1. Flammability 
+Reduction of the risk of injury or damage due to a fire can be achieved (in principle) by either ensuring there are 
+no flammable materials or there are no ignition sources.  If neither of these two conditions can be guaranteed, then 
+reduction of the fire risk can be achieved by understanding the potential size and growth rate of a fire and developing 
+means to detect and extinguish it.  NASA addresses both of the prevention approaches separately.  The flammability 
+risk is addressed through NASA STD 6001 Test 114, although this test does a significant job of identifying highly 
+flammable materials for exclusion, prior work in low gravity has shown that some materials may be more flammable 
+in low-gravity than in the normal gravity conditions of the test15, 16.  These prior tests were limited to thin samples of 
+a small number of materials that do not pass NASA’s flammability test (i.e. are flammable in air).  Marcum et al. 
+showed that PMMA rods would burn at substantially lower oxygen concentrations in low-gravity than in 1-g.17 Further 
+testing, in extended low gravity, of materials that are typically used in spacecraft is necessary to better characterize 
+the reliability of the current flammability standard. 
+2. Ignition  
+The best practice is to use only materials that are not flammable in the spacecraft environment (pressure, oxygen 
+and gravitation).  The reality, however, is that there will likely be materials in the spacecraft that are flammable in the 
+spacecraft environment.  The question then is not whether a fire can occur, but how to mitigate the risk of a potential 
+fire.  This involves understanding the conditions under which a fire might ignite and how fast the fire will grow if it 
+ignites.  Ignition prevention though is challenging to achieve in an absolute sense since the presence of any powered 
+systems provides an ignition source. This approach is made even more challenging owing to the very configuration 
+specific nature of ignition.  Ultimately, ignition is controlled by the tradeoff between the energy produced by the 
+ignition source and the early reactions against the heat loss to the surroundings.  As the conditions approach the limit, 
+small variations in a variety of parameters can change the heat losses.  Consequently, it is not usually managed to a 
+simple standard and instead is primarily addressed by traditional best practices.  Given the wide variety of potential 
+ignition sources (e.g. spark, friction, chemical reaction, heating) and the difficulty of establishing a test method that 
+will cover these different mechanisms, there is not an identified research path that is expected to lead to a universal 
+answer.    
+Rather than identifying a single test, the best approach to mitigate the ignition risk is to identify the highest risk 
+ignition sources on a spacecraft and perform ground testing to understand the likelihood that a failure might initiate a 
+fire.  An example is a laptop computer that experiences a thermal runaway event.  In this case while the energy released 
+by the failed laptop itself might be a manageable event, the greater risk might be the likelihood that the failure will 
+result in the ignition of other flammable material in the spacecraft.  The risk mitigation in this case is not eliminating 
+the ignition source or flammable material but configuration control of the flammable material and the ignition source. 
+3. Fire Growth 
+Once an ignition has occurred, the next critical step is the kindling chain where a small ignition grows to a larger, 
+hazardous fire. While it is extremely difficult to break all possible kindling paths, identifying and avoiding the most 
+threatening paths is possible and good practice.  In normal gravity material flammability is strongly influenced by the 
+presence of surrounding materials.  One salient example is wood which is universally understood to be flammable and 
+the participating fuel in the vast majority of unwanted fires.  A single piece of wood will pass most flammability tests 
+in normal gravity.  However, two pieces of wood, separated by approximately a centimeter are much more easily 
+ignited.  It is possible that similar effects can be seen in low-gravity for different configurations.  To date, this issue is 
+entirely unexplored (in low-gravity) due to the limited number of test opportunities for extended duration testing of 
+complex fuel geometries. Testing of this type, exploring a range of potentially hazardous configurations is an
+
+<<<PAGE 5>>>
+International Conference on Environmental Systems 
+ 
+ 
+5 
+important area for future study. This work could be conducted first with traditional research materials. If hazardous 
+configurations are identified, it would be valuable to test them with low-flammability spacecraft materials.  
+In the event that material and configuration controls have failed, the critical questions related to the rate of growth 
+of the fire and the impact fire has on the spacecraft.  Terrestrial fire safety is based on extensive experience with fires 
+and associated experience with fire growth and spread rates.  To date we have very limited experience with fire growth 
+in low gravity.  The Saffire experiments18 are addressing this issue by establishing fires on realistic size materials and 
+allowing the flame to grow while its progress is monitored.  Sensors throughout the vehicle also measure the pressure 
+and temperature rise to facilitate validation of computer models of the impact of the fire on the vehicle.  This approach 
+parallels that used in terrestrial fire safety where extensive testing has built a robust experience base for fire behavior 
+in structures.  A similar experience base must be developed in order for NASA to ensure the safety of future spacecraft. 
+B.  Partial-Gravity Material Flammability 
+To date, study of material flammability in partial gravity has been limited to studies of thin fuels during low-
+gravity aircraft trajectories21 and in the GRC 5.2 second drop tower using a centrifuge facility21. Both of these studies 
+observed an extended flammability zone where materials were flammable at lower oxygen concentrations at partial 
+gravity conditions near lunar gravity levels compared to both normal gravity and microgravity conditions.  These 
+results suggest that flammability limits determined in normal gravity may not be conservative however, the data set 
+collected to date is very limited.  Low gravity conditions also enable fires to persist in conditions where they are less 
+likely to survive in low gravity e.g. inside narrow channels between fuel surfaces, smoldering in porous media, and 
+deep seated fires.  These various configurations can have a significant effect on material flammability but the extent 
+of this impact as a function of g-level is not readily predicted and is an important area of future study. 
+C. Fire Detection: Validation and Vehicle Scale Transport 
+Brooker et al.23 showed that the detection conditions in a low-gravity spacecraft are substantially different from 
+normal gravity where buoyancy stratifies the smoke near the ceiling.  By comparison, in low-gravity the cabin 
+atmosphere is invariably well mixed and the entire volume must be brought to the alarm level.  A space experiment24 
+examining the smoke particle sizes from several materials found in spacecraft found that typical smokes aerosol sizes 
+can range in size from 100 to 500 nm diameters of average mass.  This range makes discrimination of smoke from 
+dust particles difficult based simply on the aerosol concentration.  Modeling the transport in a spacecraft equipped by 
+and active ECLSS system equipped with HEPA filtration25 found that the aerosol filtration by the ECLSS system can 
+substantially delay fire detection and can lead to buildup of hazardous products.   A further conclusion was that design 
+of the smoked detection system is strongly dependent on the vehicle and ECLSS design and requires smoke transport 
+modeling in the specific spacecraft.  Furthermore the alarm levels needed for each vehicle depend on the details of the 
+vehicle design and the detection approach. 
+D. Fire Detection: Transfer Standard 
+Terrestrial smoke detectors are typically qualified against performance standards such as26 where the detector must 
+be demonstrated to respond to a set of reference fires in a defined period of time.  This set of fires was developed 
+based on experience with the most common hazardous fires for homes and other structures.  Owing to the limited 
+experience with spacecraft fires, no such database exists nor are they readily defined.  Space experiments and terrestrial 
+testing have established a good understanding of the expected particle sizes and concentrations for several spacecraft 
+materials24, 27.  Background aerosol particulate on the ISS have been sampled for size and composition analysis28 and 
+ground-based testing has been conducted with reference aerosol instruments and smoke aerosols29, 30. Separately, 
+modeling efforts have helped provide a means to predict aerosol particulate level profiles in a spacecraft as a function 
+of the fire size and ECLSS system design23.  It is too cumbersome to expect detector designers to develop a test 
+capability to replicate the detection scenario to validate their detector performance and alarm level.  Instead it is 
+proposed that using the aforementioned data, a set of transfer standards could be developed that manufacturers could 
+use to validate their system performance.  To establish these standards, further work is needed both on the modeling 
+front and to characterize other expected smoke and nuisance aerosol sizes.  
+E. Contingency Monitor 
+Testing to establish the quantity of hazardous species from overheated spacecraft polymers29, 30 has provided initial 
+estimates of  the quantities of several hazardous compounds (HF, HCl, HCN)  that can be produced.  This testing also 
+provided a means to evaluate the performance of candidate instruments. These results also have shown that HF HCl 
+transport in a spacecraft needs further study to understand the level of adsorption to spacecraft materials.  Testing with
+
+<<<PAGE 6>>>
+International Conference on Environmental Systems 
+ 
+ 
+6 
+burning laptops containing lithium ion (Li-ion) batteries has been conducted at White Sands Test Facility to understand 
+the hazardous product release from these events. Further work is needed with other spacecraft compounds and fire 
+sources to fully characterize the compounds that should be monitored. 
+F. Post-Fire Cleanup & Emergency Breathing Apparatus 
+This topical area depends on the smoke production and chemical species production data29, 30 combined with fire 
+modeling results that are also required for the detection and monitoring elements.  A post-fire cleanup system will be 
+tested in Saffire IV-VI which will provide valuable on-orbit validation. Proper design of such systems will require 
+improved prediction of the possible level of contamination of the spacecraft in a post-fire environment.  These 
+predictions must be developed based on understanding developed in the fire growth and spread topics discussed above 
+combined with details of the planned spacecraft configuration. In addition, continued technology evaluation and 
+demonstration is needed to validate designs for new spacecraft and to test new technologies. 
+G. Fire Suppression 
+Depending on the mission design, fire suppression requirements can vary from human operated to automated and 
+can include fires in open areas and within avionics enclosures.  As partial gravity mission are considered, the 
+requirements will change further.  The choice of suppression agent depends on the scale of the vehicle and the expected 
+fire risk31.  In addition to the fire growth and vehicle impact modeling discussed above, further technology validation 
+testing is needed to examine new suppression concepts and application of existing concepts to different configurations.  
+Testing of at least one suppression concept is proposed for the Saffire VII-VIII flights. 
+H. Characterization of Lithium-ion Battery Fires 
+The full impact of a Li-ion fire on a spacecraft cannot be reliably predicted at this time owing to limited knowledge 
+of the heat and hazardous product release from a burning laptop in low-gravity.  Specific tests must be conducted that 
+quantifies the heat release, product composition and risk for fire spread from burning Li-ion batteries in relevant 
+configurations.  The effectiveness of containment and extinguishment methods in low-gravity should also be more 
+fully understood.  
+I. Integrated Testing 
+As described above, detection, suppression and cleanup systems are all dependent on the scale of the fire and the 
+vehicle size and ECLSS components.  Many of these issues can be addressed by component testing and modeling but 
+integrated testing both in 1-g and where possible in low-gravity is essential to validated the system effectiveness. 
+III. Road map for research and plan for transition results to design guidance 
+The Environmental Control and Life Support (ECLS) System Capability Leadership Team (SCLT) maintains a 
+series of roadmaps that identify the research needs to accomplish the planned exploration missions. Roadmaps have 
+been prepared in areas such as life support systems, logistics reduction, radiation safety, and particulate monitoring, 
+and spacecraft fire safety, to name a few. These roadmaps are not only used to identify the technology development 
+needs for exploration but also to track the progress of work to address those needs. A number of sources funds the 
+various activities shown on the roadmap. The roadmap is shown in Figs. 1 – 4. The need dates for the major exploration 
+programs are shown across the top of each roadmap. The major horizontal “swim lanes” are as follows: 
+ 
+• 
+Material Flammability, Ignition and Fire Growth 
+• 
+Partial-Gravity Material Flammability 
+• 
+Fire Detection: Validation and Vehicle Scale Transport 
+• 
+Fire Detection: Orion 
+• 
+Contingency Monitor 
+• 
+Post-Fire Cleanup 
+• 
+Emergency Breathing Apparatus 
+• 
+Fire Suppression 
+• 
+Characterization of Li-ion Battery Fires 
+• 
+Integrated Testing
+
+<<<PAGE 7>>>
+International Conference on Environmental Systems 
+ 
+ 
+7 
+The following sections will discuss the major activities in each of these areas. 
+A. Material Flammability, Ignition and Fire Growth 
+The focus of the tasks in this area is to expand our understanding of the flammability of materials under realistic 
+spacecraft conditions. Saffire-I-III experiments were conducted in 2016-201717 and were the first to investigate 
+material flammability and fire growth using large-scale samples. Saffire-IV-VI series of experiments has built on these 
+results to conduct tests at elevated oxygen and reduced pressures that could be used on exploration missions. The 
+Saffire IV-VI series will also examine fire growth through studies of large samples for longer durations than studied 
+in Saffire I-III17  These experiments will also demonstrate impact of a fire on a spacecraft and the effectiveness of 
+prototype fire response hardware. Transport and adsorption of HCL and HF in a spacecraft fire environment will also 
+be studied. Therefore, these experiments show up in several “swim lanes” in the roadmap. While the Saffire 
+experiments on Cygnus are excellent for evaluating the impact of a large-scale fire on a spacecraft, there is very limited 
+capability to change test conditions or samples based on what was learned in previous tests. ISS experiments such as 
+the Solid Fuel Ignition and Extinction (SoFIE) insert in the Combustion Integrated Rack (CIR)19 or the planned 
+Microgravity Combustion Wind Tunnel facility (underdevelopment as an expanded version of the BASS insert20)in 
+the Microgravity Science Glovebox are better candidates to conduct tests more rapidly. Each of these facilities has 
+unique capabilities that make them much more effective in addressing needs in low-g ignition and flammability when 
+used in tandem. 
+B. Partial-Gravity Flammability 
+A major gap in our understanding of flammability on exploration missions is the flammability in partial-gravity. 
+Many of the fire safety protocols that are in place for spacecraft in low-gravity, such as the material screening 
+performed by NASA-STD-6001 Test 1 and shutting off the spacecraft ventilation upon detecting a fire, are 
+questionable or ineffective in partial-gravity. Unfortunately, there is no terrestrial facility in which to conduct these 
+experiments. Preliminary designs and testing for a partial-gravity drop tower at NASA John H. Glenn research Center 
+are being made. Once complete, extensive tests would be conducted in Lunar and Martian gravity levels. In the 
+meantime, small-scale tests are planned in a centrifuge drop rig developed at NASA-GRC22. Preliminary designs are 
+being developed for a flammability experiment to be conducted in payload on a commercial lunar lander. None of 
+these activities can completely address the unknowns associated with spacecraft fire safety in partial-gravity but are 
+needed because there is no testing capability currently available. 
+C. Fire Detection: Validation and Vehicle-Scale Transport 
+There is no common fire detector used on existing spacecraft. With the increase in commercial crew vehicles, this 
+trend will likely continue. At issue is that different detector technologies have differing responses to the range of size 
+and type of smoke aerosols. The Saffire-IV-VI series of experiments has diagnostics that will measure the size 
+distribution of the smokes produced by the experiment in low-g and how the smoke aerosol is transported throughout 
+the vehicle and its interaction with the various filters on board. This data will be compared post-flight with particulate 
+and combustion product transport models. This comparison will enable validation of our predictions of aerosol 
+transport in spacecraft to be used for definition of smoke detection systems in future spacecraft. 
+D. Fire Detection: Transfer Standard 
+Because there is no common smoke detector used on spacecraft and it is unrealistic to test candidate smoke 
+detectors for all types of smoke aerosols produced by common spacecraft materials, the identification of a transfer 
+standard using common reference aerosols is essential for providing consistency in alarm thresholds and detection. 
+This task will obtain that data and then apply it as smoke detectors for different types of missions are identified. For 
+example, detection technologies for use in Gateway/HALO and Human Landing Systems (HLS) will be evaluated for 
+that specific application with new measurements and development tasks defined and accomplished as needed.
+
+<<<PAGE 8>>>
+International Conference on Environmental Systems 
+ 
+ 
+8 
+ 
+ 
+ 
+  
+ 
+Figure 1. Spacecraft Fire Safety Roadmap – Page 1 (October 2019) 
+ 
+ 
+Figure 2. Spacecraft Fire Safety Roadmap – Page 2 (October 2019)
+
+<<<PAGE 9>>>
+International Conference on Environmental Systems 
+ 
+ 
+9 
+ 
+ 
+E. Contingency Air Monitor 
+The Anomaly Gas Analyzer has been under development for use on ISS and Orion for the past several years. The 
+suitability of this technology for use in other platforms, such as Gateway/HALO or HLS will be assessed as the mission 
+  
+ 
+Figure 3. Spacecraft Fire Safety Roadmap – Page 3 (October 2019) 
+  
+ 
+Figure 4. Spacecraft Fire Safety Roadmap – Page 4 (October 2019)
+
+<<<PAGE 10>>>
+International Conference on Environmental Systems 
+ 
+ 
+10 
+parameters and the vehicle design are defined. Improvements in laser technology could lead to smaller and more 
+capable instruments that may be better suited for future exploration missions. If so, new instruments will be developed 
+and implemented as necessary. Further testing with additional materials including burning lithium-ion batteries will 
+be conducted. 
+F. Post-Fire Cleanup 
+The Orion Smoke Eater Filter (OSEF) is being developed as a stand-alone filter that will quickly remove particulate 
+and gaseous combustion products from the spacecraft environment following a fire event. These filter material is 
+included in the Saffire-IV-VI experiments with an increased fidelity system planned for the Saffire-VII and VIII 
+experiments. As other missions become better defined, the methods for post-fire cleanup, including an OSEF-like 
+filter, will be re-evaluated. Additional tasks could be added as necessary to develop appropriate technologies. 
+G. Fire Suppression 
+Similar to the OSEF and Contingency Air Monitor, a water spray portable fire extinguisher is being developed for 
+use in Orion. Current plans are to incorporate water spray fire suppression into Saffire-VII and VIII to extinguish the 
+planned Li-ion battery fire. Whether this technology is suitable for use on Gateway/HALO or future exploration 
+mission will depend on multiple factors such as anticipated fire scenarios, compatibility of water spray with avionics 
+and ECLS systems, and crewed and uncrewed mission phases. 
+H. Lithium-ion Battery Fire Characterization 
+One of the worst-case fire sources on a spacecraft would be fire caused by a lithium-ion battery. The batteries 
+could be in battery packs used in tools or a laptop. There have been a significant amount of work to prevent battery 
+packs used in tools from progressing into a multiple-cell thermal runaway but commercial-off-the-shelf items like 
+laptop computers are still susceptible. The objective of this work is to quantify the heat release and gaseous combustion 
+products that result from a thermal runaway of lithium-ion batteries, battery packs, and laptop computers. This 
+information can be incorporated into computational models of a spacecraft fire scenario to define the rate of change 
+of the ambient environment including temperature, pressure, particulate, and gaseous products. Simulation of clean-
+up strategies could then predict the time required to return the atmosphere to a breathable environment. 
+I. 
+Integrated Testing 
+In the last several years, Orion engineers have been developing fire response equipment such as the OSEF, 
+Contingency air monitor, water spray fire extinguisher, and contingency breathing mask. A crucial step in this 
+development has been the integrated testing of these components to determine the response when faced with a practical 
+(or worst-case) spacecraft fire scenario. These tests have been invaluable to providing data to characterize their 
+performance and demonstrate their effectiveness in responding to a spacecraft fire. As other exploration systems are 
+developed, the fire response equipment may change depending on the mission objectives. As the hardware changes, 
+additional integrated tests could become necessary to certify the hardware and response strategies. This will be 
+evaluated each time new systems are defined.  
+ 
+As development of exploration missions progresses, we will need to review, update, and revise many aspects of 
+this roadmap. It needs to evolve as the hardware and operational scenarios are developed and as we continue to learn 
+more regarding spacecraft fire safety on long-term exploration missions and increase our capability to predict and test 
+fire scenarios. 
+IV. Discussion 
+The research to date, combined with technology advances and improvement in our models of spacecraft fires, have 
+substantially improved our understanding of the spacecraft fire risk and our ability to mitigate that risk on future 
+missions. Additional work remains, particularly with respect to the challenges associated with partial gravity 
+habitation. The Spacecraft Fire Safety Roadmap has identified the priority research areas to guide the next steps in 
+research. 
+Acknowledgments 
+The authors would like to thank the Advanced Exploration Systems Division for their support of the Spacecraft 
+Fire Demonstration (Saffire) project and the Space Life and Physical Sciences Division for their support of the BASS
+
+<<<PAGE 11>>>
+International Conference on Environmental Systems 
+ 
+ 
+11 
+and SoFIE experiments. They also would like to acknowledge the efforts of all of the ISS crew, investigators, and 
+students who are conducting and assisting in the research tasks. 
+References 
+1Packham, N., Wood, B., Pate, D., (2015) Significant Incidents and Close Calls in Human Spaceflight. NASA JSC S&MA 
+Flight Safety Office, JS-2015-004 NNJ13RA01B. 
+2Friedman, R. (1996) Fire Safety in Spacecraft. Fire and Materials 20:235–243. 
+3Friedman, Robert, and Sacksteder, K. R., “Science and Technology Issues in Spacecraft Fire Safety,” AIAA-87-0467, Jan. 
+1987 (NASA TM-88933). 
+4Ruff, G. A., Brooker, J. E. Urban, D. L., “Fire Safety Technology Development for Exploration Spacecraft and Habitats,” 40th 
+International Conference on Environmental Systems (ICES), 11 July 2010 - 15 July 2010. Barcelona, Spain. 
+5Mudgett, P. D., Pilgrim, J. S., and Ruff, G. A., “Portable Multigas Monitors For International Space Station,” Submarine Air 
+Monitoring and Purification Conference, 2011, NASA NTRS Document ID 20110015963 URL: https://ntrs.nasa.gov/. 
+6Oberg, J., Star Crossed Orbits: inside the US-Russian space alliance, McGraw-Hill, 2001. 
+7Matthews, R. A. and Kauzlarich, D., “The Crash of ValuJet Flight 592: A Case Study in State-Corporate Crime,” Sociological 
+Focus, Vol. 33, No. 3, 2000, 281-298.  
+8Short, J., "HMS TIRELESS Self Contained Oxygen Generator (SCOG) Explosion - 20 March 2007," SAE Technical Paper 
+2008-01-2205, 38th International Conference on Environmental Systems, 2008. 
+9Urban, D. L. Ruff, G. A., Mulholland, G. W., Cleary, T., Yang, J., Yuan, Z. G., Bryg, V., “Smoke Particle Sizes in Low-
+Gravity and Implications for the Design of Spacecraft Smoke Detectors,” 2009 International Conference on Environmental 
+Systems, Savannah, GA, July 2009, 2009-01-2468. 
+10Brooker, J. E., Urban, D. L. and Ruff, G. A., “ISS Destiny Laboratory Smoke Detection Model” 07ICES-113, 2007 
+International Conference on Environmental Systems, Chicago, Ill. July 2007. 
+11Urban, D. L, Dietrich, D. L., Brooker, J. E., Meyer, M. E., and Ruff, G. A., “Fire Detection Tradeoffs as a Function of Vehicle 
+Parameters,” 46th International Conference on Environmental Systems,  
+ICES-2016-318, 10-14 July 2016, Vienna, Austria. 
+12Dietrich, D. L., Ruff, G.A., Urban, D.L., “Determination of Realistic Fire Scenarios in Spacecraft,” 43rd International 
+Conference on Environmental Systems (ICES), Vail, CO, July, 14-18, 2013. 
+13Dietrich, D. L., Niehaus, J. E., Ruff, G. A., Urban, D.L., Easton, J., Abbott, A., Takahashi, F., Graf, J., “Determination of 
+Survivable Fires,” 42nd International Conference on Environmental Systems (ICES), San Diego, CA, July 16-19, 2012. 
+14NASA-STD-6001B w/Change 2, Flammability, Offgassing, and Compatibility Requirements and Test Procedures, National 
+Aeronautics and Space Administration, 2016-04-21 
+15Link, S., Huang, X., Fernandez-Pello, C., Olson, S., Ferkul, P., “The Effect of Gravity on Flame Spread over PMMA 
+Cylinders in Opposed Flow with Variable Oxygen Concentration,” 46th International Conference on Environmental Systems , 
+ICES-2016-79, 10-14 July 2016, Vienna, Austria. 
+16Olson, S. L., Ferkul, P. V., and T'ien, J. S., “Near-Limit Flame Spread Over a Thin Solid Fuels in Microgravity,”  Twenty-
+Second Symposium (International) on Combustion, The Combustion Institute, Pittsburgh, PA, 1988, pp.1213-1222.   
+17Marcum, J. W., Ferkul, P. V., Olson, S. L., ”PMMA rod stagnation region flame blowoff limits at various radii, oxygen 
+concentrations, and mixed stretch rates,” Proceedings of the Combustion Institute 37 (2019) 4001–4008. 
+18Urban, D. L., Ferkul, P.V., Olson, S.L., Ruff, G. A., Easton, J., T'ien, J. S., Liao, Y.Y., Li, C., Fernandez-Pello, C., Torero, J. 
+L., Legros, G., Eigenbrod, C., Smirnov, N., Fujita, O., Rouvreau, S., Toth, B., Jomaas, G., “Flame spread: Effects of microgravity 
+and scale,” Combustion and Flame, Volume 199, 2019, pp. 168-182 
+19Ferkul, P.V., Brown, L., Mroczka, C., “SoFIE Design/Status,” Spacecraft Materials Flammability Workshop 
+May 20-22, 2019 at NASA Glenn Research Center, https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20190030735.pdf. 
+20Endo, M., T’ien, J.S., Ferkul, P.V. et al. Flame Growth Around a Spherical Solid Fuel in Low Speed Forced Flow in 
+Microgravity. Fire Technol 56, 5–32 (2020). 
+21Sacksteder, K. R. and T'ien, J. S.:  “Buoyant Downward Diffusion Flame Spread and Extinction in Partial Gravity 
+Accelerations.” Twenty-Fifth Symposium (International) on Combustion, The Combustion Institute, Pittsburgh, PA, 1994, pp. 
+1685-1692.   
+22Ferkul, P.V. and Olson, S.L., “Zero Gravity Centrifuge Used for the Evaluation of Material Flammability in Lunar Gravity,” 
+Journal of Thermophysics and Heat Transfer, Vol. 25, No. 3, July-September 2011. 
+23Brooker, J. E., Urban, D. L., and Ruff, G. A., “ISS Destiny Laboratory Smoke Detection Model 07ICES-113, 2007 
+International Conference on Environmental Systems,” Chicago, Ill. July 2007. 
+24Meyer, M. E., Urban, D. L., Mulholland, G. W., Bryg, V., Yuan, Z. G., Ruff, G. A., Cleary, T., Yang, J., ”Evaluation of 
+spacecraft smoke detector performance in the low-gravity environment,”, Fire Safety Journal, Volume 98, June 2018, Pages 74-
+81.  
+25Urban , D. L., Dietrich , D. L., Brooker, J. E., Meyer, M. E., and Ruff, G. A., “Fire Detection Tradeoffs as a Function of 
+Vehicle Parameters,” 46th International Conference on Environmental Systems, ICES-2016-318, 10-14 July 2016, Vienna, Austria.  
+26Underwriters Laboratories Inc., UL Standard for Safety for Single and Multiple Station Smoke Alarms, UL 217, Northbrook, 
+IL, Fifth Edition, Rev January 15, 2004.
+
+<<<PAGE 12>>>
+International Conference on Environmental Systems 
+ 
+ 
+12 
+27Meyer, M.E., Mulholland, G.W., Bryg, V. Urban, D. L., Ruff, G. A., Yuan, Z. G., Cleary, T., Yang, J., “Smoke 
+Characterization and Feasibility of the Moment Method for Spacecraft Fire Detection,” Aerosol Science and Technology Volume 
+49, Issue 5, May 2015, pages 299-309 
+28Meyer, M. E., “Results of the Aerosol Sampling Experiment on the International Space Station,” 48th International 
+Conference on Environmental Systems, ICES-2018-100, 8-12 July 2018, Albuquerque, New Mexico. 
+29Meyer, M., Mudgett, P. D., Hornung, S. D., McClure, M. B., Pilgrim, J. S., Bryg, V. Makel, D., Ruff, G. A., and Hunter, G., 
+“Materials Combustion Testing and Combustion Product Sensor Evaluations in FY12”, AIAA 2013-3432, 43rd International 
+Conference on Environmental Systems, July 14-18, 2013, Vail, CO. 
+30Briggs, R. M., Frez, C., Forouhar, S., May, R. D., Meyer, M., Kulis, M. J., and Berger, G. M, “Qualification of a Multi-
+Channel Infrared Laser Absorption Spectrometer for Monitoring CO, HCl, HCN, HF, and CO2 Aboard Manned Spacecraft”, ICES-
+2015-300, 45th International Conference on Environmental Systems, 12-16 July 2015, Bellevue, Washington. 
+31Dietrich, D. L., Ruff, G. A., Urban, D. L., Hicks, M. C., Stocker, D. P., Nayagam V., and Takahashi, F., “Fire Suppression 
+Technology in Human-Crewed Spacecraft - A Trade Study,” 07ICES-112, 2007 International Conference on Environmental 
+Systems, Chicago, Ill. July 2007.

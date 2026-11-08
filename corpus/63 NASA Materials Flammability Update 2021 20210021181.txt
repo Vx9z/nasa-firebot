@@ -1,0 +1,421 @@
+<<<PAGE 1>>>
+David Urban
+NASA John H. Glenn Research Center
+7th FLARE International Workshop
+September 8-10, 2021
+Update on NASA 
+Materials 
+Flammability 
+Research
+
+<<<PAGE 2>>>
+Active programs
+• SoFIE- ISS
+• FLARE – ISS (not discussed in this presentation)
+• MWT – ISS :  currently on hold pending Decadal Review
+• Saffire
+• Lunar Flammability Test Program
+‒ Drop Tower
+‒ Modeling
+‒ Parabolic Aircraft  (collaboration with ESA)
+‒ Sub-orbital
+‒ Lunar Lander
+• Electro motive Drop Tower
+
+<<<PAGE 3>>>
+3
+ISS-SoFIE
+Material Ignition and Suppression Test (MIST)
+A. Carlos Fernandez-Pello: UC Berkeley
+Fundamental experiments of solid material ignition from an external heat source
+Spacecraft Materials Microgravity Research on Flammability (SMμRF)
+Sandra Olson: NASA GRC
+Flame spread experiments studying the flammability limits of solid fuels
+Narrow Channel Apparatus (NCA)
+Fletcher Miller: San Diego State University
+Flame spread experiments focused on thick polymeric materials
+Residence Time Driven Flame Spread (RTDFS)
+Subrata Bhattacharjee: San Diego State University
+Opposed-flow flame spread over thin acrylic sheets to examine fuel thickness effects
+Growth and Extinction Limit (GEL)
+James S. T’ien: Case Western Reserve University
+Investigating effect of gravity, flow, O2, pressure, and fuel preheating on the combustion of polymeric spheres
+Material Flammability test for Spacecraft Materials
+Advanced Exploration Systems, Gary A. Ruff Project Manger
+Testing spacecraft materials for comparison with NASA 6001 Test 1
+Solid Fuel Ignition and Extinction (SoFIE)
+
+<<<PAGE 4>>>
+SoFIE Schedule
+4
+Additional Investigations:
+AES:  Material Flammability test for 
+Spacecraft Materials
+ISSNL:  National Science Foundation 
+investigation into flame spread under 
+fluctuating air flow
+
+<<<PAGE 5>>>
+Saffire Motivation and Background
+• How rapidly can a fire spread in low-g?
+• How long will it take to detect it?
+• How will it affect vehicle habitability?
+Background
+‒ Saffire I-III flew in 2016 & 2017
+‒ Examined fire growth on thin fuels and flammability 
+limits
+• Saffire IV-VI objectives
+‒ Consider thick fuels, longer burn times & exploration 
+atmospheres,
+‒ Examine impact on the vehicle and post fire 
+recovery
+‒ Saffire IV and V flew in 2020 and 2021
+‒ Saffire VI postponed, targeting late 2022-early 2023
+5
+ALL terrestrial occupied structure types have been the subject of full scale fire tests
+(planes, ships, cars, trains, buildings, mines etc.)
+Far Field Diagnostics (in Mid Deck Locker)
+Avionics, CO2 scrubber, Smoke Eater, Combustion Products Monitor, particulate monitors 
+(DustTrack & Ion Chamber)
+Remote Sensors (6)
+Measure temp & CO2 in standoffs,
+hatch and end cone
+Saffire Flow Unit
+Approx. 53x90x133cm. New features 
+include 2 side view cameras, acid gas, O2, 
+heat and byproduct release to cabin
+
+<<<PAGE 6>>>
+Saffire sample configuration
+Saffire IV
+(Saffire VI 
+card is 
+identical 
+but the 
+test order 
+will 
+change
+6
+Cotton Fabric
+Test 3
+Normoxic O2 with 
+forced flow
+Test 2
+Test 1
+1-sided PMMA (0.5 cm thick.)
+Structured PMMA (1 cm thick.)
+Test 4
+SIBAL Fabric
+Test 2
+Air and Normoxic O2
+with forced flow
+Test 1
+Test 4
+2-sided PMMA (1 cm thick.)
+1-sided PMMA (0.5 cm thick.)
+Nomex Fabric
+Test 3
+Saffire V
+
+<<<PAGE 7>>>
+Saffire IV-V Test Matrix (as executed)
+Flight/Sample
+IV-1
+IV-2
+V-2
+V-3
+V-4
+Material/configuration
+SIBAL 
+Cloth
+2-sided 
+PMMA
+Cotton 
+Jersey
+1 sided 
+PMMA
+Structured 
+PMMA
+Length (cm)
+50 
+18
+50
+18
+20
+Air Flow Rate (cm/s)
+20
+20
+20
+20
+20
+Flow Direction
+Concurren
+t
+Concurrent
+Concurrent Concurre
+nt
+Opposed
+Ambient Pressure (kPa)
+100.0
+100.0
+70.7
+71.3
+72.6
+Oxygen
+Concentration
+(mol %)
+22.0
+22.0
+26.2
+25.4
+25.7
+Pressurized Volume (m3)
+18.7
+19.2
+Free volume (m3)
+17.9
+19.0
+7
+
+<<<PAGE 8>>>
+Findings-Extinguishment
+8
+Extinguishment of 
+bubbling polymers 
+cannot be assumed to 
+occur rapidly in 
+quiescent conditions
+
+<<<PAGE 9>>>
+Findings  - Spread rate
+Effect of sample size and duct 
+dimensions
+Saffire I-III were in a 46 cm 
+duct and Saffire IV was in a 30 
+cm duct.
+9
+BASS concurrent 2 cm wide
+BASS concurrent 1 cm wide
+BASS opposed 2 cm wide
+Saffire I& III: 40 cm wide
+Saffire II: 5 cm wide 
+Saffire IV: 40 cm wide
+Duct size and flow development 
+can affect the spread rate and the 
+pyrolysis length
+
+<<<PAGE 10>>>
+Findings - Surface structure
+Opposed flame spread on ribbed PMMA. 
+Flow is from left to right at 20 cm/s. 
+Sample rib centerlines (red lines) are indicated. Ribs are 3 mm 
+high with widths increasing from 1 mm to 10 mm by 1 mm 
+increments 
+2 cm between adjoining rib faces
+10
+In opposed spread over thick materials, the size of ridges or other surface 
+shape structures can have a significant effect on flame spread.
+10 cm
+
+<<<PAGE 11>>>
+NASA’s Lunar Lander/Habitat
+♦Reduced total cabin pressure and increased oxygen concentration: 8.2 
+psi/56.5 kPa and 34%+  vol.% O2 
+‒ Decompression sickness prevention
+‒ Less preparation time for extravehicular activities
+♦Partial gravity glunar=0.16 gearth
+♦Low velocity flows (HVAC) ~ 10-20 cm/sec 
+11
+Altair Lunar Lander
+Human Landing 
+System concept
+
+<<<PAGE 12>>>
+Experimental Results:
+Effects of pressure, oxygen concentration and gravity
+PMMA rods  D = 12.7 mm 
+12
+Ambient Pressure
+Oxygen Concentration
+30 kPa
+15 kPa
+25 kPa
+40 kPa
+80 kPa
+60 kPa
+100 kPa
+21%
+19%
+20%
+23%
+50 kPa
+21%
+17%
+19%
+Oxygen Concentration
+100 kPa
+µg
+1 g
+
+Increasing the oxygen concentration dominates 
+the effect of reducing pressure
+
+The microgravity flame is weaker but can still 
+propagate and at lower %O2 than in 1-g
+Micro-g images obtained 
+from the Microgravity 
+Science Glovebox on ISS
+
+<<<PAGE 13>>>
+Test Performed to Date -Reduced Gravity 
+Flammability Threshold Tests
+13
+Nomex
+Mylar
+Ultem 1000
+Right: Centrifuge test 
+rig for the Zero 
+Gravity Facility
+Objective
+♦Quantify the low-g oxygen upward flammability thresholds for
+typical spacecraft materials and compare results with thresholds
+determined in normal gravity
+♦Tests were conducted in Zero Gravity Facility at NASA-GRC for Ultem 1000, 
+Nomex, and Mylar
+– 5.2-sec limits samples to thin materials
+♦Maximum Oxygen Concentration defined as the maximum oxygen 
+concentration at which a material will pass NASA-STD-6001, Test 1 
+(extinguishment limit)
+gravity
+Experiment 
+Platform                   
+(Turntable)
+Drop Bus
+Chamber 
+Dome
+
+<<<PAGE 14>>>
+Maximum Oxygen Concentration (MOC) at 0-g, 
+Martian-g, and Lunar-g
+♦Tests were conducted at WSTF (normal-g) and GRC (partial-g) to 
+quantify changes in the MOC for Nomex, Mylar, and Ultem
+♦Data for normal-, Martian-, Lunar- and zero-g has been obtained
+•
+Partial-g flames propagated at the normal-g MOC for all materials (charring 
+and non-charring)
+•
+Lunar-g MOC can be lower than either zero- or Martian-g levels
+•
+Variation of MOC with gravity level is dependent on the material
+‒ Requires additional testing
+♦Cessation of ventilation flow is not an effective extinguishment 
+strategy in Lunar- or Martian-g (natural convection)
+♦
+Fires can exist in small spaces in partial gravity driven by 
+buoyant flow (chimney effect) where they cannot exist in low-
+gravity.
+14
+
+<<<PAGE 15>>>
+Partial-Gravity Assessment Tools
+15
+Platform/Activity
+Duration
+Time Frame (to start)
+Comments
+LOI Test Technique
+Full burn
+2021
+LOI is a standard test technique that could be related to 
+partial-g more easily than Test 1
+ZGF Centrifuge Rig
+5 sec
+2021
+Direct partial-g burn or blow-off tests?
+P2-g Scaling
+Full burn
+2021
+Evaluated for flame propagation rather than flammability 
+limits
+Modeling
+Full burn
+2021
+Status of model; Data for comparison of model is limited
+Parabolic Aircraft (with ESA)
+20 sec
+2022
+Direct partial-g burn or blow-off tests?
+Blue Origin Rotating Capsule
+120 sec
+2022 (initial flight)
+2023 (full campaign)
+Need to assess capability prior to full commitment to 
+test campaign starting in mid-2023
+Commercial Lunar Payload 
+Services (CLPS) Experiment
+Full burn
+2024 
+Provides a “Lunar truth” but tests are very limited in size 
+and number
+♦
+A plan to assess lunar-g flammability most likely contains a combination of these activities
+
+<<<PAGE 16>>>
+Fire Detection in Lunar - G
+♦In terrestrial fires, buoyancy drives smoke upward, allowing convenient placement of smoke detectors on 
+ceilings. In microgravity, this buoyant flow does not occur.
+♦In lunar gravity (1/6 g), some buoyant flow is expected, but it’s currently unclear how the limited buoyancy 
+will affect smoke transport.
+♦It is expected that air intakes would be near the floor to capture lunar dust.  Modeling is required to 
+determine whether smoke detectors should be at the ceiling or near the air intakes at the floor.
+♦This will require good predictions of the potential fire sources
+16
+1-g
+0-g
+0.167-g
+?
+?
+Air intake
+Air intake
+
+<<<PAGE 17>>>
+17
+ElectroMotive Drop Tower (EMDT) upgrade proposal
+Motivation: Provide inexpensive, reliable and flexible access to 10 s of zero-g or partial-g to facilitate
+fundamental research, technology development, and flight hardware risk mitigation testing.
+Concept:
+Convert the existing 5.2-second GRC Zero Gravity Research Facility to a state-of-the-art ~10-
+second, 0 to 0.5g test facility using a vertical rail and linear synchronous motor system to provide a 
+revolutionary capability in testing at low and partial gravity at a significantly lower operating cost.
+Target Metrics:
+10 s duration
+10-5 g below 20 Hz
+Launch/landing 4 g avg 6 g max
+Payload size 1 m x 1 m x 1.8 m
+Payload mass 455 kg
+20 tests / day (1 OOM increase)
+$300 / test (1 OOM reduction)
+Applications:
+Physical Sciences
+o Fundamental Physics
+o Combustion
+o Fluid Physics
+Life Support
+o Fire Safety
+o Thermal Control
+o Fluid Acquisition/Control
+o Dust Behavior
+Life Science
+o Gravitropism
+o Plant Thermal Model
+ISRU
+o Reactor Design
+o Regolith Acquisition/ Handling
+Science
+o Asteroid Sampling
+o Soil Physics
+Status:
+Engineering Model Design Complete
+Seeking funding for build and test (2 
+years) of engineering model before final 
+approval to proceed.

@@ -1,0 +1,396 @@
+<<<PAGE 1>>>
+Flammability Limits at Reduced-g 
+Experiment (FLARE)
+Task Group 5
+Fundamental Research on International Standard of 
+Fire Safety in Space on the ISS/JEM
+Presenters
+Alfredo Juarez & Jon Tylka
+WSTF Team
+Alfredo Juarez, Jon Tylka, Brenton Woods, 
+Susana Harper, David Hirsch, Harold Beeson
+
+<<<PAGE 2>>>
+Task Group 5
+◎Harold D. Beeson
+Comparison of the result of material safety 
+evaluation between an existing NASA-STD-
+6001 Test 1 test method and a new test 
+method of safety in space; and discussion 
+with JAXA and ESA on coorelation and 
+appropriateness of the test method
+(NASA WSTF)
+David Hirsch
+(NASA WSTF)
+Susana Harper, Jon Tylka,  Alfredo 
+Juarez, Brenton Woods
+(NASA WSTF)
+Hiroyuki SHIMAMURA
+Study of fire safety standard and discussion 
+on appropriateness of the test method with 
+NASA and ESA from Japan’s standpoint
+(Human Space Safety and Mission Assurance 
+Office, Human Spaceflight Mission Directorate, 
+JAXA)
+Osamu FUJITA
+(Hokkaido Univ.)
+Thomas Rohr
+Study of fire safety standard and discussion 
+on compatibility of the test method with 
+NASA and ESA from European standpoint
+(ESA ESTEC)
+Marika Orlandi
+(ESA ESTEC)
+
+<<<PAGE 3>>>
+Harold Beeson
+Laboratories Chief
+David Hirsch 
+Flammability 
+Expert/Consultant
+Fred Juarez
+Lead Flammability 
+Testing
+Brent Woods
+Materials/
+Flammability
+Vanessa Buchanan
+NTEC Supervisor
+Jon Tylka
+Oxygen Testing
+Susana Harper
+Standard Testing Manager
+NASA WSTF TEAM
+
+<<<PAGE 4>>>
+Task Group Goals/ Timeline
+• Correlation Pathway to compare NASA-STD-
+6001 Data to flight LOI data
+NASASTD6001 
+TEST 1
+Obtain standard 
+data for use in 
+correlations
+Chemical Igniter
+6” self-
+extinguishment 
+criteria
+NASASTD6001 
+TEST 1
+Examine: 
+Hotwire Igniter 
+correlation
+6” self-
+extinguishment 
+criteria
+NASA STD 6001 TEST 1
+Hotwire Igniter
+Examine: Flight test 
+tailored self-
+extinguishment criteria 
+correlation
+LOI Flight Test
+Hotwire Igniter
+Flight test self-
+extinguishment 
+criteria
+Evaluate Pressure 
+Effects 
+Develop pressure cal. 
+curve to correlate final 
+flight test final P to 
+corresponding MOC for 
+a given material
+Evaluate Thickness Effects on MOC
+Phase 2: Hot wire igniter development
+Design/Optimize retractable igniter  for 
+dual application –flat sample edge 
+ignition/wire surface ignition
+2016
+2017
+Material 
+Procurement
+Procured 
+candidate test 
+materials for 
+use throughout 
+Program
+Phase 1: Hot 
+Wire Igniter 
+Development
+Initial reel 
+method igniter 
+development
+2015
+2017-2019
+Future Ground 
+Flammability Test 
+Method
+Analyze findings, 
+Implement 
+recommendations 
+towards improved 
+ground flammability 
+test method
+
+<<<PAGE 5>>>
+Materials Definition/Procurement
+
+<<<PAGE 6>>>
+Test Material Definition/Procurement
+• All Materials ordered and at WSTF
+• LDPE pellets and ETFE Tefzel 750 pellets and Nomex shipped fall 2015
+• Awaiting second drop of funds to ship remaining sheet materials (HDPE, 
+LDPE, PMMA) 
+• Wire Configuration Materials
+• ETFE Tefzel 750 Pellets
+• LDPE Dupont Series 20 Pellets
+• Sheet Materials (tried to purchase materials in various thicknesses)
+• HDPE Tivar 1000 (HD) preferred due to high purity (not radiation cross-
+linked) 
+•
+1.6 (2.29) mm, 3.175mm, 4.749mm, 6.35mm
+• LDPE by ASTM D4976
+•
+1.6mm,3.175mm
+• Cast PMMA (reduce dripping)
+•
+0.8 mm, 2.99mm, 5.99 mm
+• Nomex HT090-40 (AKA HT90-40)
+Questions
+•
+What is the maximum material thickness currently being 
+considered? 
+•
+Are there any finalist materials that are being focused on?
+
+<<<PAGE 7>>>
+Phase 2: Hot wire igniter development
+Design/Optimize retractable 
+igniter  for dual application 
+Sheet sample edge ignition 
+Rod surface ignition
+
+<<<PAGE 8>>>
+Hot Wire Design - Background
+• Multiple variables changed during iterative steps
+• All Tests performed on various thickness of 
+PMMA as a reference material
+• Test conditions
+• Previously reported PMMA MOC used as initial 
+concentration to qualify design
+• Chosen to examine ignition @ propagation threshold
+• All design qualification tests performed @ 101.3 kPa
+(14.7 psia) and ambient temperature
+
+<<<PAGE 9>>>
+• A gap will be left on one edge of holder for retractable igniter to be 
+moved into position (edge ignition)
+• Rod configuration will run full length (surface ignition)
+• Igniter design limited by sample configuration (20 mm max)
+Design Assumptions
+
+<<<PAGE 10>>>
+Provides 
+Sufficient Heat 
+Flux
+• Coil Diameter
+• Profile
+• Length
+• Wire Material
+• Wire Gauge
+• Number of Coils
+Doesn’t Break 
+with Heavy Fuel 
+Load
+• Number of Coils
+• Diameter
+• Profile
+Effective over 
+wide O2 Range
+• Wire Gauge
+• Wire Material
+• Profile
+• Amperage 
+Profile
+• Flow Ports
+Life Span
+• Sample Type
+• Wire Gauge
+• Wire Material
+• Amperage Profile
+• Retractable
+Does not obstruct 
+Flowstream
+• Flow Ports
+• Retractable 
+• (injection, 
+cantilever?)
+Prevent Sagging
+• Channeled/Chamf
+ered Support
+• Amperage Profile
+• Wire Gauge 
+Sample/Igniter Contact
+• Coil Bowed by tension
+• Chamfered Support 
+(edge/surface ignition)
+• Wire Material
+• Amperage Profile
+• Retractable
+
+<<<PAGE 11>>>
+Edge Ignition Sheet Sample Configuration
+• Bowed igniter due to tension
+• Igniter in contact with Sample
+Sample/Igniter Contact
+
+<<<PAGE 12>>>
+Surface Ignition Sample Configuration
+• Bowed igniter due to tension
+• Chamfered edge allows igniter to protrude beyond 
+support
+• For rod sample configuration
+Sample/Igniter Contact
+
+<<<PAGE 13>>>
+Recommended Igniter Design
+Key Features
+Experimental Range
+Preferred
+Hot wire profile
+Helical, sinusoidal, linear
+Helical coil
+Length
+20, 40 mm
+20 mm (0.79 in.)
+Number of coils
+4-25
+10 coils
+Mandrel diameter
+0.0625”-0.25”
+0.125”
+Carrier design
+Unsupported, solid ceramic, 
+channeled ceramic
+Channeled ceramic
+Igniter position
+Horizontal, Chamfered
+Chamfered
+Amperage profile
+Highly Variable; Maximum Power 
+output – 120W (24V/5A)
+(5A/5s)/(4.5A/25s)
+Wire material
+Nichrome, Kanthal KA-1
+Kanthal KA-1
+Wire gauge
+18-29 ga
+28 ga
+
+<<<PAGE 14>>>
+Questions 
+• Is the system currently designed for a specific 
+retraction method?
+• Will an injection or cantilever method work? 
+• Are flight dimensions finalized? 
+• Will sample holder be conductive? 
+• May create problems if contacts hotwire (20mm) 
+• Is there a prescribed pressure for sample/Igniter 
+contact?
+
+<<<PAGE 15>>>
+NASA STD 6001 Chemical Igniter/ 
+Recommended Hotwire Correlation
+
+<<<PAGE 16>>>
+Material
+Nominal Thickness
+Material 
+Tracking 
+WSTF #
+MOC
+Testing 
+WSTF #
+MOC per NASA-STD-6001 Test 1
+mm
+inch
+Chemical (Seq A)
+Hot Wire (Seq B)
+Tivar 1000 
+(HDPE)
+1.6 
+(2.29)
+0.063
+(0.09)
+15-46766 15-46775
+18.00
+18.0
+Tivar 1000 
+(HDPE)
+3.175
+0.125
+15-46767 15-46776
+18.04
+18.0
+Tivar 1000 
+(HDPE)
+4.749
+0.187
+15-46768 15-46777
+In Test
+In Test
+Tivar 1000 
+(HDPE)
+6.35
+0.25
+15-46769 15-46778
+In Test
+In Test
+LDPE
+1.6
+0.06
+15-46764 15-46773
+18.03
+18.03
+LDPE 
+3.175
+0.125
+15-46765 15-46774
+18.03
+19.02
+PMMA
+0.8
+0.03
+15-46770 15-46779 MOC below Igniter 
+Threshold
+Pending
+PMMA
+2.99
+0.118
+15-46771 15-46780 MOC below Igniter 
+Threshold
+Pending
+PMMA
+5.99
+0.236
+15-46772 15-46781 MOC below Igniter 
+Threshold
+Pending
+Chemical/ Hotwire Igniter Comparison
+
+<<<PAGE 17>>>
+Observations
+• Failure criteria consisted of NASA-STD-6001.B 
+criteria
+• 6 in. burn length
+• Flame transfer by burning debris
+• MOC result is conservative 
+• Multiple failures were attributed to the flame transfer 
+rather than burn length
+• Significant melt flow observed
+• Potential to impact microgravity testing
+• Burn Length MOC (BLMOC) test performed
+• Removed K-10 Paper
+• Implemented quenching bath to limit impact of flaming 
+debris on test sample

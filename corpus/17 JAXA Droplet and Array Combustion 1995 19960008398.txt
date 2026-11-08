@@ -1,0 +1,1658 @@
+<<<PAGE 1>>>
+N96- 15564
+JAPAN'S
+RESEARCH
+ON DROPLET
+AND
+DROPLET
+ARRAY
+COMBUSTION
+Michikata
+KONO
+Department
+of Aeronautics
+and
+Astronautics,
+University
+of Tokyo
+Bunkyo-ku,
+Tokyo,
+Japan
+Introduction
+In Japan,
+the ignition
+and
+combustion
+of the
+droplet
+and droplet
+array have
+been
+investigated
+by using
+microgravity
+condition.
+This
+is the short
+introduction
+of those
+studies;
+interactive
+combustion
+of
+two
+droplets
+(ref.
+1),
+ignition
+experiment
+on
+droplet
+array
+(ref.
+2),
+and
+microexplosion
+behavior
+of
+an emulsified
+fuel
+droplet
+(ref.
+3).
+Interactive
+Combustion
+of Two
+Droplets
+In spray
+combustion,
+droplets
+burn
+interactivcly
+and
+the
+combustion
+mechanism
+is different
+from
+that
+of
+the
+single
+droplet
+due
+to
+interaction
+between
+the
+droplets.
+Droplet
+array
+combustion
+has been
+studied
+experimentally
+and
+theoretically
+to understand
+the
+interaction
+from
+a microscopic
+viewpoint.
+It is important
+to use
+the basic
+and
+the simplest
+configuration,
+that
+is
+two
+droplets,
+in
+order
+to
+improve
+understanding
+of
+multiple
+droplet
+combustion
+mechanisms.
+In the
+present
+study,
+experiments
+in microgravity
+have
+been
+performed
+on the
+burning
+of two
+suspended
+droplets
+for
+a wide
+range
+of the
+initial
+separation
+distance.
+Two
+droplets
+(n-heptane)
+of the equal
+size
+were
+dispensed
+in air
+at atmospheric
+pressure
+and
+initially
+295__.1 K at the
+same
+time.
+Then
+they
+were
+ignited
+by twO
+hot
+wires
+at
+the
+same
+time.
+Microgravity
+conditions
+were
+attained
+by dropping
+the apparatus
+with
+a drag
+shield
+in
+the
+drop
+tower
+at University
+of Tokyo,
+which
+provides
+about
+1.4 s microgravity
+conditions.
+Experiments
+in normal
+gravity
+were
+also
+performed.
+Two
+orthogonal
+views
+of the combustion
+process
+were
+taken
+by two
+CCD
+cameras.
+The suspending
+fiber
+diameter
+was
+0.125
+ram.
+The
+initial
+droplet
+diameter
+(do) was
+0.81_+0.03
+ram.
+The
+droplet
+was
+nearly
+elliptical
+in shape
+due
+to the existence
+of the fiber
+inside,
+and
+thus,
+an equivalent
+spherical
+droplet
+diameter
+was
+used
+as the
+droplet
+diameter.
+The
+flame
+shapes
+are classified
+roughly
+into
+two
+modes;
+individual
+flames
+surrounding
+each
+droplet
+(Mode
+1)
+and
+one
+merged
+flame
+surrounding
+two
+droplets
+(Mode
+2).
+The
+flame
+
+<<<PAGE 2>>>
+shapesin microgravityarequalitativelyin goodagreementwith thetheoreticalpredictionsby
+quasi-steadyanalysis.
+Within
+a certain
+range
+of
+the
+initial
+separation
+distance
+(l/do),
+the
+transition
+occurs
+from
+Mode
+1 to Mode
+2 firstly,
+and
+then
+the contrary
+transition
+occurs
+from
+Mode
+2 to Mode
+1.
+The
+dependence
+of
+the burning
+lifetime
+(tbo) on the
+initial
+separation
+distance
+(l/d0)
+is shown
+in Fig.
+1.
+Here,
+tbo is the
+burning
+lifetime
+of
+the
+droplet
+with
+do=l
+ram,
+to which
+all
+the
+burning
+times
+(t o
+were
+corrected
+by
+assuming
+tb is
+proportional
+to
+do2.
+1 and
+d o are
+the
+distance
+between
+the droplet
+centers
+and the initial
+droplet
+diameter,
+respectively.
+The
+int"mite
+l/d o denotes
+the
+single
+droplet
+combustion.
+In normal
+gravity,
+t_o has
+a minimum
+at a certain
+l/d o.
+As
+I/d 0 decreases,
+natural
+convection
+around
+each
+droplet
+is enhanced.
+This
+increases
+oxygen
+supply
+to the
+flame.
+Further
+decrease
+in 1/d0 causes
+oxygen
+starvation
+between
+two
+flames.
+As
+seen
+in Fig.
+1, tbo in microgravity
+decreases
+slightly
+with
+decreasing
+l/d o until
+it reaches
+the
+minimum
+around
+l/d0=10
+and
+then
+increases
+sharply.
+The
+prediction
+by the quasi-steady
+theory
+shows
+that
+the
+instantaneous
+burning
+rate
+decreases
+monotonically
+with
+decreasing
+instantaneous
+separation
+distance
+0/d)
+and
+therefore,
+_
+increases
+monotonically
+with
+decreasing
+the initial
+separation
+distance
+(l/do).
+Contrary
+to the prediction,
+tbo has
+a minimum
+for
+a certain
+1/d 0 and
+is larger
+than
+the theoretical
+value
+for
+any
+l/do.
+The
+difference
+between
+the
+experimental
+results
+and
+the
+theoretical
+prediction
+is mainly
+caused
+by the
+difference
+of
+the
+droplet
+heating,
+which
+is neglected
+in the
+theory.
+The
+rate
+of the decrease
+in the squared
+droplet
+diameter
+(d(02)
+is defined
+as the instantaneous
+burning
+rate
+(K(t)).
+K(t)
+for
+different
+l/d o are
+plotted
+every
+0.05
+t/t b versus
+instantaneous
+separation
+distance
+(1/d(t))
+in Fig.
+2.
+According
+to the
+quasi-steady
+theory,
+K(t)
+is only
+a
+function
+of I/d(t).
+Experimental
+results
+show
+that
+K(t)
+is a function
+of l/d(t)
+and
+1/do.
+K(t)
+for
+different
+1/do increase
+and
+approach
+an asymptote
+with
+increasing
+1/d(t).
+The
+deviation
+of K(t)
+from
+the
+asymptote
+is due
+to the
+slow
+evaporation
+during
+heating
+period.
+In
+order
+to investigate
+unsteady
+interaction
+effects,
+the
+instantaneous
+burning
+rate
+of
+two
+droplets
+was
+compared
+with
+that
+of the single
+droplet
+for the same
+normalized
+diameter
+(d/do).
+We
+introduce
+an
+instantaneous
+burning
+rate
+correction
+parameter
+(E)
+which
+is expressed
+as,
+E_(d/do)= K(d/do)/ICs(d/do
+) - 1.
+When
+E(d/do)
+is positive,
+K(d/do)
+is larger
+than
+Ks(d/do)
+for
+the
+same
+d/do.
+We
+call
+this
+"positive
+interaction".
+When
+E(d/do)
+is negative,
+"negative
+interaction"
+occurs.
+The
+instantaneous
+burning
+rate
+correction
+parameters
+(_(d/do))
+were
+derived
+and
+are
+plotted
+versus
+l/d(t)
+every
+0.05
+(d/do) 2 in Fig.
+3.
+For
+l/do>5.4
+, the
+positive
+interaction
+occurs
+in the
+84
+
+<<<PAGE 3>>>
+earlier
+stage.
+E(d/d 0
+decreases
+with
+increasing
+l/d(t) (or with time),
+and then
+the positive
+interaction
+transfers
+to the negative
+one.
+As l/d(t) increases,
+E(d/do)
+approaches
+an asymptote.
+The existence
+of this positive
+interaction
+causes the minimum
+in the burning
+Lifetime (tbo)(Fig.
+1).
+For 1/do<5.4, E(d/d0)
+is negative
+for the entire period
+of combustion
+and to be smaller
+for
+smaller
+l/d0 when
+1/d(t) is the same.
+The radiative
+heat
+transferred
+from the other
+flame
+promotes
+droplet
+heating.
+On the other
+hand,
+the oxygen
+starvation
+between
+the
+flames
+suppresses
+combustion.
+These
+effects
+changes
+with
+l/do and l/d(t)
+(or time).
+Ignition
+Experiment
+on Droplet Array
+Many
+experimental
+works
+have been
+carried
+out on ignition
+of a single
+droplet
+in a high
+temperature
+ambience.
+The
+most
+interesting
+phenomena
+is the
+effect
+of
+initial
+droplet
+diameter.
+Another
+interesting
+point
+is the characteristic
+ignition
+time of a droplet
+consisting
+of blended
+liquid fuels with different boiling
+points.
+In ignition
+of an actual
+spray,
+however,
+there
+should
+be a strong
+interaction
+effect between
+droplets;
+experiments
+on droplet arrays
+are
+thus
+warranted
+to determine
+the fundamental
+aspects
+of spray
+ignition.
+In the present
+work,
+ignition
+times
+of droplet arrays
+which
+were quickly
+immersed
+in an electric
+furnace
+were
+measured
+by changing
+the diameter
+of the droplets
+and the interval
+between
+droplets.
+The
+experimental
+capsule
+is dropped about
+6 m and the test duration is about
+1.1 s.
+The
+cylindrical
+electric
+furnace
+in the capsule
+with an inner
+diameter of 88 mm
+and a length
+of
+150 ram is heated in advance.
+When the capsule
+begins to drop,
+the furnace
+is pulled
+by the
+two
+springs,
+so that the droplet array is quickly immersed
+in the furnace from a thin window
+at the bottom
+of the furnace.
+The droplet array is heated
+by radiation
+from the furnace wall
+and heat conduction
+through
+hot air.
+Ignition time
+is defined as the period
+from the entry of
+the droplet
+array into the furnace until light emission
+caused
+by ignition.
+In order to obtain
+droplets
+with
+the same diameter,
+an array of droplets
+made
+of porous
+ceramics
+and
+soaked
+with
+liquid fuel was employed.
+Both ends of the array of five droplets arranged horizontaUy
+were
+soaked
+with
+water instead
+of liquid fuel, because
+droplets
+there
+are known
+ton ignite
+faster
+than
+the other three
+intervening
+droplets.
+As liquid
+fuels,
+n-heptane
+(boiling
+point:
+371.6K)
+and n-hexadecane
+(560.0K)
+were
+mainly
+used.
+Hexadecane
+has a relatively
+high boiling
+point and therefore
+the greatest part of ignition
+time
+is required
+to rise droplet
+temperature.
+If ignition
+time is affected
+mostly
+by heat conduction,
+a rough
+similarity
+should
+be easily
+available.
+Figure
+4 is the plot
+of the nondimensional
+ignition
+time normalized
+by ignition
+time of a single
+droplet (t_0_) versus the nondimensional
+span,
+which
+is the distance
+between
+droplets
+(S), normalized
+by the droplet
+diameter (do).
+R
+is shown
+that
+all data are combined
+into one curve.
+R was also found that
+there
+exits
+no
+85
+
+<<<PAGE 4>>>
+difference
+in the
+results
+under
+normal
+gravity
+and
+microgravity
+conditions.
+For
+a heptanc
+droplet
+array,
+ignition
+time
+obtained
+shows
+a relatively
+complicated
+change
+as shown
+in Fig.
+5.
+The
+ignition
+time
+in microgravity
+were
+about
+30%
+shorter
+than
+those
+in normal
+gravity,
+because
+vaporized
+fuel
+gas
+descends
+and
+is cooled
+by silica
+fibers
+below
+droplets
+in normal
+gravity.
+Microexplosion
+behavior
+of
+an emulsified
+fuel
+droplet
+under
+micro_xavity
+The
+combustion
+of
+emulsified
+fuel
+involves
+vaporization
+of
+water
+within
+the
+combustion
+fields.
+There
+is the f_equent
+occurrence
+of explosive
+vaporization
+of water
+in emulsified
+fuel
+by means
+of supper
+heating
+above
+its boiling
+points
+by convective
+and
+radiative
+heat
+supply
+from
+surrounding
+combustion
+gases
+and
+flame.
+The
+explosive
+vaporization
+cause, s
+the
+secondary
+atomization
+which
+improves
+the
+mixing
+of
+fuel
+and
+air.
+Three
+process
+are
+included
+in
+the
+secondary
+atomization
+which
+are
+called
+as
+'disruption',
+'puffing'
+and
+microexplosion'.
+It
+has
+been
+recognized
+that
+the
+formation
+and
+growth
+of
+the
+vapor
+bubble
+in the
+emulsion
+plays
+an important
+role
+in the
+mieroexplosion
+behavior.
+Especially,
+the
+bubble
+nucleation
+is
+one
+of key
+factors
+which
+has
+a dominant
+effect
+on the
+occurrence
+of microexplosion.
+The
+objectives
+of the
+present
+study
+is to obtain
+the
+statistical
+information
+about
+the
+onset
+of
+microexplosion
+for a burning
+emulsion
+droplet.
+We
+consider
+that
+the information
+of this
+type
+is essential
+to an understanding
+of the mechanism
+of microexplosion.
+The
+falling
+assembly
+was
+made
+of steel
+frames
+and
+contained
+a combustion
+chamber
+and
+a 8 mm
+videocamera.
+An
+emulsion
+droplet
+was
+suspended
+at
+the
+tip
+of
+a
+quarts
+fiber
+of
+0.25
+mm
+diameter.
+An
+electrically
+heated
+wire
+was
+passed
+just
+below
+the
+droplet
+for
+ignition.
+The
+behavior
+of
+burning
+droplet
+was
+observed
+and
+recorded
+by
+using
+the
+8 mm
+vidcocamera.
+The
+droplet
+temperature
+was
+measured
+by
+using
+the
+Pt-PtPh(13%)
+thermocouple
+of
+0.05
+mm
+in
+diameter.The
+fuel
+employed
+in the experiment
+was
+n-dodecane
+(boiling
+point;
+489.5
+K).
+The
+surfactant
+as
+emulsifier
+was
+polyoxyethylene
+nonylphenyle
+ether.
+The
+emulsion
+of
+oil-in-water
+type
+(O/W)
+composed
+of 79%
+(in volume)
+fuel
+and
+20%
+(in volume)
+water
+was
+prepared
+with
+1%
+suffactant.
+From
+the microphotographs
+of the
+emulsion,
+the mierodroplets
+of
+fuel
+were
+surrounded
+by the water
+thin
+film
+of
+the thickness
+of less
+than
+5/an.
+The
+size
+of
+the
+largest
+mierodroplet
+is about
+15/an.
+The
+emulsion
+was
+degassed
+keeping
+it at
+about
+5 KPa
+for
+two
+hours.
+Figure
+6 shows
+the
+Weibull
+plots
+of
+distribution
+function
+of
+the
+waiting
+time
+t_
+which
+is
+defined
+as the period
+of time
+between
+the
+instant
+of microexplosion
+and
+the
+time
+of the
+first
+86
+
+<<<PAGE 5>>>
+microexplosion.
+The
+distribution
+is approximately
+plotted
+on
+the
+two
+straight
+line.
+This
+indicates
+the
+waiting
+time
+is correlated
+with
+the Weibull
+distribution
+expressed
+as the
+next
+equation.
+f(O =
+(__t)..1exp[ - (Z)-]
+where
+t
+is
+the
+time,
+m
+is
+the
+shape
+parameter
+and
+a
+is
+the
+scale
+parameter.
+For
+the
+mierogravity,
+the
+shape
+parameter
+is about
+2 in the
+early
+stage
+of the waiting
+time
+(t__<0.43),
+and
+it is unity
+in the
+long
+waiting
+time
+region
+(t_>0.43).
+Thus,
+the onset
+of
+microexplosion
+is classified
+to the wear
+failure
+type
+in the early
+stage,
+and
+it is classified
+to the chance
+failure
+type
+in the last stage
+of the burning.
+References
+1. Mikami,
+M.,
+Kato,
+H.,
+Sato,
+J. and Kono,
+M., 25th
+Int.
+Syrup.
+on Comb.,
+The
+Combustion
+Institute,
+1995.
+(in printing)
+2. Niioka,
+T.,
+Kobayashi,
+H.
+and
+Mito,
+D.,
+IUTAM
+Symp.
+on Mech.
+and
+Comb.
+on Droplet
+and Sprays.
+(1994)
+pp. 367-377.
+3. Tsue,
+M.,
+Yamasaki,
+M.
+and
+Kadota,
+T.,
+IUTAM
+Syrup.
+on Mech.
+and
+Comb.
+on Droplet
+and Sprays.
+(1994)
+pp. 479-488.
+1
+0.8
+0.6
+•
+|
+•
+i
+•
+|
+•
+|
+'
+I
+•
+Microgravity
+___
+Quasi-steady
+theory
+"___.Normai
+....
+gravity
+°.
+(
+4
+8
+12
+16
+m
+co
+1/do
+Figure
+1. Dependence
+of the burning
+lifetime
+(tbo)
+on the initial separation distance (l/do).
+•!
+0.8
+0.6
+0.4
+0.2
+K (0= - d(d/do)2/d(t/do
+2)
+ff
+Microgravky
+Quasi-steady
+theory
+*
+[
+D
+_
+",e
+":
+t=O
+""
+lil/do=oO
+ol/do=
+8.4 i
+I/do=11.6
+•l/do=
+6.7
+l/do=
+9.9
+a I/do=
+4.7
+,
+I
+f
+t
+l
+rL._
+0
+5
+10
+15
+20
+25
+',oo
+i/d(t)
+Figure
+2.
+Dependence
+of
+the
+instantaneous
+burning
+rate
+(K(t))
+in
+microgravity
+on
+the
+instantaneous
+separation
+distance
+(I/d(t))
+for
+different
+initial
+separation
+distance
+0/d0).
+87
+
+<<<PAGE 6>>>
+co
+0.5
+-0.5
+_; =K/Ks-
+1
+Microgravity
+a'_'
+Mode I
+t=0 ..ff
+,
+Critical
+-',o_
+state
+:
+o_.oo
+"................
+s
+•
+o
+Mode 2
+iiL/d°=
+°°
+°lId°=
+8"4 I
+i/do=11.6
+- 1/do=
+6.7
+I/do=
+9.9
+,', I/do=
+4.7
+'
+'
+'
+'
+'
+I%o
+-1
+5
+10
+15
+20
+25
+1 / d(O
+Figure
+3.
+Dependence
+of
+the
+instantaneous
+burning
+rate
+correction
+parameter
+(_(d/do))
+on the
+instantaneous
+separation
+distance
+(l/d(t))
+for
+different
+initial
+separation
+distance
+(l/d0).
+2
+!
+!
+!
+I
+!
+l
+I
+I
+I
+Hcxadccinc
+100_
+950K
+o
+dl=l.O
+mm
+•
+dtsO.TS
+mm
+o
+dozO.5
+mm
+I
+I
+I
+t
+'7
+8
+9
+10
+II
+Hgure
+4.
+Nondimensionalized
+plot
+of
+ignition
+time
+in normal
+gravity.
+1,5
+i
+I
+I
+o
+r.1
+m
+!
+c
+0
+0.5
+e,
+cO
+i
+"
+i
+Hcpttnc
+100%
+960K
+_=I.0
+mm
+....
+•
+Mlcrogravit.v
+o
+Normal
+gravity
+0
+•
+I
+.
+!
+,
+I
+,
+I
+,
+I
+,
+0
+1
+2
+3
+4
+$
+6
+Span,
+mm
+Figure
+5. Comparison
+of ignition
+time
+in normal
+gravity
+and
+microgravity.
+0.99
+u_
+0.9
+n-Dodecane
+_>
+0.7
+Degassed
+_m=l
+0.5
+._
+0.1
+'
+•_
+m=2_
+o Normal
+gravity
+• Micro
+gravity
+0
+0.3
+0.5
+0.7
+i
+i
+i
+i
+i
+Waiting time
+t_ s.
+Figure
+6. Weibull
+plots
+of distribution
+function
+of
+waiting
+time.
+88

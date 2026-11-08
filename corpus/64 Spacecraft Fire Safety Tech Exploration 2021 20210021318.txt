@@ -1,0 +1,730 @@
+<<<PAGE 1>>>
+Flammability Limits at Reduced-g Experiment (FLARE) 2021 Workshop 
+September 8, 2021
+Development of Spacecraft Fire Safety 
+Technology for Exploration
+Gary A. Ruff
+Spacecraft Fire Safety Demonstration Project Manager
+ECLSS Fire Safety Roadmap Coordinator
+NASA John H. Glenn Research Center
+Cleveland, Ohio
+
+<<<PAGE 2>>>
+Capability Gaps for Exploration
+•
+Human Exploration and Operations Mission Directorate sanctions Systems Capability 
+Leadership Teams (SCLT) to identify the “missing pieces” between our current 
+capabilities and what we need to complete various exploration missions
+‒
+Capability Gaps
+•
+Spacecraft Fire Safety is in the Environmental Control and Life Support System SCLT
+2
+FIRE SAFETY
+• Detection
+• Protection
+• Suppression
+• Cleanup
+LOGISTICS
+• Tracking
+• Relocating
+• Clothing
+• Trash
+LIFE SUPPORT
+• Atmosphere 
+Management
+• Water Management 
+• Waste Management
+ENVIRONMENTAL
+MONITORING
+• Microbes
+• Chemicals 
+• Sound
+• Pressure
+• Moisture
+• Particles
+RADIATION 
+PROTECTION
+• Space Weather 
+Forecasting
+• Monitoring
+• Shielding
+• Health Risk 
+Models
+• Biomedical CM
+FOOD & 
+NUTRITION
+• Pre-packaged
+• Food Resources
+• Dietary Tracking
+• Health & 
+Perform-
+ance
+EXPLORATION 
+MEDICAL
+• Diagnostic
+• Treatment
+• Imaging
+• Pharmacy
+COUNTER 
+MEASURES
+• Exercise Systems
+• Sensorimotor
+• Physiology 
+Monitoring
+• Informatics
+EVA PHYSIOLOGY
+• Physiological Inputs & 
+Outputs
+• ConOps/Crew Capabilities
+• Informatics
+• Injury & Risk Mitigation
+• Atmosphere/Pre-breathe
+CREW HEALTH AND PERFORMANCE (CHP) SYSTEMS
+ENVIRONMENTAL CONTROL AND LIFE SUPPORT SYSTEMS (ECLSS)
+
+<<<PAGE 3>>>
+Capability Gaps for Fire Safety
+• We identified and track 7 gaps associated with aspects of fire safety
+3
+SCLT input gaps:
+• Gap 2021-2934-​TX06 – Material Flammability and Fire Propagation in Low- and Partial-gravity 
+•
+Environments
+• Gap 2021-2935-​TX06 – Fire Detection, Fire Suppression, and Post-Fire Monitoring and Clean-up
+• Gap 2021-2964-​TX06 – Fire Emergency Breathing Mask
+• Gap 2021-3619-TX06 – Fire Safety Training/Training Facility
+• Incorporated 2021-3610-​TX07: Fire Emergency Test Area
+Related gaps:
+• Gap 2021-2900-TX06 – On-board monitors that measure particulates in the crew 
+respiratory hazard range, survive dormancy, and work in low pressures
+• Gap 2021-2906-​TX06 – Clothing for enriched oxygen atmospheres
+• Gap 2021-3525-​TX06 – Non-flammable materials, additives, coatings
+
+<<<PAGE 4>>>
+Flammability Limit Definitions
+4
+♦Upward Limiting Oxygen Index (ULOI)
+‒
+Oxygen concentration where half of the samples will pass NASA-STD-6001 Test 1
+♦Maximum Oxygen Concentration (MOC)
+‒
+Oxygen concentration where at least five samples pass Test 1 and where at least one sample failed in the 
+environment that contained 1 percent more oxygen by volume
+Δ%O2
+Air flow speed
+1-g 
+Buoyant 
+velocity
+Volume %O2
+Flammable
+Not Flammable
+1-g 
+flammability 
+limit (Test 1)
+Fundamental 
+limit
+0-g quiescent limit
+lunar-g 
+buoyant 
+velocity
+♦The shape of the flammability curve 
+on the left depends on the material 
+properties
+♦In both 1-g and lunar conditions, 
+extinction is by blow-off
+♦The reduced buoyant velocity 
+(compared to 1-g) impacts 
+flammability limits by:
+•
+Reducing the oxygen flux to weaken 
+the flame
+•
+Strengthening the flame by reducing 
+the heat loss by convection
+Sacksteder, K. R. and T’ien, J. S., Buoyant Downward 
+Diffusion Flame Spread and Extinction in Partial-Gravity 
+Accelerations, Proc. Combust. Inst. 25:1685-1692 (1994). 
+Osorio, A. F., Mizutani, K., Fernandex-Pello, C., and Fujita, O., 
+Microgravity flammability limits of ETFE insulated wires exposed 
+to external radiation,” Proc. Combust. Inst. 35: 2683-2689 (2015)
+Ferkul, P. V. and Olson, S.L., Zero-Gravity Centrifuge Used 
+for the Evaluation of Material Flammability in Lunar-Gravity, 
+AIAA 2010-6260, 40th Int. Conf. Env. Syst, (2010).
+
+<<<PAGE 5>>>
+Impact of Normoxic Atmosphere in Lunar Landers and 
+Habitats
+5
+♦Operations on the moon in either landers, rovers, or habitats will present unique operating 
+conditions
+• The purpose of being on the Moon is to conduct frequent extravehicular activities to explore, conduct experiments, etc.
+‒
+EVA suit: 4.3 psia, 100% O2 by volume (U.S. suits on ISS)
+Mercury/Gemini/Apollo
+Skylab
+Early Apollo Design
+Shuttle EVA Preparation
+Shuttle/Mir/ISS
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Cabin Volume Percent Oxygen
+Cabin Total Pressure, kPa
+0
+2
+4
+6
+8
+10
+12
+14
+Cabin Total Pressure, psia
+Normoxic Equivalent
+Hypoxic Boundary
+Historical Designs
+Atmosphere
+Pre-breathe 
+Times (hours)
+10.2 psia, 28%O2
+3.5
+8.2 psia, 34%O2
+0.5
+♦
+It is undesirable to require long pre-breathe times prior to every
+EVA
+♦
+Using normoxic atmospheres:
+•
+Helps prevent decompression sickness
+•
+Increases flame spread rate
+♦
+Effect of partial gravity on the previous slide are coupled with the 
+changes in flame characteristics at elevated O2
+♦
+Flammability limits are even more important than flame spread 
+rate for spacecraft fire safety
+“Recommendations for Exploration Spacecraft Internal Atmospheres: The 
+Final Report of the NASA Exploration Atmospheres Working Group”, JSC-
+63309, January 2006.
+
+<<<PAGE 6>>>
+Flammability Limits for Various Materials
+6
+Olson, S.L., Ruff, G. A. and Miller, F.J. “Microgravity Flame Spread in Exploration 
+Atmospheres,” Paper No. Paper No. 2008-01-2055, 38th International Conference on 
+Environmental Systems, San Francisco, CA, July 2008.
+Hirsch, D.B, Williams, J., and Beeson, H.; “Pressure Effects on Oxygen 
+Concentration Flammability Thresholds of Polymeric Materials for Aerospace 
+Applications” Journal of Testing and Evaluation, V.36, Issue 1, (pp. 69-72).  NASA 
+Document ID 20070018178, (2008).
+♦
+Normoxic conditions complicate flame spread and flammability limits
+•
+Reduced pressure decreases the flame spread rate
+•
+Increasing the %O2 increases flame spread rate
+♦
+The nearly vertical lines for the pressure vs. MOC show 
+that increasing oxygen has a significantly greater effect 
+than increasing pressure
+•
+Similar for different materials
+♦Concurrent flame spread rate: Vf ~ O2* flow velocity* P0.5
+♦Opposed flame spread rate: Vf ~ O2
+0.9 * P0.05
+♦
+The MOC of many materials follow the trend of the 
+microgravity opposed flow flame spread correlation
+♦
+The previous slides have shown the compounding  
+impacts of gravity level and normoxic atmospheres
+
+<<<PAGE 7>>>
+Partial-Gravity Assessment Tools
+7
+Platform/Activity
+Duration
+Time Frame to start
+Comments
+ZGF Centrifuge Rig
+5 sec
+2021
+Direct partial-g burn – flammability limits
+P2-g Scaling
+Full burn
+2021
+Evaluated for flame propagation rather than 
+flammability limits
+Modeling
+Full burn
+2021
+Status of model; Data for comparison of model is 
+limited
+Parabolic Aircraft
+20 sec
+2021
+Direct partial-g burn
+Blue Origin Rotating Capsule
+120 sec
+2022 (initial flight)
+2023 (full campaign)
+Need to assess capability prior to full commitment 
+to test campaign starting in mid-2023
+Commercial Lunar Payload 
+Services (CLPS) Expt
+Full burn
+2024 
+Provides a “Lunar truth” but tests are very limited 
+in number and scale
+Electromotive Drop Tower 
+(EMDT)
+10 sec
+2028
+Partial-gravity drop tower being designed and 
+planned to be operational no earlier than FY28
+
+<<<PAGE 8>>>
+FY21
+FY22
+FY23
+FY24
+FY25
+FY26
+FY27
+FY28
+FY29
+FY30
+FY31-35
+FY36-40
+FY40+
+Artemis II
+PR SRR
+HALO
+Artemis III
+I-Hab
+PR
+FSH
+MTH
+Mars Surface
+Mars Surface 
+Follow-on
+FSH SRR
+MTH SRR
+MTH PDR
+Cargo
+Crew
+Mars Surface
+Lunar orbit
+Mars surface
+Ground
+Lunar surface
+Events/milestones
+ISS / LEO
+Mars transit
+Decision point
+ECLSS-CHP SCLT ROADMAP
+See acronyms list at front of document
+All mission information is notional and for the purpose of SCLT work only
+Operation
+8
+Fire Safety (1 of 3)
+POC(s): Stephanie Casper, Gary Ruff
+Revised: 08/30/2021 (DRAFT)
+Objectives (FOM/KPPs): (1) Quantify the effect of gravity level, ambient conditions, material properties, 
+configuration, and flow on the flammability of relevant spacecraft materials relative to flammability tests 
+conducted in normal gravity
+Saffire-IV & V
+SoFIE Experiments (CIR)
+Drop Tower Ground Facility Design/Build
+Lunar Surface Gravity
+Mars Surface Gravity
+Centrifuge Drop Tower
+Lunar Payload 
+Flammability Experiment
+Lunar Surface 
+Payload Experiment
+Fire Safety & Material Flammability (2021-2934-TX06)
+Material Flammability - Partial Gravity (2021-2934-TX06)
+Fire Detection (2021-2935-TX06)
+Spacecraft Fire Detection Model Dev.
+Lunar GFE 
+Determination
+Saffire-VI
+Sub-orbital Partial-g Flights
+Saffire-IV & V
+Saffire-VI
+
+<<<PAGE 9>>>
+Fire Detection in Lunar - G
+9
+♦Modeling has shown that in zero-g with forced 
+convection, the spacecraft volume must reach the 
+alarm level before an alarm will sound
+•
+Unless the smoke production rate is large
+•
+If the smoke production rate is too low, smoke is scrubbed 
+by air circulation before it can reach alarm levels
+♦In partial-g, there will be a competition between rate of 
+smoke production, buoyancy, and ECLSS air circulation
+Brooker, J.E., Urban, D.L. and Ruff, G.A. “ISS Destiny Laboratory Smoke Detection Model,” Paper No. 
+2007-01-3076, 37th International Conference on Environmental Systems, Chicago, Illinois, July 9-12, 2007.
+?
+?
+Air intake
+Normal gravity (ISS Destiny Module with ECLSS circulation)
+Zero gravity (ISS Destiny Module with ECLSS circulation)
+Partial gravity
+Urban, D.L., Dietrich, D. L., Brooker, J. E., Meyer, M.E., and Ruff, G.A. “Fire Detection Tradeoffs as a Function 
+of Vehicle Parameters,” Paper No. ICES-2016-318, 46th International Conference on Environmental Systems, 
+July 10-14, Vienna, Austria.
+
+<<<PAGE 10>>>
+FY21
+FY22
+FY23
+FY24
+FY25
+FY26
+FY27
+FY28
+FY29
+FY30
+FY31-35
+FY36-40
+FY40+
+Artemis II
+PR SRR
+HALO
+Artemis III
+I-Hab
+PR
+FSH
+MTH
+Mars Surface
+Mars Surface 
+Follow-on
+FSH SRR
+MTH SRR
+MTH PDR
+Cargo
+Crew
+Mars Surface
+Lunar orbit
+Mars surface
+Ground
+Lunar surface
+Events/milestones
+ISS / LEO
+Mars transit
+Decision point
+ECLSS-CHP SCLT ROADMAP
+See acronyms list at front of document
+All mission information is notional and for the purpose of SCLT work only
+Flight Dev. for Mars Surface Cont. Air Monitor
+Flight Dev. for Mars Transit Cont. Air Monitor
+10
+Fire Safety (2 of 3)
+POC(s): Stephanie Casper, Gary Ruff
+Revised: 08/30/2021 (DRAFT)
+Objectives (FOM/KPPs): (2) Provide the crew effective hardware, procedures, and training to respond to 
+and recover from a spacecraft fire event (3) Validate the fire detection and response protocols through 
+tests and modeling of fire scenarios
+Fire Detection (2021-2935-TX06)
+Flight Dev. for 
+Orion
+Contingency Air Monitor (2021-2935-TX06)
+Lunar Lander Smoke Detector
+Mars Transit Smoke Detector
+Mars Surface Smoke Detector
+Orion Smoke Detector
+Gateway Smoke Detector
+Orion Contingency Air Monitor
+Mars Transit Contingency Air Monitor
+Mars Surface Contingency Air Monitor
+Lunar Fire Detection Architecture
+Gateway Fire Detection Architecture
+Mars Surface Fire Detection Archit.
+ISS/Orion Contingency Air Monitor
+Post-Fire Cleanup (2021-2935-TX06)
+Orion Flight 
+Dev.
+Mars Transit Smoke Eater
+Mars Surface Smoke Eater
+Orion OSEF
+Mars Transit Flight Dev. (MTSEF)
+Mars Surface Flight Dev. (MSEF)
+Flight Dev. for 
+ISS/Orion
+Flight Dev. for Gateway Contingency Air Monitor
+Gateway Contingency Air 
+Monitor
+Saffire-IV & V
+Saffire-VI
+Saffire-IV & V
+Saffire-VI
+
+<<<PAGE 11>>>
+FY21
+FY22
+FY23
+FY24
+FY25
+FY26
+FY27
+FY28
+FY29
+FY30
+FY31-35
+FY36-40
+FY40+
+Artemis II
+PR SRR
+HALO
+Artemis III
+I-Hab
+PR
+FSH
+MTH
+Mars Surface
+Mars Surface 
+Follow-on
+FSH SRR
+MTH SRR
+MTH PDR
+Cargo
+Crew
+Mars Surface
+Lunar orbit
+Mars surface
+Ground
+Lunar surface
+Events/milestones
+ISS / LEO
+Mars transit
+Decision point
+ECLSS-CHP SCLT ROADMAP
+See acronyms list at front of document
+All mission information is notional and for the purpose of SCLT work only
+11
+Fire Safety (3 of 3)
+POC(s): Stephanie Casper, Gary Ruff
+Revised: 08/30/2021 (DRAFT)
+Objectives (FOM/KPPs): (2) Provide the crew effective hardware, procedures, and training to respond to 
+and recover from a spacecraft fire event (3) Validate the fire detection and response protocols through 
+tests and modeling of fire scenarios
+Contingency Breathing Apparatus (2021-2935-TX06)
+Dev. Orion Mask
+Fire Suppression (2021-2935-TX06) 
+Gateway Mask (Filter 
+and/or O2/Air)
+Orion Mask (CBA)
+Mars Transit Mask
+Mars Surface Mask
+Orion PFE
+Gateway PFE
+Mars Transit PFE
+Mars Surface PFE
+Mars Transit Mask Flight Dev.
+Mars Surface Mask Flight Dev. 
+Mars Transit PFE Flight Dev.
+Mars Surface PFE Flight Dev. 
+Gateway Mask (Filter and/or 
+O2/Air)
+Gateway PFE
+ISS Mask S/L Update
+Habitable Volume Battery/Laptop Fire Testing (2021-2934-TX06)
+Integrated Fire Scenario Tests and Training (2021-2913-TX06; 2021-3610-TX07)
+COTS Li-ion Battery/Laptop 
+Fire Characterization Lab
+Gateway Integrated Testing
+Crew Fire Response Training
+Mars Integrated Testing
+
+<<<PAGE 12>>>
+Post-fire Cleanup & Emergency Breathing Apparatus
+• Smoke Eater Performance in Saffire-V
+‒
+Intended to scrub CO from the cabin atmosphere
+•
+Saffire sensors did not show a significant reduction in CO while scrubbing
+‒
+CPM CO sensor is a higher accuracy and showed a small reduction in CO (Saffire-IV and V)
+‒
+Particulate monitors showed a small increase in the rate of particulate removal when Smoke Eater flow began
+‒
+Pressure drop measurements indicates there was flow
+‒
+A flight spare has been tested and performed as expected
+•
+Degraded performance after “handling” had been experienced by the Orion Program for the Orion 
+Smoke Eater Filter and the Emergency Breathing Apparatus
+• ISS and Orion fire cartridge and OSEF Teams worked together on a more fundamental effort 
+to understand packed beds
+• Dusting, flow redistribution, and reduced CO removal have been documented and corrected 
+• Corrective actions include packing with specifications for both weight and height of catalyst, 
+tighter tolerances, and procedures to remove dust prior to packing
+12
+
+<<<PAGE 13>>>
+Conclusions
+♦We have made progress to address the exploration capability gaps identified by the SCLT
+•
+Material flammability and flammability limits in Lunar-g is a high priority – especially because of the 
+elevated %O2
+♦Owing to lack of access to partial gravity test platforms, the data set of lunar flammability 
+tests is very small
+♦Theory and experimental results indicate that oxygen flammability limits in lunar-g are 
+lower than those measured in 1-g
+•
+The magnitude of ∆%O2 depends not only on the material but on the direction of burning (concurrent or 
+opposed)
+♦The planned habitat atmosphere exacerbates these issues by enhancing the flammability
+♦Additional work is needed to establish a partial gravity flammability acceptance criterion
+♦Lunar gravity can change fire detection strategy depending on vehicle design
+♦Turning off forced air flow cannot be used as an extinguishment strategy
+♦Work on post-fire clean-up and emergency mask is progressing following an update to the 
+sorbent packing procedure
+13
+
+<<<PAGE 14>>>
+Back-up
+14
+
+<<<PAGE 15>>>
+Fire Safety Gaps
+15
+Gap Number
+Title
+Description
+2021-2900-​TX06 
+On board monitors that 
+measure particulates in the 
+crew respiratory hazard range, 
+survive dormancy, and work in 
+low pressures. 
+There are currently three types of particulates that must be both 
+individually quantified and identified during Exploration missions: 
+smoke, cabin particulates, and planetary dust. This needs to 
+be demonstrated in both 14.5 psia and reduced pressure (8.2 psia). 
+There are no Commercial Off the Shelf (COTs) technologies that yet 
+provide this suite of capabilities for infusion. Currently habitat 
+maintenance (like vacuum cleaner use or rack rotations) can release 
+particles and cause false fire alarms. Consequently smoke alarms are 
+often disabled during maintenance causing a gap in fire 
+detection. Particle monitors allows you to distinguish between fire 
+particles, planetary dust, and crew dust to understand and reduce 
+the impact of false fire alarms.
+
+<<<PAGE 16>>>
+Fire Safety Gaps
+16
+Gap Number
+Title
+Description
+2021-2906-​TX06
+Clothing for 
+enriched oxygen 
+atmospheres 
+Current crew clothing is flammable in the 21% O2 (14.7 psia) atmosphere of 
+ISS. Future vehicles will be operated at lower pressures and corresponding 
+higher O2 (30% O2 at 10.2 psia and 36% O2 at 8.3psia). Clothing becomes even 
+more of a fire hazard under these elevated O2 conditions. For the safety of the 
+crew, clothing that will not ignite under nominal atmospheric conditions is 
+needed. 
+2021-2913-​TX06
+Fire Safety Training 
+and Facilities
+Emergency equipment is designed as a last resort when all other engineering 
+controls fail. Prior to flight, crews are trained on the ground in the procedures 
+needed to respond to emergencies, particularly fire emergencies. Historical 
+incidents have shown the dangers of incomplete training in emergency scenarios. 
+Prior to flight, US astronauts are never provided an opportunity to exercise the 
+equipment or to practice the emergency response scenario while in the confines 
+of the vehicle. This introduces a well-documented risk to the crews’ ability to 
+quickly and accurately respond to a fire emergency. A mandatory training 
+program and a test area with realistic facilities is needed to ensure crew 
+familiarity with fire response protocols and experience with fire response 
+hardware in the tight confines of spacecraft.​
+
+<<<PAGE 17>>>
+Fire Safety Gaps
+17
+Gap Number
+Title
+Description
+2021-2934-​TX06
+Material flammability 
+and fire propagation 
+in low- and partial-
+gravity 
+environments, and at 
+exploration 
+atmospheres
+Material flammability and fire propagation in 1-g, atmospheric pressure, and 
+atmospheric oxygen environments are well characterized due to readily 
+available terrestrial data. Very limited data is available for flammability of 
+materials or fire propagation in low- and partial-gravity environments. 
+Additional oxygen compatibility data is needed for common cabin materials at 
+exploration vehicle cabin pressures and oxygen concentrations (e.g. 10.2 psia 
+total pressure/26.5% oxygen concentration and 8.2 psia total pressure/34% +/-
+2%. oxygen concentration.) Historically, NASA has used 1-g testing to try to 
+extrapolate and predict the flammability and propagation in these 
+environments, which increases the overall fire risk in space missions since it 
+directly informs flammability limits, fire detection, fire suppression, fire 
+response, and post-fire clean-up.
+2021-2935-​TX06
+Fire Detection, Fire 
+Suppression, and 
+Post-Fire Monitoring 
+and Clean-up
+Due to the inherent danger of fires in closed environments, fire detection, fire 
+suppression, and post-fire monitoring and clean-up will be provided on all 
+vehicles. ISS, commercial vehicles, and Orion have all developed solutions for 
+meeting these requirements. For future missions, this suite of solutions will be 
+evaluated for each individual vehicle architecture to determine the best 
+approach to fire detection, suppression, and clean-up.
+
+<<<PAGE 18>>>
+Fire Safety Gaps
+18
+Gap Number
+Title
+Description
+2021-2964-​TX06
+Fire emergency 
+breathing mask
+During fire emergencies, the crew don a portable breathing apparatus which 
+provides clean breathing oxygen either by filtering out toxic gases produced 
+from a fire and/or provides O2 to the crew from stored oxygen sources or by 
+conversion from other gases. The device type and mechanism chosen must be 
+compatible with mission architecture (i.e. suppressants used, oxygen availability, 
+expected type and amount of environmental toxins, etc). The breathing 
+apparatus currently used on ISS is not incompatible with Orion architecture. In 
+Orion, due the small volume, O2 provided to the crew would result in an 
+increase in vehicle O2 levels, thereby further increasing fire risk. Additionally, 
+the Orion vehicle uses a water mist fire extinguisher. Flow through the filter of 
+the ISS breathing mask may be blocked by water filming across the filter surface. 
+A new design for fire emergency breathing mask is needed to meet the fire 
+safety architecture design for Orion and possibly future vehicles.

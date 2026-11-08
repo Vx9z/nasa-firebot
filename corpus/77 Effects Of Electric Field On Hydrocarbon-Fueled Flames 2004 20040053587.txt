@@ -1,0 +1,291 @@
+<<<PAGE 1>>>
+EFFECTS OF ELECTRIC FIELD ON HYDROCARBON-FUELED FLAMES 
+ 
+Z.-G. Yuan and U. Hegde 
+National Center for Microgravity Research, Cleveland, OH 
+ 
+INTRODUCTION 
+It has been observed that flames are susceptible to electric fields that are much weaker 
+than the breakdown field strength of the flame gases.1-6 When an external electric field is 
+imposed on a flame, the ions generated in the flame reaction zone drift in the direction of the 
+electric forces exerted on them. The moving ions collide with the neutral species and change the 
+velocity distribution in the affected region. This is often referred to as ionic wind effect. In 
+addition, the removal of ions from the flame reaction zone can alter the chemical reaction 
+pathway of the flame. On the other hand, the presence of space charges carried by moving ions 
+affects the electric field distribution. As a result, the flame often changes its shape, location and 
+color once an external electric field is applied. The interplay between the flame movement and 
+the change of electric field makes it difficult to determine the flame location for a given 
+configuration of electrodes and fuel source. In normal gravity, the buoyancy-induced flow often 
+complicates the problem and hinders detailed study of the interaction between the flame and the 
+electric field. 
+In this work, the microgravity environment established at the 2.2 Second Drop Tower at 
+the NASA Glenn Research Center is utilized to effectively remove the buoyant acceleration. The 
+interaction between the flame and the electric field is studied in a one-dimensional domain. A 
+specially designed electrode makes flame current measurements possible; thus, the mobility of 
+ions, ion density, and ionic wind effect can be evaluated. 
+ 
+EXPERIMENTS 
+Figure 1 shows the test section of the experiment apparatus. Fuel gas is issued from a 
+porous brass spherical burner with a diameter of 12.7 mm, which also serves as the inner 
+electrode. A 1.6 mm OD stainless steel tube provides fuel passage and electric connection to the 
+burner. It is insulated with a 2.3 mm ID thin-wall ceramic tube, which prevents any electric 
+current from leaking to the surrounding gases. The outer electrode is a Buckyball-shaped 
+Faraday cage with an inner diameter of 70 mm.7 The two electrodes are arranged concentrically 
+to establish spherical equipotential surfaces in between, except the local region of the thin 
+stainless fuel tube where the electric field deviates from spherical symmetry. The outer electrode 
+is made of a nylon wire frame coated with a thin layer of copper. A group of wire members at the 
+top of the Buckyball that covers a solid angle of 1.6 Sr is electrically separated from the rest of 
+the ball so that the current through this part can be measured independently. An adjustable high-
+voltage DC source provides desired voltages and polarity between the two electrodes. The fuel 
+system consists of a fuel bottle, a pressure regulator, a mass flow meter and a solenoid valve to 
+provide constant fuel flow during the drop. During a test run, the flame is ignited at normal 
+gravity. As soon as the ignition is confirmed, the drop rig is released and the high-voltage is 
+turned on. The current value is logged by an onboard computer and the flame images are 
+acquired with a CCD camera. The output signal of the camera is sent to a ground device via a 
+fiber-optic cable for recording. Three types of fuels were tested: ethylene, methane and propane. 
+The applied voltage covered two ranges: from -0.6 kV to -2.0 kV and from +0.8 kV to +2.0 kV 
+with a 0.2 kV increment between two neighboring test points. Flames with no applied voltage 
+were also tested for comparison. A fixed fuel flow rate for each fuel was selected for adequate 
+305
+NASA/CP—2003-212376/REV1
+
+<<<PAGE 2>>>
+flame size. Since flames of the three different fuels behave similarly, only the test results with 
+ethylene fuel at a flow rate of 2.3 mg/s burning in the atmospheric pressure will be discussed 
+below. 
+ 
+RESULTS AND DISCUSSIONS 
+Figure 2 shows flame images of sixteen tests, acquired 1.8 seconds into free fall. The 
+magnitude and polarity of the applied voltage marked on each image represent the voltage of the 
+outer electrode vs. that of the inner electrode. For most cases, the top portion of the flame is quite 
+spherical. For negative applied voltages, as the magnitude of the voltage increases, the flame size 
+decreases monotonically, while the intensity of the flame increases. The blue color of the flames 
+indicates low or no soot inside the flame. For positive applied voltages, the size of the flame 
+slightly decreases as the voltage increases. The flames are much dimmer than the negative 
+voltage cases. Various intensities of the orange/red color in the flame seem to indicate that the 
+soot content decreases at low positive voltages and then increases at high positive voltages. 
+Figure 3 shows the average flame radius as a function of time. With zero applied voltage, the 
+flame radius increases during the entire course of 2.2 second free fall. For +2.0 kV applied 
+voltage, the flame radius also increases during the drop, but at a lower rate than the zero voltage 
+case. The flame radius of the -2.0 kV case essentially remains constant. The observed flame 
+behavior suggests that the flame reaches a quasi-steady state quicker in the presence of an 
+electric field. 
+The current magnitude averaged over elapsed time from 1.6 seconds through 1.8 seconds 
+vs. applied voltage for 14 tests is plotted in Fig. 4. The magnitude of the current increases with 
+the magnitude of the applied voltage as expected, i.e., the increased voltage strips more ions 
+from the reaction zone. The relationship between the voltage and current does not follow Ohm’s 
+law because the conduction of electricity through gases is fundamentally different from that 
+through metals. In gases, the conduction of electricity is carried out by moving ions, thus the net 
+charge density must not be zero. As a result, the current density is proportional to the electric 
+field multiplied by the divergence of the electric field. Therefore, the relation between the current 
+and the field becomes nonlinear. In addition, the flame radius varies with applied voltage. The 
+location of the flame, as the source of ions, also affects the current. 
+It is known that the flame reaction zone of the present tests is thin in comparison with the 
+distance between the two electrodes and the apparent resistivity in it is low because of the co-
+existence of positive and negative ions. Thus, the voltage drop across the two electrodes mostly 
+takes place in the two electrode spaces, (i.e., the spaces between the flame and electrodes). In 
+each electrode space, the charge carrier is unipolar. There is neither charge generation, nor 
+charge recombination in an electrode space. By integrating Gauss’s theorem of electrostatics and 
+the equation of conservation of electric charges, an equation relating the total voltage, total 
+current, the mobilities in the two electrode spaces, and the flame radius can be obtained.7 
+Applying the resulting equation to the experimental data, we obtain (a) for negative applied 
+voltages, the mobilities are 45.9 cm2/s/v and 2.2 cm2/s/v for negative and positive ions, 
+respectively, and (b) for positive applied voltages, the mobilities are 0.44 cm2/s/v and 10.3 
+cm2/s/v for negative and positive ions, respectively. It is noticed that in either case the mobility 
+of negative ions is much lower than that of electrons (the mobility of electrons is more than 1000 
+cm2/s/v),8,9 indicating that electrons are captured by neutral species soon after leaving the flame 
+reaction zone. The distribution of the charge density, σ(r), for the two cases of +2.0 kV and -2.0 
+kV was evaluated and plotted in Fig. 5, based on the obtained mobility data. It can be seen that 
+the charge density is very low compared with the gas density (e.g., at standard conditions, there 
+306
+NASA/CP—2003-212376/REV1
+
+<<<PAGE 3>>>
+are 2.69x1019 molecules per cubic centimeter). Therefore, only a very small amount of ions are 
+removed from the flame gas. 
+To evaluate the impact of the moving ions on the velocity distribution of gases, the 
+Navier-Stokes equations must be invoked, in which the effect of the electric field is represented 
+by a body force term. In a one-dimensional spherically symmetric case, this body force is 
+proportional to the total current and inversely proportional to the ion mobility, i.e., f =I/(4πKr2).7 
+By defining a variable, F(r), such that dF/dr = -f, F(r) can then be lumped into the pressure 
+gradient 
+term 
+in 
+the 
+momentum 
+equation7 
+and 
+viewed 
+as 
+an 
+apparent 
+pressure:
+
+
+
+
+
+
+−
+=
+Kr
+r
+K
+I
+r
+F
+o
+o
+1
+1
+4
+)
+(
+π
+. 
+Figure 6 shows the distribution of the apparent pressure, F(r), based on the data obtained 
+from the +2.0 kV case and the -2.0 kV case. Note that the electric field-induced body force is 
+always in the same direction as that of the moving ions, thus it is inward (i.e., compressive) in 
+the inner electrode space and outward (i.e., expansive) in the outer electrode space. As a result, 
+the field-induced pressure becomes positive in the inner electrode space and negative in the outer 
+electrode space. For a one-dimensional case, the conservation of mass relates a change of the 
+velocity distribution to a change of the density distribution. Since the apparent pressure, F(r), is 
+about six orders of magnitude lower than the ambient pressure in which the drop tests were 
+conducted, the density change caused by the apparent pressure is negligible and so is the velocity 
+change. Therefore, the ionic wind effect is negligible in the current test conditions. 
+ 
+CONCLUSIONS 
+The electric current through a spherical flame region has been measured successfully 
+using the present experiment apparatus. The current data were used to estimate the mobilities of 
+ions in electrode spaces. The values of the mobilities suggest that soon after leaving the flame 
+reaction region, the electrons attach themselves to neutral molecules or radicals. The ion number 
+densities in electrode spaces are also calculated, indicating very low ion concentration in the 
+gases. The ionic wind effect in a spherically symmetric system can be studied as an apparent 
+pressure term and is found to be negligible. Many flames do not reach quasi-steady state during 
+the drop test so that longer microgravity time is needed. 
+ 
+ACKNOWLEDGMENT 
+ 
+This work is supported by NASA under cooperative agreement NCC3-544. The authors 
+also wish to thank Professor G. M. Faeth of the University of Michigan for helpful discussions 
+during the course of this project. 
+ 
+REFERENCES 
+1. Calcote, H. F., Proc. Combust. Inst. 9:622(1963). 
+2. Lawton, J., and Weinberg, F. J., Electrical Aspects of Combustion, Clarendon Press, Oxford, 1969. 
+3. Carleton, F. B. and Weinberg, F. J., Nature 330:635 (1987). 
+4. Saito, M., Arai, T., and Arai, M., Combust. Flame 119:356 (1999). 
+5. Yuan, Z. -G., Hegde, U., and Faeth, G. M., Combust. Flame 124:712 (2001). 
+6. Yuan, Z. -G., Hegde, U., and Faeth, G. M., AIAA paper No. 2002-1075, 40th Aerospace Science Meeting & 
+Exhibit, 14-17 Jan. 2002, Reno, Nevada, USA. 
+7. Yuan, Z. -G., Hegde, U., AIAA paper No. 2003-0812, 41st Aerospace Science Meeting & Exhibit, 6-9 Jan. 2003, 
+Reno, Nevada, USA. 
+8. Heinsohn, R. J., Wulfhorst, D. E., and Becker, P. M., Combust. Flame 11:288 (1967). 
+9. Mayo, P. J., and Weinberg, F. J., Proc. Roy. Soc. Lond. A. 319, 351 (1970). 
+307
+NASA/CP—2003-212376/REV1
+
+<<<PAGE 4>>>
+ 
+                                  
+0
+5
+10
+15
+20
+25
+30
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+Elapsed free fall time (seconds)
+0 V
++2.0 kV
+-2.0 kV
+ 
+Figure 3. The flame radius vs. time. For both zero and 
++2.0kV cases, the flame radius increases with time, but 
+more rapidly in the zero voltage case. For the -2.0 kV 
+case, the flame radius is significantly smaller than the 
+zero voltage case and essentially remains unchanged. 
+Figure 2. Ethylene/air diffusion flames in sixteen 
+drop tests. The dark lines in each image are out-of-
+focus elements of the Buckyball. For most cases, the 
+top portion of the flame is quite spherical. 
+                
+         
+Figure 1. The test section of the experiment apparatus. 
+The red top portion of the outer electrode is electrically 
+separated from the rest of the electrode. 
+           
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+-2.0 -1.5 -1.0 -0.5 0.0
+0.5
+1.0
+1.5
+2.0
+Applied voltage, kV
+Current µA
+ 
+Figure 4. Absolute value of current vs. applied voltage. 
+The current value of each test in the plot is averaged 
+between 1.6 seconds to 1.8 seconds in free fall. 
+    
+1.0E+08
+1.0E+09
+1.0E+10
+1.0E+11
+5.0
+10.0
+15.0
+20.0
+25.0
+30.0
+35.0
+Radius (mm)
+Charge number density 
+(#/cm3) 
++2.0 kV
+-2.0 kV
+ 
+Figure 5. Distribution of charge number density for
+two tests, assuming each ion carries a single electric
+charge only. The peak of each curve is located at the
+flame radius. 
+           
+-0.15
+-0.10
+-0.05
+0.00
+0.05
+0.10
+0.15
+5
+10
+15
+20
+25
+30
+35
+Radius (mm)
++2.0 kV
+-2.0 kV
+ 
+Figure 6. Distribution of the apparent pressure for two
+tests. The apparent pressure is always compressive
+(positive) in the inner electrode space and expansive
+(negative) in the outer electrode space because of
+different directions of the electric force in the two regions.
+The field-induced pressure is negligible in comparison
+with the atmospheric pressure for the current test
+conditions. 
+308
+NASA/CP—2003-212376/REV1

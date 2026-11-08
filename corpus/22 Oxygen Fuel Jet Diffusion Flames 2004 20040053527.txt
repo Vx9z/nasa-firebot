@@ -1,0 +1,202 @@
+<<<PAGE 1>>>
+OXYGEN AND FUEL JET DIFFUSION FLAME STUDIES IN 
+MICROGRAVITY MOTIVATED BY SPACECRAFT OXYGEN STORAGE 
+FIRE SAFETY 
+P.B. Sunderland and Z.-G. Yuan 
+National Center for Microgravity Research, Cleveland, OH 44135. 
+S.S. Krishnan and J.M. Abshire 
+Department of Mechanical Engineering, IUPUI, Indianapolis, IN 46202. 
+ 
+J.P. Gore 
+School of Mechanical Engineering, Purdue University, W. Lafayette, IN 47907. 
+INTRODUCTION 
+In 1997 there was a fire on the Mir space station that threatened the lives of everyone aboard.  
+The fire involved an oxygen jet leaking from a lithium-perchlorate oxygen generator, as 
+described by Ross [1]. The fire was unusual in that it involved three factors not normally 
+encountered in terrestrial fires:  enhanced oxygen, inverse flames (where the oxidizer is 
+surrounded by fuel), and microgravity.  Further, there were the following characteristics of these 
+fires that were noted by the astronauts: They produced large amounts of soot and were difficult 
+to extinguish.  Therefore it is important to examine the effects of these three factors on laminar 
+diffusion flames and the characteristics of these flames in comparison to normal flames in 
+normal gravity. 
+Inverse flames have mixture-fraction/temperature/time trajectories for soot processes that are 
+different from those of normal flames.  Inverse diffusion flames were reported in 1928 by Burke 
+and Schumann [2].  Sidebotham and Glassman [3], Kaplan and Kailasanath [4] and Blevins et al. 
+[5, 6] have studied inverse diffusion flames. Sunderland et al. [7] used inverse spherical flames to 
+distinguish the effects of convection direction and stoichiometry on soot formation. 
+OBJECTIVES 
+Owing to the absence of past work involving flames similar to the Mir fire – namely oxygen-
+enhanced, inverse gas-jet diffusion flames in microgravity – the objectives of this work are as 
+follows: 
+1. Observe the effects of enhanced oxygen conditions on laminar jet diffusion flames with 
+ethane fuel. 
+2. Consider both earth gravity and microgravity. 
+3. Examine both normal and inverse flames. 
+4. Compare the measured flame lengths and widths with calibrated predictions of several 
+flame shape models. 
+This study expands on the work of Hwang and Gore, [8,9] which emphasized radiative 
+emissions from oxygen-enhanced inverse flames in earth gravity, and Sunderland et al., [10] 
+which emphasized the shapes of normal  and inverse oxygen-enhanced gas-jet diffusion flames 
+in microgravity. 
+NASA/CP—2003-212376/REV1
+377
+
+<<<PAGE 2>>>
+MICROGRAVITY EXPERIMENTS 
+The present experiments involve ethane reacting with oxygen/nitrogen mixtures with oxygen 
+mole fractions of 0.21, 0.3, 0.5 and 1.  The flames were attached to a round stainless-steel burner 
+with an inside diameter of 5.5 mm and a knife-edge tip.  The burner tube was straight and 
+unobstructed for a length of 25 cm upstream of its tip.  The ambient gas was quiescent at 0.98 
+bar and 298 K and was contained in a cylindrical windowed pressure vessel. 
+The earth-gravity tests were conducted with the burner gas injecting vertically upward.  The 
+microgravity tests were performed in the NASA Glenn 2.2-second drop tower.  Details of the rig 
+were reported in Sunderland et al. [10]. The flames were imaged using a color CCD camera with 
+a 25 mm manual-iris lens, recorded on analog color video and analyzed subsequently. 
+The lengths and widths of the microgravity flames were measured from the video recordings.  
+Where blue contours were not obscured by soot, flame sheet lengths were measured from the 
+burner tip to the peak of blue intensity.  Where contours were obscured, flame luminosity lengths 
+were measured from the burner tip to the end of the yellow region.  Flame sheet widths were not 
+obscured by soot for any flame and were defined as the width of the contour of peak blue 
+intensity at its widest.  Repeatability of the flame length and width measurements was ±5%. 
+Four oxidizer compositions each for normal and inverse flames in earth gravity and 
+microgravity i.e., a total of 16 flames, were studied.  The burner gas velocity for the inverse 
+flames was held constant at 866 mm/s.  The ethane flowrates for the normal flames were chosen 
+to match the heat release rates of the corresponding inverse flames, such rates being determined 
+using a lower heating value of ethane of 47 KJ/g.  This choice of flowrates yielded a relatively 
+small variation in flame sheet length for all flames.  The present Reynolds numbers confirm that 
+the discharge conditions were laminar. 
+FLAME SHAPE PREDICTIONS – APPROACH 
+Descriptions of the different models used in the present study are described in Sunderland et 
+al. [10]. One of the models used, the Roper model following Roper [11] and its results are 
+described in better detail here and in Sunderland et al. [10]. A Matlab code was developed to 
+predict the flame shape using the governing equation for the conserved scalar, C which is a non-
+dimensionalized mixture fraction. Romberg integration and Newton-Raphson iterative methods 
+were used to solve for the flame shape for a given Cst which defined the flame sheet. A uniform 
+velocity profile of magnitude equal to the burner exit velocity is assumed at all axial locations. 
+The resulting flame shape was obtained in terms of r and z coordinates. A plot of the flame shape 
+curve was obtained in Matlab. 
+The flame images from the experimental results in JPG format and the flame shape curve 
+predicted by the Roper model from Matlab were copied into AutoCAD. The CCD image used 
+square pixels. The Matlab-generated curve was spline-fitted in AutoCAD after magnification to 
+preserve the shape. The scales of a ruler image from the flame image and the scale of the flame 
+shape curves were matched in AutoCAD.  
+RECENT RESULTS 
+Only the most recent results are shown here. Other results have been reported in Sunderland 
+et al. [10, 12]. Figures 1 (a) and 1(b) show still color images of eight microgravity normal and 
+inverse flames respectively. The Roper model predictions are shown overlayed on the images 
+and show excellent agreement with the experimental flame shapes. The shift in the prediction for 
+NASA/CP—2003-212376/REV1
+378
+
+<<<PAGE 3>>>
+the first two normal flames in figure 1(a) is due to the neglect of axial diffusion effects which 
+become predominant in these flames. In these images soot is identified by white, yellow, or 
+orange coloration, and stoichiometric flame sheets are identified by blue emissions. 
+In general, the earth-gravity flames were reported earlier as much narrower than their 
+microgravity counterparts owing to buoyantly induced entrainment [10]. The normal flames have 
+undiluted C2H6 flowing from the burner. With the exception of microgravity normal flame 21, 
+which is blue, all these flames contain soot, which first appears inside the flame sheet near the 
+burner. Increasing oxidizer concentration yields brighter flames, as revealed by the images and 
+their relative exposures. The normal microgravity flames were seen to increase in length and 
+width and to decrease in brightness throughout the 2.2 s tests. Large soot aggregates, on the 
+order of 1 mm, are seen being emitted from microgravity flames 30 and 50. 
+Figure 1(b) shows color images of the present inverse flames in microgravity. All these 
+flames contain soot, which forms and resides on the fuel side of the flame sheet and which is 
+emitted into the ambient ethane gas. Increasing oxidizer concentration yields brighter flames, as 
+revealed by the images and their relative exposures. Unusual variations in blue intensity in the 
+inverse flames, also noted in Hwang and Gore [8], complicate the precise identification of the 
+stoichiometric contours of these flames.  
+The present microgravity inverse flames have annular soot layers which start near the burner 
+tip, expand with axial distance until just below the stoichiometric flame tip, and contract above 
+this. Most of the soot formation in these flames occurs on the rich side of the flame near the 
+stoichiometric flame sheet. The newly-formed soot is then driven radially outward by 
+thermophoresis and volumetric expansion caused by heat release overcoming the inward flow 
+caused by the action of viscosity and resulting in a soot annulus. The contraction of the annulus 
+above the flame is attributed to radial inflow in a region with significantly lower thermophoresis 
+and volumetric expansion. Finally, in figure 1(b), the agreement with the Roper prediction is 
+seen to be excellent in these flames. The area near the burner tip is not shown due to the 
+invalidity of the far-field assumption. 
+Figure 2 shows the quantitative comparisons of inverse flame lengths and widths using the 
+Roper and Spalding models. The inverse diffusion flame widths are predicted better by the Roper 
+model. More work is needed to understand the models and how they work for the different cases. 
+A detailed computational model is planned as part of future work. 
+CONCLUSIONS 
+Ethane fueled laminar gas-jet diffusion flames were observed, emphasizing the effects of 
+oxygen enhancement, gravity, and inverse burning on flame appearance and sooting behavior. 
+The major findings were: 
+1. Oxygen-enhanced conditions caused increases in soot production, soot emission, and 
+luminosity for both normal and inverse flames. This attests to the increased fire hazards 
+associated with oxygen-enhanced combustion. 
+2. Microgravity flame shape predictions with Roper and Spalding models were considered. The 
+shapes captured by the Roper model closely agree with the experimental photos. However, a 
+proper evaluation can be accomplished only by additional measurements such as peak 
+temperature and location of the stoichiometric mixture fraction contours and a more detailed 
+computational model. 
+NASA/CP—2003-212376/REV1
+379
+
+<<<PAGE 4>>>
+Inverse Flame Lengths
+XO2
+L, mm
+Measured
+Roper
+Spalding
+0 
+10 
+20 
+30 
+0 
+0.5
+1.0
+Inverse Flame Widths
+XO2
+w, mm
+Measured
+Roper
+Spalding
+0
+10 
+20
+0
+0.5 
+1.0 
+ACKNOWLEDGEMENT 
+This work was supported by NASA’s Office of Biological and Physical Processes under the 
+management of Merrill King. Alisha Vachhani assisted with the microgravity experiments. The 
+assistance of David Urban was invaluable. We acknowledge helpful discussions with Linda 
+Blevins in the early part of this work. 
+REFERENCES 
+[1] H.D. Ross, in: H.D. Ross (Ed.), Microgravity Combustion, Academic Press, San Diego, 
+2001, pp. 1-34. 
+[2] S.P. Burke, T.E.W. Schumann, Ind. Eng. Chem. 20 (10) (1928) 998-1004. 
+[3] C G.W. Sidebotham, I. Glassman, Combust. Flame 90 (1992) 269-283. 
+[4] C.R. Kaplan, K. Kailasanath, Combust. Flame 124 (2001) 275-294. 
+[5] L.G. Blevins, R.A. Fletcher, B.A. Benner, E.B. Steel, G.W. Mulholland, Proceedings of the 
+Combustion Institute, Vol. 28, The Combustion Institute, Pittsburgh, 2002, p. 29. 
+[6] L.G. Blevins, N.Y.C. Yang, M.A. Mikofski, G.W. Mulholland and R.W. Davis, AIAA 41st 
+Aerospace Sciences Meeting and Exhibit, Reno, January 2003. 
+[7] P.B. Sunderland, R.L. Axelbaum, D.L. Urban, B.H. Chao, S. Liu, Combust. Flame, 132 
+(2003) 25-33. 
+[8] S.S. Hwang, J.P. Gore, KSME Intl. J. 16 (9) (2002) 1156-1165. 
+[9] S.S. Hwang, J.P. Gore, Proc. Inst. Mech. Eng. A - J. Power Energy, 216 (2002) 379-386. 
+[10] P.B. Sunderland, S.S. Krishnan, and J.P. Gore, AIAA 41st Aerospace Sciences Meeting and 
+Exhibit, Reno, January 2003. 
+[11] F.G. Roper, Combust. Flame 29 (1977) 219-226. 
+[12] P.B. Sunderland, S.S. Krishnan, and J.P. Gore, Combust. Flame, submitted (2003). 
+Figure 1. Comparisons between Roper model predictions and microgravity experimental 
+results – (a) Normal and (b) Inverse Diffusion Flames (ethane with 21, 30, 50 and  100 % 
+oxygen) (NOTE: Figure 1(b) is not to the same scale as Figure 1(a)). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 Inverse Flame length and Width comparisons with model predictions. 
+NASA/CP—2003-212376/REV1
+380

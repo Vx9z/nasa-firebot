@@ -1,0 +1,857 @@
+<<<PAGE 1>>>
+2015 NASA - JAXA M&P TIM
+Vanessa Buchanan
+Emily Henry
+Susana Harper
+Saffire Offgas Testing Strategy
+
+<<<PAGE 2>>>
+2015 NASA - JAXA M&P TIM
+Saffire (Spacecraft Fire Experiment)
+• Designed to conduct a large-scale low 
+gravity fire safety experiment 
+– Experiment will be located on Orbital Science 
+Corporations’ Cygnus re-supply vehicle after it 
+un-berths from the ISS and prior to de-orbit.
+• There are 3 Saffire units
+– Identical hardware except for sample card
+– Saffire-I and Saffire-III sample size and 
+material will be identical.
+– Saffire-II will contain 9 separate samples of 
+various materials on one card.
+Source: SFSDP-PLN-208 by R. Tornabene, GRC
+
+<<<PAGE 3>>>
+2015 NASA - JAXA M&P TIM
+Test Plan
+• Schedule was critical, so a test plan was developed to 
+expedite testing, with minimal number of tests, to give results 
+for all three units.
+• Offgas Tests:
+1.
+Entire Saffire-III unit (Flight), with sample material and sample 
+card inside, but without Zotek foam (T-value known).
+2.
+Saffire-II representative samples (9 materials) tested as 1 
+component (non-flight).
+3.
+Retest of entire Saffire-III unit if initial test fails.  Initial test (#1) 
+will be considered a bakeout.
+4.
+Retest of Saffire-II representative samples if initial test fails.  
+Initial test (#2) will be considered a bakeout.
+5.
+Representative material for Saffire-I and Saffire-III, if Saffire-II 
+fails.
+Source: SFSDP-PLN-208 by R. Tornabene, GRC
+
+<<<PAGE 4>>>
+2015 NASA - JAXA M&P TIM
+T-Value Calculation by Unit
+• The T-Value for each individual Saffire unit will 
+be calculated by adding or subtracting the T-Value 
+of the individual offgas tests from the test plan.
+Source: SFSDP-PLN-208 by R. Tornabene, GRC 
+Offgas Test T-Value
+Saffire-I
+Saffire-II
+Saffire-III
+Saffire-III Flight Unit
+Added
+Added
+Added
+Saffire-II Materials
+N/A
+Added
+N/A
+Saffire-I/III Material
+N/A
+Subtracted
+(if necessary)
+N/A
+Zotek Foam 
+(previously tested)
+Added
+Added
+Added
+
+<<<PAGE 5>>>
+2015 NASA - JAXA M&P TIM
+Saffire Sample Cards
+Source: SFSDP-PLN-208 by R. Tornabene, GRC 
+Saffire I and III Internal Configuration 
+with Sample Card
+Saffire II Sample Card
+
+<<<PAGE 6>>>
+2015 NASA - JAXA M&P TIM
+Saffire-III Flight Unit Test
+• Largest chamber at WSTF was used to accommodate the unit’s size 
+and weight (critical lift).
+• Zotek foam (for protection during testing) and grounding strap (unit 
+is ESD sensitive) were required to be inside the offgas chamber. 
+–
+Zotek foam piece and grounding strap were baked at 120 °F for 4 days prior 
+to Saffire-III unit test to reduce their effect on the Saffire-III toxic rating.
+–
+Zotek foam piece and grounding strap would be offgas tested afterward, if 
+needed to reduce toxic rating (was not required).
+
+<<<PAGE 7>>>
+2015 NASA - JAXA M&P TIM
+Saffire-II Materials Test
+• Standard Test 7 (non-flight)
+• Samples were sent earlier than the Saffire-III unit
+–
+WSTF was able to complete the interpretation and give the preliminary 
+results to the customers while they were onsite for the Saffire-III test.
+
+<<<PAGE 8>>>
+2015 NASA - JAXA M&P TIM
+Test Results Summary
+Test Plan Offgas Tests:
+1.
+Entire Saffire-III unit (Flight), with sample material and 
+sample card inside, but without Zotek foam (T-value known).  
+Test successful, T-Value result acceptable.  No retest required.
+2.
+Saffire-II representative samples (9 materials) tested as 1 
+component (non-flight). Test successful, T-Value result 
+acceptable.  No retest required.
+3.
+Retest of entire Saffire-III unit if initial test fails.  Initial test 
+(#1) will be considered a bakeout. NOT REQUIRED
+4.
+Retest of Saffire-II representative samples if initial test fails.  
+Initial test (#2) will be considered a bakeout. NOT 
+REQUIRED
+5.
+Representative material for Saffire-I and Saffire-III, if Saffire-
+II fails. NOT REQUIRED
+Source: SFSDP-PLN-208 by R. Tornabene, GRC
+
+<<<PAGE 9>>>
+2015 NASA - JAXA M&P TIM
+Vanessa Buchanan
+Dion Mast
+Emily Henry
+Susana Harper
+International Offgas
+Round Robin 
+Status & Results
+
+<<<PAGE 10>>>
+2015 NASA - JAXA M&P TIM
+RR Design Goals
+• Examine Laboratory GS Analytical 
+Performance and Repeatability
+– Gas Standards B & D
+• Examine Laboratory Calibration Effects
+– Gas Standard A
+• Examine Laboratories Identification and 
+Quantification Performance
+– Material
+• Examine Aging Effects and Variation
+– Return of all materials & GS to WSTF
+
+<<<PAGE 11>>>
+2015 NASA - JAXA M&P TIM
+GS-A, B and D Results
+Component Name Conc. (ppmv)
+Lab A
+Avg Conc.
+(ppmv)
+RPD
+Lab B
+Avg Conc.
+(ppmv)
+RPD
+Lab C
+Avg Conc.
+(ppmv)
+RPD
+Lab D
+Avg Conc.
+(ppmv)
+RPD
+Vinyl Chloride
+10.3
+10.88
+5.67
+10.2
+0.97
+9.79
+4.98
+Acetonitrile
+12.1
+11.93
+1.44
+10.2
+15.70
+12.39
+2.37
+Furan
+10.2
+6.87
+32.60
+6.95
+31.86
+8.11
+20.52
+Benzene
+4.1
+3.93
+4.09
+3.75
+8.46
+4.21
+2.68
+Formaldehyde
+0.98-1.20
+0.823
+31.45
+0.538
+48.30
+0.56
+49.58
+1.00
+2.04
+Component Name Conc. (ppmv)
+Lab A
+Avg Conc.
+(ppmv)
+RPD
+Lab B
+Avg Conc.
+(ppmv)
+RPD
+Lab C
+Avg Conc.
+(ppmv)
+RPD
+Lab D
+Avg Conc.
+(ppmv)
+RPD
+Vinyl Chloride
+10.3
+10.00
+2.93
+10.5
+1.94
+10.71
+4.01
+10.47
+1.62
+Acetonitrile
+12.1
+10.73
+11.36
+11.5
+4.68
+13.34
+10.22
+11.57
+4.41
+Furan
+10.2
+7.00
+31.40
+7.30
+28.40
+7.60
+25.46
+7.43
+27.12
+Benzene
+4.1
+3.94
+3.86
+3.95
+3.74
+4.09
+0.16
+3.97
+3.25
+GS-B and GS-D Results with In-House Calibration Methods
+GS-B Results with GS-A Calibration Standard
+
+<<<PAGE 12>>>
+2015 NASA - JAXA M&P TIM
+Lab A 
+Material 
+Results
+#1
+#2
+#3
+Component
+µg/g
+µg/g
+µg/g
+Propylene
+0.007173
+0.006024
+0.006314
+Chloromethane
+0.02756
+0.019699
+0.024566
+Acetaldehyde
+0.070653
+0.044302
+0.04441
+Butene
+0.010102
+0.005645
+0.003376
+Methyl alcohol
+4.82885
+4.370322
+4.748874
+Chloroethane
+0.051616
+0.034513
+0.026753
+Ethyl alcohol
+0.037749
+0.034627
+0.044385
+Trace Unidentified Component
+X
+X
+tr
+Acetone
+0.116472
+0.089702
+0.071108
+Propionaldehyde
+0.009598
+0.003467
+0.004939
+1-Pentene
+0.017816
+tr
+X
+Trace Unidentified Component
+tr
+tr
+tr
+Isopropyl alcohol
+0.030323
+0.006707
+0.022955
+t-Butyl alcohol
+0.164376
+0.125258
+0.196955
+1-Chloropropane
+0.062099
+0.012521
+0.046531
+Trace Unidentified Component
+tr
+X
+X
+Metyl vinyl ketone
+0.008498
+0.003745
+0.006763
+Trimethyl silanol
+0.067833
+0.055556
+0.105899
+Butyraldehyde
+0.010206
+0.00193
+0.004685
+2-Methyl-2-propenenitrile
+0.117244
+0.124838
+0.158167
+Methyl ethyl ketone
+0.067735
+0.046458
+0.044226
+1-Hexene
+0.005801
+X
+tr
+2-Methylpropanenitrile
+0.243961
+0.209223
+0.278941
+Ethyl acetate
+0.104559
+0.070919
+0.126082
+1-Chlorobutane
+0.014995
+0.005458
+0.007535
+3-Methyl-2-butanone
+0.027776
+0.015168
+0.022674
+Benzene
+0.007564
+0.0067
+0.005922
+3-Methyl-3-buten-2-one
+0.015542
+tr
+tr
+Unidentfied component
+0.016569
+tr
+tr
+Pentanal
+0.013406
+tr
+0.006185
+Hexamethyldisiloxane
+0.017836
+X
+X
+1-Heptene
+0.004935
+tr
+X
+
+<<<PAGE 13>>>
+2015 NASA - JAXA M&P TIM
+Lab A 
+Material 
+Results
+Continued
+#1
+#2
+#3
+Component
+µg/g
+µg/g
+µg/g
+2,4,4-Trimethyl-1-pentene
+0.019617
+0.00936
+0.010558
+Methyl isobutyl ketone
+0.007423
+0.00641
+tr
+C6 Ketone
+tr
+0.006097
+tr
+1-Chloropentane
+0.010981
+0.012962
+0.013933
+Trace Unidentified Component
+tr
+X
+X
+Toluene
+0.008646
+0.015997
+0.018049
+n-Hexanal
+0.006629
+X
+X
+Trace Unidentified Component
+tr
+X
+X
+Unidentified component
+0.021296
+0.02269
+0.025812
+Trace Unidentified Component
+tr
+tr
+tr
+Hexamethylcyclotrisiloxane
+1.042681
+0.752897
+1.084252
+Trace Unidentified Component 
+X
+tr
+X
+Trace Unidentified Component 
+X
+tr
+tr
+Unidentified component
+X
+0.042777
+0.049318
+Unidentified components
+tr
+0.087823
+0.09745
+C10-C11 Saturated aliphatic hydrocarbons
+0.95761
+1.615928
+1.776793
+Unidentified components
+0.087627
+0.110123
+0.122735
+Octametylcyclotetrasiloxane
+2.216331
+1.790635
+1.596577
+Unidentified component
+0.14151
+0.153845
+0.107149
+C8 Alcohol
+0.384959
+0.379447
+0.33313
+Unidentified component
+tr
+0.087678
+0.087279
+Methyl benzoate
+0.0521
+0.184404
+0.077144
+Unidentified component
+0.15464
+0.184198
+0.262001
+C10 Esters
+0.88047
+1.452459
+1.536928
+Trace Unidentified Component
+X
+tr
+tr
+Trace Unidentified Component
+tr
+tr
+tr
+Trace Unidentified Component
+tr
+tr
+tr
+C11 Esters
+0.536422
+0.791644
+0.693563
+Trace Unidentified Component
+tr
+tr
+tr
+Trace Unidentified Component 
+tr
+tr
+tr
+Formaldehyde
+0.001879
+0.006652
+0.002348
+Carbonyl sulfide
+0.007139
+0.000391
+0.001174
+Carbon disulfide
+0.00238
+0.004461
+0.003469
+Carbon monoxide
+0.07244
+0.097367
+0.037447
+
+<<<PAGE 14>>>
+2015 NASA - JAXA M&P TIM
+Lab B Material Results
+
+<<<PAGE 15>>>
+2015 NASA - JAXA M&P TIM
+Lab B 
+Material 
+Results
+Continued
+
+<<<PAGE 16>>>
+2015 NASA - JAXA M&P TIM
+Lab B 
+Material 
+Results
+Continued
+
+<<<PAGE 17>>>
+2015 NASA - JAXA M&P TIM
+Lab B 
+Material 
+Results
+Continued
+
+<<<PAGE 18>>>
+2015 NASA - JAXA M&P TIM
+Lab B 
+Material 
+Results
+Continued
+
+<<<PAGE 19>>>
+2015 NASA - JAXA M&P TIM
+Lab B 
+Material 
+Results
+Continued
+
+<<<PAGE 20>>>
+2015 NASA - JAXA M&P TIM
+Lab C 
+Material 
+Results
+CHEMICAL CONTAMINANT
+TABLE 1 TABLE 1 TABLE 1
+ug/gm
+ug/gm
+ug/gm
+CALIBRATED COMPOUND
+CARBON MONOXIDE
+TRACE
+TRACE
+TRACE
+FORMALDEHYDE
+ND
+ND
+ND
+CHLOROMETHANE
+0.006
+0.009
+0.010
+METHANOL
+3.579
+4.444
+4.866
+ACETALDEHYDE 
+0.008
+TRACE
+ND
+ETHANOL 
+0.015
+0.015
+0.038
+PROPENAL
+TRACE
+TRACE
+TRACE
+ACETONE 
+0.046
+0.039
+0.041
+PROPANAL
+0.008
+0.008
+0.006
+ISOPROPANOL 
+0.012
+0.015
+0.018
+2-METHYL-2-PROPANOL
+0.283
+0.339
+0.337
+METHYLACETATE
+ND
+0.005
+0.009
+N-PROPANOL
+TRACE
+TRACE
+TRACE
+2-BUTANONE
+0.018
+0.014
+0.013
+ETHYLACETATE
+0.061
+0.089
+0.093
+TOLUENE
+0.025
+0.056
+0.090
+TRIMETHYLSILANOL
+0.025
+0.026
+0.027
+OCTAMETHYLCYCLOTETRASILOXANE
+0.218
+0.282
+0.314
+DECAMETHYLCYCLOPENTASILOXANE
+0.036
+0.035
+0.037
+HEXAMETHYLCYCLOTRISILOXANE 
+0.885
+1.007
+1.189
+NON-CALIBRATED COMPOUND
+UNIDENTIFIED FLUORINATED HYDROCARBON
+0.024
+0.035
+0.039
+PROPENE
+0.014
+0.010
+0.012
+METHOXYTRIMETHYLSILANE
+0.007
+0.024
+0.034
+2-METHYL-2-PROPENENITRILE
+0.082
+0.094
+0.093
+2-METHYLPROPANENITRILE
+0.096
+0.110
+0.103
+C7-ALCOHOL
+0.014
+0.022
+0.025
+C10-ALKANE
+0.008
+0.019
+0.025
+2-ETHYL-1-HEXANOL
+0.032
+0.039
+0.045
+BENZOICACID,METHYLESTER
+0.115
+0.183
+0.215
+C14-ALKANE
+0.017
+0.024
+0.030
+TOTAL C9-ALKANES
+0.012
+0.019
+0.020
+TOTAL C8-ALCOHOLS
+0.444
+0.526
+0.690
+TOTAL C11-ALKANES
+0.138
+0.226
+0.279
+TOTAL C12-ALKANES
+0.269
+0.437
+0.525
+TOTAL C12-ALKENES
+0.236
+0.400
+0.507
+TOTAL C13-ALKANES
+0.113
+0.159
+0.186
+TOTAL C13-ALKENES
+0.351
+0.486
+0.575
+TOTAL C14-ALKENES
+0.297
+0.372
+0.482
+TOTAL
+7.551
+9.626
+11.003
+
+<<<PAGE 21>>>
+2015 NASA - JAXA M&P TIM
+Lab D 
+Material 
+Results
+
+<<<PAGE 22>>>
+2015 NASA - JAXA M&P TIM
+GS-A Shelf Life Results
+Component 
+Name
+Conc. 
+(ppmv)
+10/20/11
+(ppmv)
+RPD
+4/18/12
+(ppmv)
+RPD
+7/11/12
+(ppmv)
+RPD
+10/19/12
+(ppmv)
+RPD
+4/4/13
+(ppmv)
+RPD
+Vinyl Chloride
+10.2
+11.11
+6.31
+11.00
+5.56
+11.51
+9.06
+9.73
+3.24
+10.22
+0.12
+Acetonitrile
+10.4
+11.43
+7.03
+11.63
+8.38
+20.97
+71.86
+11.62
+8.28
+6.83
+24.25
+Furan
+10.4
+10.28
+0.82
+9.09
+8.90
+9.85
+3.76
+9.57
+5.61
+8.80
+10.88
+Benzene
+10.4
+10.43
+0.18
+10.16
+1.62
+11.93
+9.69
+10.01
+2.66
+10.10
+2.02
+• GS-A was analyzed by single analysis each time it was returned 
+to WSTF before sending it back out to the next lab.
+• Acetonitrile was inconsistent by single analysis.  Recommend 
+triplicate analyses for future round robin shelf life studies.

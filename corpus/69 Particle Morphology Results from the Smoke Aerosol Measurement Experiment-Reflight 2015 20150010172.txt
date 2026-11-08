@@ -1,0 +1,787 @@
+<<<PAGE 1>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+49th AIAA Aerospace Sciences Meeting, January 2011 
+1 
+Particle Morphology Results from the Smoke Aerosol 
+Measurement Experiment-Reflight  
+January 12, 2012 
+
+<<<PAGE 2>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+2 
+Particle Morphology Results from the 
+Smoke Aerosol Measurement Experiment-
+Reflight  
+ 
+David Urban, Gary Ruff, Paul Greenberg, Marit Meyer: NASA Glenn 
+Research Center 
+Thomas Cleary, Jiann Yang: National Institute of Standards and 
+Technology 
+George Mulholland: University of Maryland  
+Zeng-guang Yuan, Victoria Bryg: National Center for Space 
+Exploration Research 
+
+<<<PAGE 3>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+3 
+Smoke Detection:  
+Destiny Smoke Detection Simulation-25% Soot 
+effect of gravity 
+Low-gravity 
+Normal-gravity 
+
+<<<PAGE 4>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+4 
+Background: Spacecraft Fire Detection 
+STS Detector:  sensitive < 1 micron 
+•dual-chamber ionization with inertial separator 
+which rejects particles larger than 1-2 microns. 
+•fairly large power consumption (9 Watts) 
+•Installed in avionics air returns  
+•Developed in the late 70’s when Ionization detectors 
+were prevalent 
+•Decades of service with very few false alarms and 
+no alarms.  
+ISS detector: sensitive > 0.5 micron 
+•2-pass IR laser-diode forward-scattering detector (30 
+degrees) minimum reported sensitivity is 0.3 μm.  
+•Low  power (1.5 W) 
+•Installed in air ducts and in cabin area (with light shroud) 
+•Developed in the 90’s and took advantage of the 
+availability of stable diode light sources.    
+•Years of continuous ISS service with some false alarms 
+and no alarms. 
+
+<<<PAGE 5>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+5 
+Background: Types of Smoke 
+“Smoke” encompasses several types of particulate: 
+• Condensed steam/vapor 
+• Ash 
+• Soot 
+• Recondensed polymer solids 
+• Recondensed polymer liquids 
+ 
+ 
+
+<<<PAGE 6>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+6 
+Log-Normal Distribution 
+Log-normal distribution σg = 
+1.6, Dg= 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+g
+g
+g
+t
+N
+D
+D
+D
+N
+D
+f
+
+
+
+2
+2
+2
+/
+1
+ln
+2
+ln
+ln
+exp
+ln
+)
+2
+(
+)
+(
+Number is dominated by the smaller particles 
+Mass is dominated by the larger particles (tail) 
+
+<<<PAGE 7>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+7 
+Zeroth Moment: 
+TSI PTrak™ 
+First Moment: 
+First Alert™ 
+Smoke Detector 
+Third Moment: 
+TSI Dust Trak™ 
+SAME Experimental Diagnostic Measurements 
+All measure moments of the particle size distribution 
+
+
+dD
+D
+f
+D
+M
+N
+i
+i
+)
+(
+
+<<<PAGE 8>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+8 
+SAME Sample Carousel 
+ 
+Sample Materials: 
+ 
+Silicone 
+Teflon 
+Kapton 
+LampWick 
+Pyrell 
+DBP 
+ 
+
+<<<PAGE 9>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+9 
+Aging 
+Chamber 
+Commercial 
+Diagnostics 
+Sample 
+Diluter 
+P-Trak 
+Enclosure 
+Thermal 
+Precipitator 
+Fluids 
+Control 
+Unit 
+Data 
+Acquisition and 
+Control Unit 
+Sample 
+Carousel 
+Experiment 
+Support 
+Plate 
+Hose 
+Bundle 
+SAME in MSG (mockup) 
+
+<<<PAGE 10>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+10 
+SAME Particle Capture 
+Handle for quick  
+installation and 
+removal 
+X-valve 
+solenoid bank 
+Vacuum 
+Connection 
+Cover 
+Electrical 
+Connection 
+Hot-wire 
+Leads 
+Stereolithography 
+manifold 
+
+<<<PAGE 11>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+11 
+TEM Results 
+Overview image showing deposition boundary 
+ 
+ 
+
+<<<PAGE 12>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+12 
+SAME Hardware on orbit 
+
+<<<PAGE 13>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+13 
+SAME Raw Data 
+Silicone Run 24 GMT 267
+0
+1
+2
+3
+4
+5
+6
+7
+75
+125
+175
+225
+275
+325
+375
+0
+10
+20
+30
+40
+50
+60
+70
+80
+ISSDetectorScatterMeasurement(Volts)
+STSDetectorMeasurement(Volts)
+IonDetectorBMeasurement(Volts)
+PTrakMeasurement(PtPerCC)/1000 (right)
+DustTrakAMeasurement(MgPerM3) (right)
+DustTrakBMeasurement(MgPerM3) (right)
+Teflon Test 25 GMT 268
+0
+1
+2
+3
+4
+5
+6
+7
+73975
+74025
+74075
+74125
+74175
+74225
+74275
+Time (Seconds)
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+80
+ISSDetectorScatterMeasurement(Volts)
+STSDetectorMeasurement(Volts)
+IonDetectorBMeasurement(Volts)
+PTrakMeasurement(PtPerCC/1000) (right)
+DustTrakAMeasurement(MgPerM3) (right)
+DustTrakBMeasurement(MgPerM3) (right)
+Silicone Rubber: 
+Note difference in Dust Traks 
+indicating large particles 
+Teflon: 
+Note similarity in Dust Traks 
+indicating smaller particles 
+Two Dust Traks were used one with a 10 
+micron cut off and one with a 1 micron cutoff.  
+The difference between the two gives an 
+indication of the particle size distribution. 
+
+<<<PAGE 14>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+14 
+SAME Raw Data 
+Silicone Run 24 GMT 267
+0
+1
+2
+3
+4
+5
+6
+7
+75
+125
+175
+225
+275
+325
+375
+0
+10
+20
+30
+40
+50
+60
+70
+80
+ISSDetectorScatterMeasurement(Volts)
+STSDetectorMeasurement(Volts)
+IonDetectorBMeasurement(Volts)
+PTrakMeasurement(PtPerCC)/1000 (right)
+DustTrakAMeasurement(MgPerM3) (right)
+DustTrakBMeasurement(MgPerM3) (right)
+Teflon Test 25 GMT 268
+0
+1
+2
+3
+4
+5
+6
+7
+73975
+74025
+74075
+74125
+74175
+74225
+74275
+Time (Seconds)
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+80
+ISSDetectorScatterMeasurement(Volts)
+STSDetectorMeasurement(Volts)
+IonDetectorBMeasurement(Volts)
+PTrakMeasurement(PtPerCC/1000) (right)
+DustTrakAMeasurement(MgPerM3) (right)
+DustTrakBMeasurement(MgPerM3) (right)
+Silicone Rubber: 
+Note strong signal on both smoke 
+detectors 
+Teflon: 
+Note weak scattering (ISS) detector 
+signal but ionization (STS) is still 
+strong 
+
+<<<PAGE 15>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+15 
+TEM Results 
+Baseline Temperature Pyrell  (Run 74) 
+ 
+ 
+5 microns 
+2 microns 
+
+<<<PAGE 16>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+16 
+TEM Results 
+High Temperature Pyrell (Run 64)  
+5 microns 
+2 microns 
+
+<<<PAGE 17>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+17 
+TEM Results 
+High Temperature Pyrell: 480 second aging run (Run 84) 
+5 microns 
+5 microns 
+Post aging 
+ Pre aging 
+  
+ 
+
+<<<PAGE 18>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+18 
+TEM Results 
+2 microns 
+2 microns 
+ Pre aging 
+  
+ 
+Post aging 
+High Temperature Pyrell: 480 second aging run (Run 84) 
+
+<<<PAGE 19>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+19 
+TEM Results 
+Baseline Temp Teflon  (Run 56) 
+5 microns 
+5 microns 
+
+<<<PAGE 20>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+20 
+1 micron 
+1 micron 
+Baseline Temp Teflon  (Run 56) 
+Note evidence of electron beam interaction in right 
+hand image 
+
+<<<PAGE 21>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+21 
+TEM Results 
+Mid Temp Kapton (Run 75)
+ 
+ 
+High Temperature Kapton 
+(Run 62) 
+ 
+2 microns 
+2 microns 
+
+<<<PAGE 22>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+22 
+2 microns 
+2 microns 
+High Temperature Kapton (Run 62) 
+ 
+
+<<<PAGE 23>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+23 
+TEM Results 
+High Temperature Lamp wick  
+(Run 54) 
+ 
+ 
+5 microns 
+
+<<<PAGE 24>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+24 
+5 microns 
+5 microns 
+High Temperature Lamp wick  
+(Run 54) 
+ 
+ 
+
+<<<PAGE 25>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+25 
+2 microns 
+2 microns 
+High Temperature Lamp wick  
+(Run 54) 
+ 
+ 
+
+<<<PAGE 26>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+26 
+ TEM revealed several particle morphologies 
+ 
+Teflon and Pyrell:  Aggregates 
+ 
+Teflon aggregates: numerous primaries of same  
+ 
+ 
+dimension 
+ 
+Pyrell Aggregates: Primaries widely distributed in size 
+ 
+Kapton: single particles 
+ 
+Low temperature: produced very small and low TEM  
+ 
+ 
+density particles   
+ 
+High temperature: TEM density increased 
+ 
+Silicone:  No Tem visible particles 
+ 
+Lamp wick: Single particles, typically large 
+ 
+Aging showed a distinct elimination of the smallest particles 
+ 
+ 
+TEM Results 
+
+<<<PAGE 27>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+27 
+SAME-1&R Results 
+Geometric 
+Mean 
+Diam.  
+(nm) 
+Arithmetic 
+Mean Diam. 
+(nm) 
+Diam. of 
+Average 
+Mass (nm) 
+σg 
+ 
+Kapton 
+47 
+62 
+106 
+2.07 
+Kapton aged 
+102 
+121 
+169 
+1.79 
+Lamp wick 
+103 
+142 
+271 
+2.23 
+Lamp wick aged 
+269 
+308 
+401 
+1.67 
+Silicone 
+152 
+221 
+468 
+2.38 
+Silicone aged 
+320 
+400 
+628 
+1.96 
+Teflon 
+93 
+111 
+173 
+2.08 
+Teflon aged 
+80 
+115 
+237 
+2.34 
+Pyrell 
+177 
+227 
+377 
+2.03 
+Pyrell aged 
+348 
+400 
+529 
+1.70 
+
+<<<PAGE 28>>>
+National Aeronautics and Space Administration 
+ 
+        www.nasa.gov 
+28 / 38 
+SAME Aging Results 
+10
+6
+2 10
+6
+3 10
+6
+4 10
+6
+1
+10
+100
+1000
+Comparison of measured and predicted concentration 
+after aging for lampwick and silicone smokes
+N78
+Nth
+N82
+Nth
+N60
+Nth
+N66
+Nth
+Number concentration, cm
+-3
+time, s
+silicone
+lampwick
+Theory: Dashed line, Solid 
+points 
+ 
+Experimental: Solid Line, Open 
+points 
+
+<<<PAGE 29>>>
+National Aeronautics and Space Administration 
+ 
+        www.nasa.gov 
+29 / 38 
+SAME Aging Results 
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+1
+2
+3
+Effect of coagulation on D
+am for Lampwick
+and Silicone - Theory dashed lines 
+Dam(78)
+Damth
+Dam(82)
+Damth
+Dam(60)
+Damth
+Dam(66)
+Dam(th)
+Diamter of Average Mass, m
+N0/N
+Silicone 
+Lampwick
+Theory: Dashed line, Solid 
+points 
+ 
+Experimental: Solid Line, Open 
+points 
+
+<<<PAGE 30>>>
+National Aeronautics and Space Administration 
+ 
+        www.nasa.gov 
+30 / 38 
+SAME Aging Results 
+1.6
+1.7
+1.8
+1.9
+2
+2.1
+2.2
+2.3
+1
+2
+3
+Effect of coagulation on g for lampwick and silcone
+ smoke -  prediction values indicated by dashed lines
+sigma(78)
+sigmath
+sigma(82)
+sigmath
+sigma(60)
+sigmath
+sigma(66)
+sigmath
+geometric standard deviation
+N
+0//N
+lampwick
+blue symbols
+silicone
+red symbols
+Theory: Dashed line, Solid 
+points 
+ 
+Experimental: Solid Line, Open 
+points 
+
+<<<PAGE 31>>>
+National Aeronautics and Space Administration 
+ 
+        www.nasa.gov 
+31 / 38 
+•
+For spacecraft materials, number counts decreased by a 
+factor of 1.7 to 2.7 over 800 seconds. 
+•
+The measured and predicted number decreases agree within 
+about 20 %.  
+•
+The best agreement between experiment and prediction is 
+Davm - agree within 4 %.   
+•
+The decrease in the geometric standard deviation is typically 
+more than a factor of two greater than the predicted change. 
+•
+Aging results are relevant to partially sealed volumes and 
+low air flow  conditions. 
+•
+In all cases, aging resulted in approximately a factor of two 
+decrease in number concentration and a factor of two 
+increase in the number mean diameter with the exception of 
+teflon 
+SAME Aging Results 
+
+<<<PAGE 32>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+32 
+Conclusions 
+• For the conditions tested, the materials emit most 
+of their particulate in the submicron range. 
+• The ISS detector showed a relatively weak signal 
+for some Teflon runs doubtless a result of the 
+particle size. 
+• Particle morphology varies widely across the 
+range of expected sample materials. Dependence 
+on a single angle scattering device will be 
+difficult. 
+• Aging results consistent with theory for number 
+count and Davm but not for σg 
+ 
+
+<<<PAGE 33>>>
+National Aeronautics and Space Administration 
+www.nasa.gov 
+33 
+Implications and Future Work 
+• Dust rejection may be achievable by detecting at 
+the sub-micron level. 
+• Given the effects of aging and the slow mixing 
+seen in spacecraft, it is probably unwise to focus 
+entirely on small particle sizes for fire detection 
+• Size selective smoke detection will improve 
+reliability and false alarm rejection. Either by 
+classifying the particles or by measuring multiple 
+moments. 
+ 
