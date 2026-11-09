@@ -71,6 +71,14 @@ class _EngineViewState extends State<EngineView>
   double _transparencyTarget = 0;
   final KeyAccelerator _accel = KeyAccelerator();
   final FocusNode _focus = FocusNode();
+  // Mobile (touch) support: a hidden field that summons the soft keyboard, and
+  // touch-drag scroll state. `_touch` flips true on the first touch pointer.
+  final FocusNode _mobileFocus = FocusNode();
+  final TextEditingController _mobileCtl = TextEditingController();
+  bool _touch = false;
+  int _scrollDragId = -1;
+  double _scrollDragLastY = 0;
+  double _scrollAccum = 0;
   GraphPhysics? _graphPhysics; // gravity-graph simulation (graph tile)
   int _dragMode = 0; // 0 none · 1 master splitter · 2.. = stack splitter index+2
   int _dragStack = -1; // stack splitter index being dragged
@@ -207,6 +215,8 @@ class _EngineViewState extends State<EngineView>
   void dispose() {
     _ticker.dispose();
     _focus.dispose();
+    _mobileCtl.dispose();
+    _mobileFocus.dispose();
     _shader?.dispose();
     _starfieldImage?.dispose();
     _glassShader?.dispose();
@@ -1381,6 +1391,95 @@ class _EngineViewState extends State<EngineView>
     }
   }
 
+  // ---- Mobile (touch) support --------------------------------------------
+
+  bool _tileTakesText(Tile t) =>
+      t.type == TileType.chat || t.type == TileType.shell;
+
+  String _focusedInputText() {
+    final ft = wm.focusedTile;
+    if (ft == null) return '';
+    if (ft.type == TileType.chat) return ft.input;
+    if (ft.type == TileType.shell) return terminal.input;
+    return '';
+  }
+
+  /// Point the hidden soft-keyboard field at the focused tile's text.
+  void _syncMobileInput() {
+    final ft = wm.focusedTile;
+    if (ft == null || !_tileTakesText(ft)) {
+      _mobileFocus.unfocus();
+      return;
+    }
+    final text = _focusedInputText();
+    _mobileCtl.text = text;
+    _mobileCtl.selection = TextSelection.collapsed(offset: text.length);
+    _mobileFocus.requestFocus();
+  }
+
+  void _onMobileChanged(String v) {
+    final ft = wm.focusedTile;
+    if (ft == null) return;
+    setState(() {
+      if (ft.type == TileType.chat) {
+        ft.input = v;
+      } else if (ft.type == TileType.shell) {
+        terminal.input = v;
+      }
+    });
+  }
+
+  void _onMobileSubmitted(String v) {
+    final ft = wm.focusedTile;
+    if (ft == null) return;
+    if (ft.type == TileType.chat) {
+      final msg = v.trim();
+      setState(() => ft.input = '');
+      _mobileCtl.clear();
+      if (msg.isNotEmpty) _sendChat(ft, msg);
+    } else if (ft.type == TileType.shell) {
+      terminal.input = v;
+      final cmd = terminal.enter();
+      setState(() {
+        if (cmd != null) terminal.history.add('…');
+      });
+      _mobileCtl.text = terminal.input;
+      _mobileCtl.selection =
+          TextSelection.collapsed(offset: terminal.input.length);
+      if (cmd != null) _run(cmd);
+    }
+  }
+
+  /// Which scrollable tile is under `pos` (chat / reading views), else -1.
+  int _hitScrollable(Offset pos) {
+    final rects = wm.layout(_size);
+    for (final e in rects.entries) {
+      if (!e.value.contains(pos)) continue;
+      final t = wm.tiles.firstWhere((x) => x.id == e.key);
+      if (t.type == TileType.chat ||
+          (t.type == TileType.lesson && t.mode == 1) ||
+          (t.type == TileType.investigations && t.mode == 1)) {
+        return t.id;
+      }
+    }
+    return -1;
+  }
+
+  /// Apply whole-line touch-scroll steps (positive = scroll down).
+  void _touchScrollSteps(Tile tile, int steps) {
+    if (steps == 0) return;
+    setState(() {
+      if (tile.type == TileType.chat) {
+        tile.scroll =
+            math.max(0, math.min(tile.scroll - steps, tile.mdLines.length));
+      } else if (tile.type == TileType.lesson ||
+          tile.type == TileType.investigations) {
+        final max = tile.mdLines.length > 1 ? tile.mdLines.length - 1 : 0;
+        tile.scroll = math.max(0, math.min(tile.scroll + steps, max));
+      }
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     final theme = themeByIndex(widget.themeIndex);
@@ -1519,6 +1618,14 @@ class _EngineViewState extends State<EngineView>
                 wm.focus(e.key);
                 if (tile.type == TileType.chat) _verbHintUntil = _t + 4;
               });
+              // On touch: summon/hide the soft keyboard for text-input tiles.
+              if (_touch) {
+                if (_tileTakesText(tile)) {
+                  _syncMobileInput();
+                } else {
+                  _mobileFocus.unfocus();
+                }
+              }
               break;
             }
           }
@@ -1538,6 +1645,12 @@ class _EngineViewState extends State<EngineView>
           final mode = _hitSplitter(details.localPosition);
           _dragMode = mode;
           _dragStack = -1;
+          _scrollDragId = -1;
+          if (mode == 0 && _touch) {
+            _scrollDragId = _hitScrollable(details.localPosition);
+            _scrollDragLastY = details.localPosition.dy;
+            _scrollAccum = 0;
+          }
           if (mode >= 2) {
             final rects = wm.layout(_size);
             final master = wm.focusedTile ?? wm.tiles.first;
@@ -1596,6 +1709,26 @@ class _EngineViewState extends State<EngineView>
               });
             }
           }
+          if (_scrollDragId >= 0) {
+            Tile? tile;
+            for (final t in wm.tiles) {
+              if (t.id == _scrollDragId) {
+                tile = t;
+                break;
+              }
+            }
+            if (tile != null) {
+              final dy = details.localPosition.dy - _scrollDragLastY;
+              _scrollDragLastY = details.localPosition.dy;
+              _scrollAccum += dy;
+              final cellH = _size.height / 40;
+              final steps = (-_scrollAccum / cellH).truncate();
+              if (steps != 0) {
+                _scrollAccum += steps * cellH;
+                _touchScrollSteps(tile, steps);
+              }
+            }
+          }
         },
         onPanEnd: (_) {
           if (_dragNodeId != null) {
@@ -1609,8 +1742,13 @@ class _EngineViewState extends State<EngineView>
           }
           _dragMode = 0;
           _dragStack = -1;
+          _scrollDragId = -1;
         },
         child: Listener(
+          behavior: HitTestBehavior.translucent,
+          onPointerDown: (e) {
+            if (e.kind == PointerDeviceKind.touch) _touch = true;
+          },
           onPointerSignal: _onPointerSignal,
           child: MouseRegion(
             cursor: SystemMouseCursors.none,
@@ -1666,6 +1804,24 @@ class _EngineViewState extends State<EngineView>
                   ),
                 Positioned.fill(
                   child: CustomPaint(painter: SonarPainter(sonar, _t, theme.color)),
+                ),
+                // Hidden field that summons the soft keyboard on touch devices.
+                Positioned(
+                  left: 0,
+                  top: 0,
+                  width: 1,
+                  height: 1,
+                  child: Opacity(
+                    opacity: 0,
+                    child: TextField(
+                      controller: _mobileCtl,
+                      focusNode: _mobileFocus,
+                      onChanged: _onMobileChanged,
+                      onSubmitted: _onMobileSubmitted,
+                      autocorrect: false,
+                      enableSuggestions: false,
+                    ),
+                  ),
                 ),
               ],
             ),
