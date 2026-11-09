@@ -7,7 +7,7 @@ import sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'scripts'))
 
-from flask import Flask, request, jsonify, render_template, send_from_directory
+from flask import Flask, request, jsonify, send_from_directory
 
 import config
 import rag
@@ -25,7 +25,16 @@ def add_cors(resp):
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return jsonify({
+        'service': 'FireBot RAG API',
+        'status': 'online',
+        'note': 'This is the backend API. The Flutter UI is hosted separately on Vercel.',
+        'endpoints': {
+            'GET /health': 'liveness check',
+            'POST /ask': 'grounded Q&A (JSON body: question, verbosity)',
+            'GET /figures/<file>': 'figure images',
+        },
+    })
 
 
 @app.route('/health')
