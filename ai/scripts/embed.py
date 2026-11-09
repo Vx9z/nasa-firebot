@@ -53,7 +53,7 @@ def _est_tokens(text):
     return max(1, int(len(text.split()) * 1.8))
 
 
-def embed(texts, token_budget=12000, sleep_s=65.0):
+def embed(texts, token_budget=12000, sleep_s=65.0, on_batch=None):
     """Embed texts, batching under the Gemini free-tier token/minute quota.
 
     Gemini free tier allows ~30k embedding tokens per minute. We accumulate
@@ -79,6 +79,8 @@ def embed(texts, token_budget=12000, sleep_s=65.0):
         for e in r.get('embeddings', []):
             out.append(e.get('values', []))
         print(f'    embedded {len(out)}/{len(texts)}')
+        if on_batch:
+            on_batch(out)  # out = cumulative embeddings produced so far this run
         group.clear()
         group_tokens = 0
 

@@ -19,3 +19,4 @@ Thumbs.db
 # Raw literature PDFs — large source files, not used by the RAG pipeline or deploy.
 literature/*.pdf
 Participant FAQs.pdf
+ai/vectors/embeddings.partial.npy

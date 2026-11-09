@@ -48,12 +48,33 @@ def ingest():
 
     os.makedirs(config.VECTORS_DIR, exist_ok=True)
     texts = [c['text'] for c in chunks]
-    print(f'  embedding {len(texts)} chunks with Gemini (rate-limited)...')
-    all_embs = embed.embed(texts)
+    total = len(texts)
+
+    # Checkpoint: resume a partially-completed ingest instead of restarting.
+    partial_path = os.path.join(config.VECTORS_DIR, 'embeddings.partial.npy')
+    done = []
+    if os.path.exists(partial_path):
+        try:
+            done = np.load(partial_path).tolist()
+            print(f'  resuming: {len(done)}/{total} chunks already embedded')
+        except Exception:
+            done = []
+
+    remaining = texts[len(done):]
+
+    def checkpoint(embs):
+        # embs = cumulative embeddings produced so far in THIS run.
+        np.save(partial_path, np.asarray(done + embs, dtype='float32'))
+
+    print(f'  embedding {len(remaining)} chunks with Gemini (rate-limited)...')
+    new_embs = embed.embed(remaining, on_batch=checkpoint)
+    all_embs = done + new_embs
 
     mat = np.asarray(all_embs, dtype='float32')
     np.save(VEC_PATH, mat)
     json.dump(chunks, open(CHUNKS_PATH, 'w', encoding='utf-8'))
+    if os.path.exists(partial_path):
+        os.remove(partial_path)
     print(f'  saved {mat.shape} embeddings -> {VEC_PATH}')
 
     mf = manifest.build_manifest()
