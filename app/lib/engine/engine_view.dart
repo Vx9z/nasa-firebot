@@ -1394,14 +1394,25 @@ class _EngineViewState extends State<EngineView>
   // ---- Mobile (touch) support --------------------------------------------
 
   bool _tileTakesText(Tile t) =>
-      t.type == TileType.chat || t.type == TileType.shell;
+      t.type == TileType.chat ||
+      t.type == TileType.shell ||
+      (t.type == TileType.note && t.mode == 1) ||
+      (t.type == TileType.notes && t.mode == 1);
 
   String _focusedInputText() {
     final ft = wm.focusedTile;
     if (ft == null) return '';
     if (ft.type == TileType.chat) return ft.input;
     if (ft.type == TileType.shell) return terminal.input;
+    if (ft.type == TileType.note && ft.mode == 1) return ft.input;
+    if (ft.type == TileType.notes && ft.mode == 1) return ft.input;
     return '';
+  }
+
+  /// Whether the soft-keyboard field should be multi-line (note editing).
+  bool get _mobileMultiline {
+    final ft = wm.focusedTile;
+    return ft != null && ft.type == TileType.note && ft.mode == 1;
   }
 
   /// Point the hidden soft-keyboard field at the focused tile's text.
@@ -1425,6 +1436,11 @@ class _EngineViewState extends State<EngineView>
         ft.input = v;
       } else if (ft.type == TileType.shell) {
         terminal.input = v;
+      } else if (ft.type == TileType.note && ft.mode == 1) {
+        ft.input = v;
+        ft.cursor = v.length;
+      } else if (ft.type == TileType.notes && ft.mode == 1) {
+        ft.input = v;
       }
     });
   }
@@ -1447,6 +1463,19 @@ class _EngineViewState extends State<EngineView>
       _mobileCtl.selection =
           TextSelection.collapsed(offset: terminal.input.length);
       if (cmd != null) _run(cmd);
+    } else if (ft.type == TileType.notes && ft.mode == 1) {
+      // Create a note from the submitted title.
+      final title = v.trim();
+      setState(() {
+        ft.input = '';
+        ft.mode = 0;
+      });
+      _mobileCtl.clear();
+      if (title.isNotEmpty) {
+        _createNote(title);
+        _refreshNotesList(ft);
+      }
+      _syncMobileInput();
     }
   }
 
@@ -1503,6 +1532,18 @@ class _EngineViewState extends State<EngineView>
         onTapUp: (details) {
           final pos = details.localPosition;
           final rects = wm.layout(_size);
+          if (rects.isEmpty) {
+            // No tiles open: a tap summons the terminal (and, on touch, the
+            // soft keyboard) — the touch equivalent of the desktop `\\` key.
+            if (_touch) {
+              setState(() {
+                wm.spawnTerminal();
+                _termHintUntil = 0;
+              });
+              _syncMobileInput();
+            }
+            return;
+          }
           for (final e in rects.entries) {
             final rect = e.value;
             if (rect.contains(pos)) {
@@ -1536,6 +1577,37 @@ class _EngineViewState extends State<EngineView>
                       _transparencyTarget = _transparencyAt(rect, pos);
                       _selectorUntil = _t + 5;
                     });
+                    break;
+                  }
+                }
+              }
+              // Lesson browser: tap a module to expand it, a lesson to open it.
+              if (tile.type == TileType.lesson && tile.mode == 0) {
+                final entries = _lessonEntries(tile);
+                if (entries.isNotEmpty) {
+                  final contentLines =
+                      ((rect.height - 3.5 * cellH) / cellH).floor();
+                  var start = tile.selection - (contentLines ~/ 2);
+                  if (start < 0) start = 0;
+                  if (start + contentLines > entries.length) {
+                    start = entries.length - contentLines;
+                  }
+                  if (start < 0) start = 0;
+                  final lineIdx =
+                      ((pos.dy - rect.top - 3.5 * cellH) / cellH).floor();
+                  final idx = start + lineIdx;
+                  if (idx >= 0 && idx < entries.length) {
+                    final entry = entries[idx];
+                    if (entry.isModule) {
+                      setState(() {
+                        tile.selection = idx;
+                        tile.expanded.add(entry.id);
+                        _refreshLessonBrowser(tile);
+                      });
+                    } else {
+                      tile.selection = idx;
+                      _openLessonIn(tile, entry.id);
+                    }
                     break;
                   }
                 }
@@ -1611,6 +1683,66 @@ class _EngineViewState extends State<EngineView>
                     _followLink(l.target);
                     return;
                   }
+                }
+              }
+              // Lesson reader: tap the title bar to go back to the browser;
+              // tap the left/right edges for the previous/next lesson.
+              if (tile.type == TileType.lesson && tile.mode == 1) {
+                final local = pos - rect.topLeft;
+                if (local.dy < cellH * 2) {
+                  setState(() {
+                    tile.mode = 0;
+                    tile.scroll = 0;
+                    tile.title = 'LESSONS';
+                    _refreshLessonBrowser(tile);
+                  });
+                  return;
+                }
+                final frac = local.dx / rect.width;
+                if (frac < 0.18) {
+                  _lessonStep(tile, -1);
+                } else if (frac > 0.82) {
+                  _lessonStep(tile, 1);
+                }
+                return;
+              }
+              // Investigation detail / comparison: tap the title bar to go back
+              // to the ranked list.
+              if (tile.type == TileType.investigations &&
+                  (tile.mode == 1 || tile.mode == 3)) {
+                final local = pos - rect.topLeft;
+                if (local.dy < cellH * 2) {
+                  setState(() {
+                    tile.mode = 0;
+                    tile.scroll = 0;
+                    tile.compareIds.clear();
+                    tile.title = 'INVESTIGATIONS';
+                    _refreshInvestigationsList(tile);
+                  });
+                  return;
+                }
+              }
+              // Note tile: tap the body to edit it; while editing, tap the
+              // title bar to save and return to view (links handled above).
+              if (tile.type == TileType.note) {
+                final local = pos - rect.topLeft;
+                final inHeader = local.dy < cellH * 2;
+                if (tile.mode == 1) {
+                  if (inHeader) {
+                    _saveNote(tile);
+                    setState(() => tile.mode = 0);
+                    if (_touch) _mobileFocus.unfocus();
+                  }
+                  return;
+                }
+                if (!inHeader) {
+                  setState(() {
+                    tile.input = tile.raw;
+                    tile.cursor = tile.input.length;
+                    tile.mode = 1;
+                  });
+                  if (_touch) _syncMobileInput();
+                  return;
                 }
               }
               // Fallback: focus.
@@ -1820,6 +1952,13 @@ class _EngineViewState extends State<EngineView>
                       onSubmitted: _onMobileSubmitted,
                       autocorrect: false,
                       enableSuggestions: false,
+                      maxLines: _mobileMultiline ? null : 1,
+                      keyboardType: _mobileMultiline
+                          ? TextInputType.multiline
+                          : TextInputType.text,
+                      textInputAction: _mobileMultiline
+                          ? TextInputAction.newline
+                          : TextInputAction.done,
                     ),
                   ),
                 ),

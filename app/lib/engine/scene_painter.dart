@@ -266,7 +266,7 @@ class TilePainter extends CustomPainter {
         }
       } else {
         // Browse mode: hint + list with a selection cursor.
-        _line(canvas, '↑↓ select · enter open · N new', pad, ty, _style(cellH, _dim));
+        _line(canvas, '↑↓ select · enter/tap open · N new', pad, ty, _style(cellH, _dim));
         ty += cellH;
         final contentLines = ((size.height - ty) / cellH).floor();
         if (contentLines > 0 && tile.lines.isNotEmpty) {
@@ -291,13 +291,13 @@ class TilePainter extends CustomPainter {
     } else if (tile.type == TileType.lesson) {
       if (tile.mode == 1) {
         // Reading a lesson: hint + scrollable rich markdown.
-        _line(canvas, '↑↓ scroll · ←/→ prev/next · esc back', pad, ty,
+        _line(canvas, '↑↓/drag scroll · ←/→ prev/next · esc/tap-title back', pad, ty,
             _style(cellH, _dim));
         ty += cellH;
         _paintMarkdown(canvas, size, pad, ty, cellH, maxChars, skip: tile.scroll);
       } else {
         // Browse the curriculum: hint + hierarchical list with a cursor.
-        _line(canvas, '↑↓ select · → expand · enter open · ← collapse', pad, ty,
+        _line(canvas, '↑↓ select · →/tap expand · enter/tap open', pad, ty,
             _style(cellH, _dim));
         ty += cellH;
         final contentLines = ((size.height - ty) / cellH).floor();
@@ -341,8 +341,8 @@ class TilePainter extends CustomPainter {
       // Note mode hint line.
       if (isNote) {
         final hint = noteEditing
-            ? 'EDIT  F2 view (auto-save)'
-            : 'VIEW  F2 edit';
+            ? 'EDIT  tap title save · F2 view'
+            : 'VIEW  tap edit · F2 edit';
         _line(canvas, hint, pad, ty, _style(cellH, _dim));
         ty += cellH;
       }
@@ -695,8 +695,8 @@ class TilePainter extends CustomPainter {
   ) {
     if (tile.mode == 1 || tile.mode == 3) {
       final hint = tile.mode == 1
-          ? '↑↓ scroll · ←/→ prev/next · esc back'
-          : '↑↓ scroll · esc back';
+          ? '↑↓/drag scroll · ←/→ prev/next · esc/tap-title back'
+          : '↑↓/drag scroll · esc/tap-title back';
       _line(canvas, hint, pad, ty, _style(cellH, _dim));
       ty += cellH;
       _paintMarkdown(canvas, size, pad, ty, cellH, maxChars, skip: tile.scroll);

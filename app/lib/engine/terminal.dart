@@ -1,7 +1,7 @@
 /// The startup script, paced by `(pause N)` markers (N = milliseconds).
 const String startupScript = '> INITIALIZING...\n'
     '(pause 350)\n'
-    '> RENDER ENGINE v0.1\n'
+    '> CRT MONITOR v0.1\n'
     '> [OK] STARFIELD\n'
     '(pause 200)\n'
     '> [OK] CRT FILTERS\n'
@@ -9,7 +9,7 @@ const String startupScript = '> INITIALIZING...\n'
     '(pause 250)\n'
     '> ALL SYSTEMS NOMINAL\n'
     '(pause 400)\n'
-    '> type /help for commands\n';
+    '> type /help · Ctrl+←/→ cycle tiles\n';
 
 /// Layer 3 — the text interface: a startup script + a free-form multi-line
 /// draft + command history. Enter inserts a newline; a line starting with `/`
