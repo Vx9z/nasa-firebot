@@ -20,3 +20,7 @@ Thumbs.db
 literature/*.pdf
 Participant FAQs.pdf
 ai/vectors/embeddings.partial.npy
+
+# Runtime logs — never commit
+*.log
+*.err
